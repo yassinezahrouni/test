@@ -1,10 +1,60 @@
-import xmltodict
 import requests
+import xmltodict
 from googletrans import Translator
 from datetime import datetime
+from bs4 import BeautifulSoup
 
 # Initialize the Google Translator
 translator = Translator()
+
+def find_top_news_sites():
+    """
+    Search for the top Tunisian news websites using a query.
+    Returns:
+        list: List of top 10 news websites.
+    """
+    query = "top Tunisian news websites"
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"}
+    response = requests.get(f"https://www.google.com/search?q={query}", headers=headers)
+    soup = BeautifulSoup(response.text, "html.parser")
+    
+    # Extract search results
+    sites = []
+    for link in soup.find_all("a", href=True):
+        href = link.get("href")
+        if "http" in href and "google.com" not in href:
+            site = href.split("&")[0].split("=")[-1]
+            if site not in sites:
+                sites.append(site)
+        if len(sites) >= 10:  # Limit to top 10 sites
+            break
+    return sites
+
+def find_rss_feed(website):
+    """
+    Attempt to discover the RSS feed URL of a website.
+    Args:
+        website (str): The website URL.
+    Returns:
+        str: RSS feed URL or None if not found.
+    """
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"}
+    paths = ["/rss", "/feed", "/feeds", "/rss.xml"]
+    
+    # Check common RSS paths
+    for path in paths:
+        rss_url = f"{website.rstrip('/')}{path}"
+        response = requests.get(rss_url, headers=headers)
+        if response.status_code == 200 and "<rss" in response.text.lower():
+            return rss_url
+
+    # Inspect <link> tags for RSS feeds
+    response = requests.get(website, headers=headers)
+    soup = BeautifulSoup(response.text, "html.parser")
+    link_tag = soup.find("link", {"type": "application/rss+xml"})
+    if link_tag and link_tag.get("href"):
+        return link_tag["href"]
+    return None
 
 def getRSS(url: str) -> dict:
     """
@@ -61,27 +111,23 @@ def is_today(pub_date: str) -> bool:
         print(f"Error parsing date: {e}")
         return False
 
-# List of RSS feeds with their sources
-rss_feeds = [
-    {"source": "Babnet", "url": "https://www.babnet.net/feed.php"},
-    {"source": "Mosaique FM", "url": "https://www.mosaiquefm.net/rss"},
-    {"source": "Business News", "url": "https://www.businessnews.com.tn/rss.xml"},
-    {"source": "Webdo", "url": "https://www.webdo.tn/fr/rss"},
-    {"source": "Tunisie Numerique", "url": "https://www.tunisienumerique.com/feed-actualites-tunisie.xml"},
-    {"source": "Kapitalis", "url": "https://kapitalis.com/tunisie/feed/"},
-    {"source": "La presse", "url": "https://lapresse.tn/feed/"},
-    {"source": "Realités", "url": "https://realites.com.tn/fr/feed/"},
-    {"source": "Tunisie focus", "url": "https://www.tunisiefocus.com/feed/"},
-    
-]
+# Automatically find top 10 Tunisian news websites and their RSS feeds
+print("Finding top Tunisian news websites...")
+news_sites = find_top_news_sites()
+rss_feeds = []
 
-# Dictionary to store the count of headlines per source
-news_counts = {feed["source"]: 0 for feed in rss_feeds}
+for site in news_sites:
+    rss_feed = find_rss_feed(site)
+    if rss_feed:
+        rss_feeds.append({"source": site, "url": rss_feed})
+    if len(rss_feeds) >= 10:
+        break
 
 # Fetch and process news from all RSS feeds
 print("Translated News Headlines:")
 print("-" * 50)
 news_counter = 1
+news_counts = {feed["source"]: 0 for feed in rss_feeds}
 
 for feed in rss_feeds:
     source = feed["source"]
