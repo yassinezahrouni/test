@@ -1,62 +1,25 @@
-import requests
+import os
+import json
 import xmltodict
+import requests
 from googletrans import Translator
 from datetime import datetime
 from bs4 import BeautifulSoup
+import logging
+from newspaper import Article  # Optional: Requires newspaper3k
+
+# Configure logging
+logging.basicConfig(
+    filename='news_scraper.log',
+    filemode='a',
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    level=logging.INFO
+)
 
 # Initialize the Google Translator
 translator = Translator()
 
-def find_top_news_sites():
-    """
-    Search for the top Tunisian news websites using a query.
-    Returns:
-        list: List of top 10 news websites.
-    """
-    query = "top Tunisian news websites"
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"}
-    response = requests.get(f"https://www.google.com/search?q={query}", headers=headers)
-    soup = BeautifulSoup(response.text, "html.parser")
-    
-    # Extract search results
-    sites = []
-    for link in soup.find_all("a", href=True):
-        href = link.get("href")
-        if "http" in href and "google.com" not in href:
-            site = href.split("&")[0].split("=")[-1]
-            if site not in sites:
-                sites.append(site)
-        if len(sites) >= 10:  # Limit to top 10 sites
-            break
-    return sites
-
-def find_rss_feed(website):
-    """
-    Attempt to discover the RSS feed URL of a website.
-    Args:
-        website (str): The website URL.
-    Returns:
-        str: RSS feed URL or None if not found.
-    """
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"}
-    paths = ["/rss", "/feed", "/feeds", "/rss.xml"]
-    
-    # Check common RSS paths
-    for path in paths:
-        rss_url = f"{website.rstrip('/')}{path}"
-        response = requests.get(rss_url, headers=headers)
-        if response.status_code == 200 and "<rss" in response.text.lower():
-            return rss_url
-
-    # Inspect <link> tags for RSS feeds
-    response = requests.get(website, headers=headers)
-    soup = BeautifulSoup(response.text, "html.parser")
-    link_tag = soup.find("link", {"type": "application/rss+xml"})
-    if link_tag and link_tag.get("href"):
-        return link_tag["href"]
-    return None
-
-def getRSS(url: str) -> dict:
+def get_rss(url: str) -> dict:
     """
     Fetch the RSS feed and parse it into a dictionary.
     """
@@ -72,6 +35,7 @@ def translate_text(text: str) -> str:
         translated_text = translator.translate(text, src='auto', dest='en').text
         return translated_text
     except Exception as e:
+        logging.error(f"Translation error: {e}")
         return f"Translation Error: {e}"
 
 def parse_date(pub_date: str) -> datetime:
@@ -108,59 +72,180 @@ def is_today(pub_date: str) -> bool:
         today = datetime.now(pub_date_dt.tzinfo).date()
         return pub_date_dt.date() == today
     except Exception as e:
-        print(f"Error parsing date: {e}")
+        logging.error(f"Error parsing date: {e}")
         return False
 
-# Automatically find top 10 Tunisian news websites and their RSS feeds
-print("Finding top Tunisian news websites...")
-news_sites = find_top_news_sites()
-rss_feeds = []
-
-for site in news_sites:
-    rss_feed = find_rss_feed(site)
-    if rss_feed:
-        rss_feeds.append({"source": site, "url": rss_feed})
-    if len(rss_feeds) >= 10:
-        break
-
-# Fetch and process news from all RSS feeds
-print("Translated News Headlines:")
-print("-" * 50)
-news_counter = 1
-news_counts = {feed["source"]: 0 for feed in rss_feeds}
-
-for feed in rss_feeds:
-    source = feed["source"]
-    rss_url = feed["url"]
+def fetch_full_article(url: str) -> str:
+    """
+    Fetch the full article content from the given URL.
+    Args:
+        url (str): The URL of the full article.
+    Returns:
+        str: The full text of the article.
+    """
     try:
-        data = getRSS(rss_url)
-        for item in data['rss']['channel']['item']:
-            pub_date = item.get('pubDate', None)
-            if pub_date and is_today(pub_date):
-                original_title = item['title']
-                description = item.get('description', "No description available")
-                link = item['link']
-                
-                # Translate title to English
-                translated_title = translate_text(original_title)
-                
-                # Display the news with its number and source
-                print(f"{news_counter}. Source: {source}")
-                print(f"Original Title: {original_title}")
-                print(f"Translated Title: {translated_title}")
-                print(f"Description: {description}")
-                print(f"Link: {link}")
-                print("-" * 50)
-                
-                # Increment counters
-                news_counter += 1
-                news_counts[source] += 1
+        # Using newspaper3k for better extraction
+        article = Article(url)
+        article.download()
+        article.parse()
+        return article.text
     except Exception as e:
-        print(f"Error fetching news from {source}: {e}")
+        logging.error(f"Error fetching full article from {url}: {e}")
+        return f"Error fetching full article: {e}"
 
-# Summary of news counts per source
-print("\nSummary of Extracted News:")
-print("-" * 50)
-for source, count in news_counts.items():
-    print(f"Source: {source}, Headlines Extracted: {count}")
-print("-" * 50)
+def load_news_feeds(config_path: str, country: str) -> list:
+    """
+    Load the list of news feeds for the specified country from the configuration file.
+    Args:
+        config_path (str): Path to the JSON configuration file.
+        country (str): The country for which to load news feeds.
+    Returns:
+        list: A list of dictionaries containing 'source' and 'url' keys.
+    """
+    try:
+        with open(config_path, 'r', encoding='utf-8') as f:
+            feeds = json.load(f)
+        return feeds.get(country, [])
+    except Exception as e:
+        logging.error(f"Error loading configuration: {e}")
+        return []
+
+def validate_json(file_path: str):
+    """
+    Validate the JSON file to ensure it is properly formatted.
+    """
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            json.load(f)
+        logging.info(f"JSON file '{file_path}' is valid.")
+    except json.JSONDecodeError as e:
+        logging.error(f"Invalid JSON format in file '{file_path}': {e}")
+
+def main(country: str):
+    # Path to the configuration file
+    config_path = 'news_feeds.json'
+    
+    # Load news feeds for the specified country
+    rss_feeds = load_news_feeds(config_path, country)
+    
+    if not rss_feeds:
+        logging.warning(f"No RSS feeds found for country: {country}")
+        print(f"No RSS feeds found for country: {country}")
+        return
+    
+    # Dictionary to store the count of headlines per source
+    news_counts = {feed["source"]: 0 for feed in rss_feeds}
+    
+    # List to store all articles
+    articles = []
+    
+    # Fetch and process news from all RSS feeds
+    logging.info(f"Fetching and processing news headlines for {country}...")
+    print(f"Fetching and processing news headlines for {country}...")
+    
+    for feed in rss_feeds:
+        source = feed["source"]
+        rss_url = feed["url"]
+        try:
+            data = get_rss(rss_url)
+            # Navigate to the list of items; RSS structure may vary
+            items = []
+            if 'rss' in data and 'channel' in data['rss']:
+                items = data['rss']['channel']['item']
+            elif 'feed' in data and 'entry' in data['feed']:
+                items = data['feed']['entry']
+            else:
+                logging.warning(f"Unrecognized RSS format for source: {source}")
+                print(f"Unrecognized RSS format for source: {source}")
+                continue
+
+            for item in items:
+                # Different RSS feeds may use different keys for publication date and other fields
+                pub_date = item.get('pubDate') or item.get('published') or item.get('dc:date')
+                if pub_date and is_today(pub_date):
+                    original_title = item.get('title', 'No title')
+                    description = item.get('description') or item.get('summary') or "No description available"
+                    link = item.get('link')
+                    if isinstance(link, dict):
+                        link = link.get('@href', 'No link available')
+
+                    # Translate title to English
+                    translated_title = translate_text(original_title)
+
+                    # Fetch full article content
+                    full_article = fetch_full_article(link) if link != 'No link available' else "No link available."
+
+                    # Extract category if available
+                    category = item.get('category') or "Uncategorized"
+
+                    # Extract publication time in ISO format
+                    try:
+                        pub_date_dt = parse_date(pub_date)
+                        publication_time = pub_date_dt.isoformat()
+                    except Exception as e:
+                        publication_time = "Unknown publication time"
+                        logging.error(f"Error parsing publication time: {e}")
+
+                    # Create the article dictionary
+                    article = {
+                        "title": translated_title,
+                        "category": category,
+                        "summary": description,
+                        "link": link,
+                        "publication_time": publication_time,
+                        "full_article": full_article,
+                        "source": source
+                    }
+
+                    articles.append(article)
+                    news_counts[source] += 1
+
+        except Exception as e:
+            logging.error(f"Error fetching news from {source}: {e}")
+            print(f"Error fetching news from {source}: {e}")
+    
+    if not articles:
+        logging.info(f"No today's news found for country: {country}")
+        print(f"No today's news found for country: {country}")
+        return
+
+    # Prepare the output
+    output = {
+        "translated_news_headlines": articles,
+        "summary_of_extracted_news": news_counts
+    }
+
+    # Define the target directory with the relative path
+    target_directory = os.path.join('NewsData', 'NewsData_withDate')
+    
+    # Create the directory if it doesn't exist
+    os.makedirs(target_directory, exist_ok=True)
+    
+    # Get the current date in YYYY-MM-DD format
+    current_date = datetime.now().strftime('%Y-%m-%d')
+    
+    # Define the filename with the current date and country
+    filename = f'news_{country.lower()}_{current_date}.json'
+    
+    # Define the full path to the file
+    file_path = os.path.join(target_directory, filename)
+    
+    # Save the output to the JSON file in the specified directory with the date in the filename
+    try:
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump(output, f, ensure_ascii=False, indent=4)
+        logging.info(f"News headlines have been successfully fetched and saved to '{file_path}'.")
+        print(f"News headlines have been successfully fetched and saved to '{file_path}'.")
+    except Exception as e:
+        logging.error(f"Error saving JSON file: {e}")
+        print(f"Error saving JSON file: {e}")
+        return
+
+    # Validate the JSON file
+    validate_json(file_path)
+
+if __name__ == "__main__":
+    # Specify the country you want to fetch news for
+    # Example: "Poland"
+    country_input = "Poland"
+    main(country_input)
