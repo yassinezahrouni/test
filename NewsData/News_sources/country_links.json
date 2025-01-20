@@ -1,0 +1,862 @@
+[
+    {
+        "country": "Africa",
+        "url": "https://www.allyoucanread.com/african-newspapers/"
+    },
+    {
+        "country": "Asia",
+        "url": "https://www.allyoucanread.com/asian-newspapers/"
+    },
+    {
+        "country": "Australia & Pacific",
+        "url": "https://www.allyoucanread.com/australia-pacific-newspapers/"
+    },
+    {
+        "country": "Europe",
+        "url": "https://www.allyoucanread.com/european-newspapers/"
+    },
+    {
+        "country": "North America",
+        "url": "https://www.allyoucanread.com/north-american-newspapers/"
+    },
+    {
+        "country": "South America",
+        "url": "https://www.allyoucanread.com/south-american-newspapers/"
+    },
+    {
+        "country": "Afghanistan",
+        "url": "https://www.allyoucanread.com/afghanistan-newspapers/"
+    },
+    {
+        "country": "Albania",
+        "url": "https://www.allyoucanread.com/albanian-newspapers/"
+    },
+    {
+        "country": "Algeria",
+        "url": "https://www.allyoucanread.com/algerian-newspapers/"
+    },
+    {
+        "country": "Andorra",
+        "url": "https://www.allyoucanread.com/andorra-newspapers/"
+    },
+    {
+        "country": "Angola",
+        "url": "https://www.allyoucanread.com/angola-newspapers/"
+    },
+    {
+        "country": "Antigua & Barbuda",
+        "url": "https://www.allyoucanread.com/antigua-barbuda-newspapers/"
+    },
+    {
+        "country": "Argentina",
+        "url": "https://www.allyoucanread.com/argentina-newspapers/"
+    },
+    {
+        "country": "Armenia",
+        "url": "https://www.allyoucanread.com/armenian-newspapers/"
+    },
+    {
+        "country": "Aruba",
+        "url": "https://www.allyoucanread.com/aruba-newspapers/"
+    },
+    {
+        "country": "Australia",
+        "url": "https://www.allyoucanread.com/australian-newspapers/"
+    },
+    {
+        "country": "Austria",
+        "url": "https://www.allyoucanread.com/austria-newspapers/"
+    },
+    {
+        "country": "Azerbaijan",
+        "url": "https://www.allyoucanread.com/azerbaijan-newspapers/"
+    },
+    {
+        "country": "Bahamas",
+        "url": "https://www.allyoucanread.com/bahamas-newspapers/"
+    },
+    {
+        "country": "Bahrain",
+        "url": "https://www.allyoucanread.com/bahrain-newspapers/"
+    },
+    {
+        "country": "Bangladesh",
+        "url": "https://www.allyoucanread.com/bangladesh-newspapers/"
+    },
+    {
+        "country": "Barbados",
+        "url": "https://www.allyoucanread.com/barbados-newspapers/"
+    },
+    {
+        "country": "Belarus",
+        "url": "https://www.allyoucanread.com/belarus-newspapers/"
+    },
+    {
+        "country": "Belgium",
+        "url": "https://www.allyoucanread.com/belgium-newspapers/"
+    },
+    {
+        "country": "Belize",
+        "url": "https://www.allyoucanread.com/belize-newspapers/"
+    },
+    {
+        "country": "Benin",
+        "url": "https://www.allyoucanread.com/benin-newspapers/"
+    },
+    {
+        "country": "Bermuda",
+        "url": "https://www.allyoucanread.com/bermuda-newspapers/"
+    },
+    {
+        "country": "Bhutan",
+        "url": "https://www.allyoucanread.com/bhutan-newspapers/"
+    },
+    {
+        "country": "Bolivia",
+        "url": "https://www.allyoucanread.com/bolivian-newspapers/"
+    },
+    {
+        "country": "Bosnia & Herzegovina",
+        "url": "https://www.allyoucanread.com/bosnian-newspapers/"
+    },
+    {
+        "country": "Botswana",
+        "url": "https://www.allyoucanread.com/botswana-newspapers/"
+    },
+    {
+        "country": "Brazil",
+        "url": "https://www.allyoucanread.com/brazil-newspapers/"
+    },
+    {
+        "country": "Brunei",
+        "url": "https://www.allyoucanread.com/brunei-newspapers/"
+    },
+    {
+        "country": "Bulgaria",
+        "url": "https://www.allyoucanread.com/bulgarian-newspapers/"
+    },
+    {
+        "country": "Burkina Faso",
+        "url": "https://www.allyoucanread.com/burkina-faso-newspapers/"
+    },
+    {
+        "country": "Burundi",
+        "url": "https://www.allyoucanread.com/burundi-newspapers/"
+    },
+    {
+        "country": "Cambodia",
+        "url": "https://www.allyoucanread.com/cambodia-newspapers/"
+    },
+    {
+        "country": "Cameroon",
+        "url": "https://www.allyoucanread.com/cameroon-newspapers/"
+    },
+    {
+        "country": "Canada",
+        "url": "https://www.allyoucanread.com/canada-newspapers/"
+    },
+    {
+        "country": "Cape Verde",
+        "url": "https://www.allyoucanread.com/cape-verde-newspapers/"
+    },
+    {
+        "country": "Cayman Islands",
+        "url": "https://www.allyoucanread.com/cayman-newspapers/"
+    },
+    {
+        "country": "Chad",
+        "url": "https://www.allyoucanread.com/chad-newspapers/"
+    },
+    {
+        "country": "Chile",
+        "url": "https://www.allyoucanread.com/chile-newspapers/"
+    },
+    {
+        "country": "China",
+        "url": "https://www.allyoucanread.com/china-newspapers/"
+    },
+    {
+        "country": "Colombia",
+        "url": "https://www.allyoucanread.com/colombia-newspapers/"
+    },
+    {
+        "country": "Comoros",
+        "url": "https://www.allyoucanread.com/comoros-newspapers/"
+    },
+    {
+        "country": "Congo DR",
+        "url": "https://www.allyoucanread.com/democratic-republic-of-the-congo-newspapers/"
+    },
+    {
+        "country": "Cook Islands",
+        "url": "https://www.allyoucanread.com/cook-islands-newspapers/"
+    },
+    {
+        "country": "Costa Rica",
+        "url": "https://www.allyoucanread.com/costa-rica-newspapers/"
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "url": "https://www.allyoucanread.com/ivory-coast-newspapers/"
+    },
+    {
+        "country": "Croatia",
+        "url": "https://www.allyoucanread.com/croatian-newspapers/"
+    },
+    {
+        "country": "Cuba",
+        "url": "https://www.allyoucanread.com/cuba-newspapers/"
+    },
+    {
+        "country": "Cyprus",
+        "url": "https://www.allyoucanread.com/cyprus-newspapers/"
+    },
+    {
+        "country": "Czech Republic",
+        "url": "https://www.allyoucanread.com/czech-newspapers/"
+    },
+    {
+        "country": "Denmark",
+        "url": "https://www.allyoucanread.com/danish-newspapers/"
+    },
+    {
+        "country": "Djibouti",
+        "url": "https://www.allyoucanread.com/djibouti-newspapers/"
+    },
+    {
+        "country": "Dominica",
+        "url": "https://www.allyoucanread.com/dominica-newspapers/"
+    },
+    {
+        "country": "Dominican Republic",
+        "url": "https://www.allyoucanread.com/dominican-newspapers/"
+    },
+    {
+        "country": "Ecuador",
+        "url": "https://www.allyoucanread.com/ecuador-newspapers/"
+    },
+    {
+        "country": "Egypt",
+        "url": "https://www.allyoucanread.com/egyptian-newspapers/"
+    },
+    {
+        "country": "El Salvador",
+        "url": "https://www.allyoucanread.com/el-salvador-newspapers/"
+    },
+    {
+        "country": "Eritrea",
+        "url": "https://www.allyoucanread.com/eritrea-newspapers/"
+    },
+    {
+        "country": "Estonia",
+        "url": "https://www.allyoucanread.com/estonian-newspapers/"
+    },
+    {
+        "country": "Ethiopia",
+        "url": "https://www.allyoucanread.com/ethiopia-newspapers/"
+    },
+    {
+        "country": "Faroe Islands",
+        "url": "https://www.allyoucanread.com/faroe-islands-newspapers/"
+    },
+    {
+        "country": "Fiji",
+        "url": "https://www.allyoucanread.com/fiji-newspapers/"
+    },
+    {
+        "country": "Finland",
+        "url": "https://www.allyoucanread.com/finland-newspapers/"
+    },
+    {
+        "country": "France",
+        "url": "https://www.allyoucanread.com/french-newspapers/"
+    },
+    {
+        "country": "French Guiana",
+        "url": "https://www.allyoucanread.com/french-guiana-newspapers/"
+    },
+    {
+        "country": "French Polynesia",
+        "url": "https://www.allyoucanread.com/french-polynesia-newspapers/"
+    },
+    {
+        "country": "Gabon",
+        "url": "https://www.allyoucanread.com/gabon-newspapers/"
+    },
+    {
+        "country": "Gambia",
+        "url": "https://www.allyoucanread.com/gambia-newspapers/"
+    },
+    {
+        "country": "Georgia",
+        "url": "https://www.allyoucanread.com/georgian-newspapers/"
+    },
+    {
+        "country": "Germany",
+        "url": "https://www.allyoucanread.com/german-newspapers/"
+    },
+    {
+        "country": "Ghana",
+        "url": "https://www.allyoucanread.com/ghana-newspapers/"
+    },
+    {
+        "country": "Gibraltar",
+        "url": "https://www.allyoucanread.com/gibraltar-newspaper-dependent-areas/"
+    },
+    {
+        "country": "Greece",
+        "url": "https://www.allyoucanread.com/greek-newspapers/"
+    },
+    {
+        "country": "Greenland",
+        "url": "https://www.allyoucanread.com/greenland-newspapers/"
+    },
+    {
+        "country": "Grenada",
+        "url": "https://www.allyoucanread.com/grenada-newspapers/"
+    },
+    {
+        "country": "Guadeloupe",
+        "url": "https://www.allyoucanread.com/guadeloupe-newspapers/"
+    },
+    {
+        "country": "Guam",
+        "url": "https://www.allyoucanread.com/guam-newspapers/"
+    },
+    {
+        "country": "Guatemala",
+        "url": "https://www.allyoucanread.com/guatemala-newspapers/"
+    },
+    {
+        "country": "Guernsey",
+        "url": "https://www.allyoucanread.com/guernsey-newspapers/"
+    },
+    {
+        "country": "Guinea",
+        "url": "https://www.allyoucanread.com/guinea-newspapers/"
+    },
+    {
+        "country": "Guyana",
+        "url": "https://www.allyoucanread.com/guyana-newspapers/"
+    },
+    {
+        "country": "Haiti",
+        "url": "https://www.allyoucanread.com/haiti-newspapers/"
+    },
+    {
+        "country": "Honduras",
+        "url": "https://www.allyoucanread.com/honduras-newspapers/"
+    },
+    {
+        "country": "Hong Kong",
+        "url": "https://www.allyoucanread.com/hong-kong-newspapers/"
+    },
+    {
+        "country": "Hungary",
+        "url": "https://www.allyoucanread.com/hungarian-newspapers/"
+    },
+    {
+        "country": "Iceland",
+        "url": "https://www.allyoucanread.com/iceland-newspapers/"
+    },
+    {
+        "country": "India",
+        "url": "https://www.allyoucanread.com/india-newspapers/"
+    },
+    {
+        "country": "Indonesia",
+        "url": "https://www.allyoucanread.com/indonesia-newspapers/"
+    },
+    {
+        "country": "Iran",
+        "url": "https://www.allyoucanread.com/iran-newspapers/"
+    },
+    {
+        "country": "Iraq",
+        "url": "https://www.allyoucanread.com/iraq-newspapers/"
+    },
+    {
+        "country": "Ireland",
+        "url": "https://www.allyoucanread.com/irish-newspapers/"
+    },
+    {
+        "country": "Isle of Man",
+        "url": "https://www.allyoucanread.com/isle-of-man-newspaper-dependent-areas/"
+    },
+    {
+        "country": "Israel",
+        "url": "https://www.allyoucanread.com/israeli-newspapers/"
+    },
+    {
+        "country": "Italy",
+        "url": "https://www.allyoucanread.com/italian-newspapers/"
+    },
+    {
+        "country": "Jamaica",
+        "url": "https://www.allyoucanread.com/jamaica-newspapers/"
+    },
+    {
+        "country": "Japan",
+        "url": "https://www.allyoucanread.com/japanese-newspapers/"
+    },
+    {
+        "country": "Jersey",
+        "url": "https://www.allyoucanread.com/jersey-newspapers/"
+    },
+    {
+        "country": "Jordan",
+        "url": "https://www.allyoucanread.com/jordan-newspapers/"
+    },
+    {
+        "country": "Kazakhstan",
+        "url": "https://www.allyoucanread.com/kazakhstan-newspapers/"
+    },
+    {
+        "country": "Kenya",
+        "url": "https://www.allyoucanread.com/kenya-newspapers/"
+    },
+    {
+        "country": "Kosovo",
+        "url": "https://www.allyoucanread.com/kosovo-newspapers/"
+    },
+    {
+        "country": "Kuwait",
+        "url": "https://www.allyoucanread.com/kuwait-newspapers/"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "url": "https://www.allyoucanread.com/kyrgyzstan-newspapers/"
+    },
+    {
+        "country": "Latvia",
+        "url": "https://www.allyoucanread.com/latvian-newspapers/"
+    },
+    {
+        "country": "Lebanon",
+        "url": "https://www.allyoucanread.com/lebanese-newspapers/"
+    },
+    {
+        "country": "Lesotho",
+        "url": "https://www.allyoucanread.com/lesotho-newspapers/"
+    },
+    {
+        "country": "Liberia",
+        "url": "https://www.allyoucanread.com/liberia-newspapers/"
+    },
+    {
+        "country": "Libya",
+        "url": "https://www.allyoucanread.com/libya-newspapers/"
+    },
+    {
+        "country": "Liechtenstein",
+        "url": "https://www.allyoucanread.com/liechtenstein-newspapers/"
+    },
+    {
+        "country": "Lithuania",
+        "url": "https://www.allyoucanread.com/lithuanian-newspapers/"
+    },
+    {
+        "country": "Luxembourg",
+        "url": "https://www.allyoucanread.com/luxembourg-newspapers/"
+    },
+    {
+        "country": "Macau",
+        "url": "https://www.allyoucanread.com/macau-newspapers/"
+    },
+    {
+        "country": "Macedonia",
+        "url": "https://www.allyoucanread.com/macedonian-newspapers/"
+    },
+    {
+        "country": "Madagascar",
+        "url": "https://www.allyoucanread.com/madagascar-newspapers/"
+    },
+    {
+        "country": "Malawi",
+        "url": "https://www.allyoucanread.com/malawi-newspapers/"
+    },
+    {
+        "country": "Malaysia",
+        "url": "https://www.allyoucanread.com/malaysian-newspapers/"
+    },
+    {
+        "country": "Maldives",
+        "url": "https://www.allyoucanread.com/maldives-newspapers/"
+    },
+    {
+        "country": "Mali",
+        "url": "https://www.allyoucanread.com/mali-newspapers/"
+    },
+    {
+        "country": "Malta",
+        "url": "https://www.allyoucanread.com/malta-newspapers/"
+    },
+    {
+        "country": "Marshall Islands",
+        "url": "https://www.allyoucanread.com/marshall-islands-newspapers/"
+    },
+    {
+        "country": "Martinique",
+        "url": "https://www.allyoucanread.com/martinique-newspapers/"
+    },
+    {
+        "country": "Mauritania",
+        "url": "https://www.allyoucanread.com/mauritania-newspapers/"
+    },
+    {
+        "country": "Mauritius",
+        "url": "https://www.allyoucanread.com/mauritius-newspapers/"
+    },
+    {
+        "country": "Mayotte",
+        "url": "https://www.allyoucanread.com/mayotte-newspapers/"
+    },
+    {
+        "country": "Mexico",
+        "url": "https://www.allyoucanread.com/mexican-newspapers/"
+    },
+    {
+        "country": "Moldova",
+        "url": "https://www.allyoucanread.com/moldova-newspapers/"
+    },
+    {
+        "country": "Monaco",
+        "url": "https://www.allyoucanread.com/monaco-newspapers/"
+    },
+    {
+        "country": "Mongolia",
+        "url": "https://www.allyoucanread.com/mongolian-newspapers/"
+    },
+    {
+        "country": "Montenegro",
+        "url": "https://www.allyoucanread.com/montenegro-newspapers/"
+    },
+    {
+        "country": "Morocco",
+        "url": "https://www.allyoucanread.com/moroccan-newspapers/"
+    },
+    {
+        "country": "Mozambique",
+        "url": "https://www.allyoucanread.com/mozambique-newspapers/"
+    },
+    {
+        "country": "Myanmar",
+        "url": "https://www.allyoucanread.com/myanmar-newspapers/"
+    },
+    {
+        "country": "Namibia",
+        "url": "https://www.allyoucanread.com/namibia-newspapers/"
+    },
+    {
+        "country": "Nepal",
+        "url": "https://www.allyoucanread.com/nepal-newspapers/"
+    },
+    {
+        "country": "Netherlands",
+        "url": "https://www.allyoucanread.com/holland-newspapers/"
+    },
+    {
+        "country": "New Zealand",
+        "url": "https://www.allyoucanread.com/new-zealand-newspapers/"
+    },
+    {
+        "country": "Nicaragua",
+        "url": "https://www.allyoucanread.com/nicaragua-newspapers/"
+    },
+    {
+        "country": "Niger",
+        "url": "https://www.allyoucanread.com/niger-newspapers/"
+    },
+    {
+        "country": "Nigeria",
+        "url": "https://www.allyoucanread.com/nigerian-newspapers/"
+    },
+    {
+        "country": "North Korea",
+        "url": "https://www.allyoucanread.com/north-korea-newspapers/"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "url": "https://www.allyoucanread.com/northern-mariana-islands-newspapers/"
+    },
+    {
+        "country": "Norway",
+        "url": "https://www.allyoucanread.com/norway-newspapers/"
+    },
+    {
+        "country": "Oman",
+        "url": "https://www.allyoucanread.com/oman-newspapers/"
+    },
+    {
+        "country": "Pakistan",
+        "url": "https://www.allyoucanread.com/pakistan-newspapers/"
+    },
+    {
+        "country": "Palestine",
+        "url": "https://www.allyoucanread.com/palestinian-authority-newspapers/"
+    },
+    {
+        "country": "Panama",
+        "url": "https://www.allyoucanread.com/panama-newspapers/"
+    },
+    {
+        "country": "Papua New Guinea",
+        "url": "https://www.allyoucanread.com/png-newspapers/"
+    },
+    {
+        "country": "Paraguay",
+        "url": "https://www.allyoucanread.com/paraguay-newspapers/"
+    },
+    {
+        "country": "Peru",
+        "url": "https://www.allyoucanread.com/peru-newspapers/"
+    },
+    {
+        "country": "Philippines",
+        "url": "https://www.allyoucanread.com/philippine-newspapers/"
+    },
+    {
+        "country": "Poland",
+        "url": "https://www.allyoucanread.com/polish-newspapers/"
+    },
+    {
+        "country": "Portugal",
+        "url": "https://www.allyoucanread.com/portuguese-newspapers/"
+    },
+    {
+        "country": "Puerto Rico",
+        "url": "https://www.allyoucanread.com/puerto-rico-newspapers/"
+    },
+    {
+        "country": "Qatar",
+        "url": "https://www.allyoucanread.com/qatar-newspapers/"
+    },
+    {
+        "country": "Reunion",
+        "url": "https://www.allyoucanread.com/reunion-newspapers/"
+    },
+    {
+        "country": "Romania",
+        "url": "https://www.allyoucanread.com/romanian-newspapers/"
+    },
+    {
+        "country": "Russia",
+        "url": "https://www.allyoucanread.com/russian-newspapers/"
+    },
+    {
+        "country": "Rwanda",
+        "url": "https://www.allyoucanread.com/rwanda-newspapers/"
+    },
+    {
+        "country": "Saint Helena",
+        "url": "https://www.allyoucanread.com/saint-helena-newspapers/"
+    },
+    {
+        "country": "Samoa",
+        "url": "https://www.allyoucanread.com/samoa-newspapers/"
+    },
+    {
+        "country": "San Marino",
+        "url": "https://www.allyoucanread.com/san-marino-newspapers/"
+    },
+    {
+        "country": "Sao Tome & Principe",
+        "url": "https://www.allyoucanread.com/sao-tome-and-principe-newspapers/"
+    },
+    {
+        "country": "Saudi Arabia",
+        "url": "https://www.allyoucanread.com/saudi-newspapers/"
+    },
+    {
+        "country": "Senegal",
+        "url": "https://www.allyoucanread.com/senegal-newspapers/"
+    },
+    {
+        "country": "Serbia",
+        "url": "https://www.allyoucanread.com/serbian-newspapers/"
+    },
+    {
+        "country": "Seychelles",
+        "url": "https://www.allyoucanread.com/seychelles-newspapers/"
+    },
+    {
+        "country": "Sierra Leone",
+        "url": "https://www.allyoucanread.com/sierra-leone-newspapers/"
+    },
+    {
+        "country": "Singapore",
+        "url": "https://www.allyoucanread.com/singapore-newspapers/"
+    },
+    {
+        "country": "Slovakia",
+        "url": "https://www.allyoucanread.com/slovak-newspapers/"
+    },
+    {
+        "country": "Slovenia",
+        "url": "https://www.allyoucanread.com/slovenian-newspapers/"
+    },
+    {
+        "country": "Solomon Islands",
+        "url": "https://www.allyoucanread.com/solomon-islands-newspapers/"
+    },
+    {
+        "country": "Somalia",
+        "url": "https://www.allyoucanread.com/somalia-newspapers/"
+    },
+    {
+        "country": "South Africa",
+        "url": "https://www.allyoucanread.com/south-african-newspapers/"
+    },
+    {
+        "country": "South Korea",
+        "url": "https://www.allyoucanread.com/korean-newspapers/"
+    },
+    {
+        "country": "Spain",
+        "url": "https://www.allyoucanread.com/spanish-newspapers/"
+    },
+    {
+        "country": "Sri Lanka",
+        "url": "https://www.allyoucanread.com/sri-lanka-newspapers/"
+    },
+    {
+        "country": "St. Kitts & Nevis",
+        "url": "https://www.allyoucanread.com/st-kitts-nevis-newspapers/"
+    },
+    {
+        "country": "St. Lucia",
+        "url": "https://www.allyoucanread.com/st-lucia-newspapers/"
+    },
+    {
+        "country": "St. Vincent & the Grenadines",
+        "url": "https://www.allyoucanread.com/st-vincent-newspapers/"
+    },
+    {
+        "country": "Sudan",
+        "url": "https://www.allyoucanread.com/sudan-newspapers/"
+    },
+    {
+        "country": "Suriname",
+        "url": "https://www.allyoucanread.com/suriname-newspapers/"
+    },
+    {
+        "country": "Swaziland",
+        "url": "https://www.allyoucanread.com/swaziland-newspapers/"
+    },
+    {
+        "country": "Sweden",
+        "url": "https://www.allyoucanread.com/swedish-newspapers/"
+    },
+    {
+        "country": "Switzerland",
+        "url": "https://www.allyoucanread.com/swiss-newspapers/"
+    },
+    {
+        "country": "Syria",
+        "url": "https://www.allyoucanread.com/syria-newspapers/"
+    },
+    {
+        "country": "Taiwan",
+        "url": "https://www.allyoucanread.com/taiwan-newspapers/"
+    },
+    {
+        "country": "Tajikistan",
+        "url": "https://www.allyoucanread.com/tajikistan-newspapers/"
+    },
+    {
+        "country": "Tanzania",
+        "url": "https://www.allyoucanread.com/tanzania-newspapers/"
+    },
+    {
+        "country": "Thailand",
+        "url": "https://www.allyoucanread.com/thai-newspapers/"
+    },
+    {
+        "country": "Togo",
+        "url": "https://www.allyoucanread.com/togo-newspapers/"
+    },
+    {
+        "country": "Tonga",
+        "url": "https://www.allyoucanread.com/tonga-newspapers/"
+    },
+    {
+        "country": "Trinidad & Tobago",
+        "url": "https://www.allyoucanread.com/trinidad-newspapers/"
+    },
+    {
+        "country": "Tunisia",
+        "url": "https://www.allyoucanread.com/tunisia-newspapers/"
+    },
+    {
+        "country": "Turkey",
+        "url": "https://www.allyoucanread.com/turkish-newspapers/"
+    },
+    {
+        "country": "Turkmenistan",
+        "url": "https://www.allyoucanread.com/turkmenistan-newspapers/"
+    },
+    {
+        "country": "Turks & Caicos",
+        "url": "https://www.allyoucanread.com/turks-newspapers/"
+    },
+    {
+        "country": "Uganda",
+        "url": "https://www.allyoucanread.com/uganda-newspapers/"
+    },
+    {
+        "country": "UK",
+        "url": "https://www.allyoucanread.com/uk-newspapers/"
+    },
+    {
+        "country": "Ukraine",
+        "url": "https://www.allyoucanread.com/ukrainian-newspapers/"
+    },
+    {
+        "country": "United Arab Emirates",
+        "url": "https://www.allyoucanread.com/uae-newspapers/"
+    },
+    {
+        "country": "Uruguay",
+        "url": "https://www.allyoucanread.com/uruguay-newspapers/"
+    },
+    {
+        "country": "US",
+        "url": "https://www.allyoucanread.com/american-newspapers/"
+    },
+    {
+        "country": "Uzbekistan",
+        "url": "https://www.allyoucanread.com/uzbekistan-newspapers/"
+    },
+    {
+        "country": "Vanuatu",
+        "url": "https://www.allyoucanread.com/vanuatu-newspapers/"
+    },
+    {
+        "country": "Vatican",
+        "url": "https://www.allyoucanread.com/vatican-newspapers/"
+    },
+    {
+        "country": "Venezuela",
+        "url": "https://www.allyoucanread.com/venezuela-newspapers/"
+    },
+    {
+        "country": "Vietnam",
+        "url": "https://www.allyoucanread.com/vietnam-newspapers/"
+    },
+    {
+        "country": "Virgin Islands",
+        "url": "https://www.allyoucanread.com/virgin-islands-newspapers/"
+    },
+    {
+        "country": "Yemen",
+        "url": "https://www.allyoucanread.com/yemen-newspapers/"
+    },
+    {
+        "country": "Zambia",
+        "url": "https://www.allyoucanread.com/zambia-newspapers/"
+    },
+    {
+        "country": "Zimbabwe",
+        "url": "https://www.allyoucanread.com/zimbabwe-newspapers/"
+    }
+]

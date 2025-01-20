@@ -2,28 +2,36 @@ import requests
 from googletrans import Translator
 from countryinfo import CountryInfo
 from newspaper import Article
-from geopy.geocoders import Nominatim
+from geopy.geocoders import Nominatim, GoogleV3
+import country_converter as coco
 
 # Replace with your own API key and CX
 API_KEY = "AIzaSyBhgM9ucPG5vSqo7eqSE6MXp0GmTLPs-MQ"  # Replace with your API key
 CX = "9725ead1807594275"
 
-# Define a set of keywords that indicate reliable news sources
-NEWS_KEYWORDS = ["news", "noticias", "nouvelles", "nachrichten", "actualites", "journal", "gazette", "radio", "media"]
+news_api = "07b3587b547b47339f94c4a0890b6363"
 
 def get_country_from_city(city_name):
     """
-    Get the country name from a city name using geopy.
+    Get the country name from a city name using GoogleV3 and country_converter.
     :param city_name: Name of the city.
     :return: Country name if found, else None.
     """
-    geolocator = Nominatim(user_agent="geoapi")
+    geolocator = GoogleV3(api_key="AIzaSyDxz5uhfKwQBAAyeafBw8-aZdyGvxd-Mxk")
     try:
         location = geolocator.geocode(city_name)
-        if location and location.raw.get("address"):
-            return location.raw["address"].get("country")
+        if location and location.address:
+            # Extract the country name using geopy
+            address_components = location.raw.get("address_components", [])
+            for component in address_components:
+                if "country" in component.get("types", []):
+                    print(f"{city_name}, {component.get('long_name')}")
+                    return component.get("long_name")
+
+            # As a fallback, convert city name to country using coco
+            return coco.convert(names=city_name, to="name_short")
     except Exception as e:
-        print(f"Error finding country for city {city_name}: {e}")
+        print(f"Error retrieving country for city '{city_name}': {e}")
     return None
 
 def get_translated_queries(location_list):
@@ -59,40 +67,12 @@ def get_translated_queries(location_list):
         except Exception as e:
             print(f"Error for {location}: {e}")
             translated_queries[location] = {
-                "query": f"News {location}",
+                "query": f"News {location} {country}",
                 "country_code": "US",  # Fallback to "US"
                 "language_code": "en"  # Fallback to English
             }
 
     return translated_queries
-
-def is_reliable_news_source(title, link):
-    """
-    Check if a given link leads to a reliable news source by fetching and analyzing the website content.
-    :param title: Title of the news source.
-    :param link: URL of the news source.
-    :return: True if it is a reliable news source, otherwise False.
-    """
-    try:
-        article = Article(link)
-        article.download()
-        article.parse()
-
-        # Extract metadata
-        meta_description = article.meta_description or ""
-        meta_keywords = article.meta_keywords or []
-        meta_description_lower = meta_description.lower()
-
-        # Check for reliability based on keywords
-        if any(keyword in meta_description_lower for keyword in NEWS_KEYWORDS):
-            return True
-        if any(keyword in meta_keywords for keyword in NEWS_KEYWORDS):
-            return True
-
-    except Exception as e:
-        print(f"Error analyzing link {link}: {e}")
-
-    return False
 
 def get_news_sources_with_google_api(location_name, query, country_code, language_code):
     """
@@ -107,12 +87,13 @@ def get_news_sources_with_google_api(location_name, query, country_code, languag
         "key": API_KEY,
         "cx": CX,
         "q": query,
-        "num": 10,
+        "num": 8,
+        "tbm": "nws",
         "hl": language_code,
         "gl": country_code,
         "cr": f"country{country_code}",
         "lr": f"lang_{language_code}",
-        "excludeTerms": "embassy organization IMF WHO UNESCO consulate"
+        "excludeTerms": "embassy organization IMF WHO UNESCO consulate org gov"
     }
 
     try:
@@ -126,8 +107,7 @@ def get_news_sources_with_google_api(location_name, query, country_code, languag
             for item in data["items"]:
                 title = item.get("title")
                 link = item.get("link")
-                if title and link and is_reliable_news_source(title, link):
-                    news_sources.append((title, link))
+                news_sources.append((title, link))
 
         return news_sources
     except requests.exceptions.RequestException as e:
@@ -147,7 +127,7 @@ for location, data in queries_in_local_language.items():
     if sources:
         print(f"Filtered news sources for {location} , {query} , {country_code} , {language_code}:")
         for name, link in sources:
-            print(f"- {name}: {link}")
+            print(f"- {link}")
     else:
         print(f"No local news sources found for {location}.")
     print()
