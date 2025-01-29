@@ -1,0 +1,51 @@
+part_id,name,part_number,description,supplier_id,category,unit_price,currency,weight,dimensions,color,material,stock_quantity,reorder_level,lead_time_days,status,notes
+1,Part-1,ac658afe-787f-49e3-9fcb-9a158d63c808,Prepare school probably happen wind measure prevent.,9,Charger,961.35,EUR,28.79,19x27x11 cm,Blue,Steel,76,14,30,Discontinued,Community major man response enough whether son.
+2,Part-2,ab247cd5-6929-4d81-942d-0cf451b524fc,Take skill its imagine.,5,Charger,263.26,USD,31.16,21x11x48 cm,Blue,Steel,58,81,11,Active,Buy knowledge child generation charge glass able.
+3,Part-3,9518fead-e27c-496d-9145-9aaed55c8124,Ground either environment.,10,Controller,152.73,EUR,40.15,16x37x48 cm,Red,Steel,638,68,8,Active,Indicate either support despite network everyone.
+4,Part-4,a6255da9-9794-45af-82e1-a559d213a730,Nearly must federal particularly believe because.,6,Transmission,125.01,USD,41.34,23x28x46 cm,Green,Carbon Fiber,274,64,19,Discontinued,Dark perhaps probably happen environmental scene three.
+5,Part-5,4084577a-d478-449d-9cd6-185df4d4847f,Beyond table join behavior natural.,6,Cooling System,315.07,USD,41.48,12x31x10 cm,Silver,Aluminum,253,43,19,Discontinued,Decade assume study official think response third.
+6,Part-6,63925fd2-d457-4772-a3a4-4df39f9da1aa,Evening dark prevent decade science.,2,Charger,703.42,EUR,42.23,6x17x8 cm,Blue,Steel,664,40,16,Discontinued,Customer modern music someone consider stop exist.
+7,Part-7,bd1ce2da-e18b-4c30-a287-5c5c7d500fba,Almost guy Mr which pull from.,5,Motor,673.57,USD,15.07,35x44x33 cm,Blue,Aluminum,715,65,20,Active,Morning share itself decade white another I.
+8,Part-8,9a14b300-8c73-492a-ba20-bd7610c40f4c,System law safe spend step fact again front.,1,Motor,594.05,USD,44.85,23x7x14 cm,Red,Steel,352,14,10,Active,Under water show what speech build tonight.
+9,Part-9,1b70d1f2-c78c-4489-b440-a01e9456fc87,Top require five particularly soon cold culture word.,7,Motor,105.61,USD,42.45,44x30x31 cm,Red,Steel,527,50,20,Active,Today southern name international south stand fire.
+10,Part-10,847eb0df-c867-4f4e-8510-797e5fee3c32,Another view civil ever international list.,2,Charger,645.31,USD,30.8,32x25x50 cm,Blue,Plastic,251,13,20,Active,Involve budget process who light other relate pull.
+11,Part-11,e529e99b-3be4-4f2a-878a-5716432992a6,Yourself party not step nature high six.,4,Transmission,921.23,EUR,49.49,32x22x47 cm,Black,Plastic,380,54,6,Active,Much take customer too then nothing win.
+12,Part-12,03ce087b-2406-4e28-a052-42cd542372ed,Again hair turn hour foot determine wait.,1,Battery,370.13,USD,35.64,37x26x5 cm,Black,Steel,777,91,21,Discontinued,Summer left situation enjoy science well.
+13,Part-13,7823a692-01a9-47f7-8704-f84d57c35e94,Try economic hour worry fund dream long officer.,10,Cooling System,941.01,EUR,13.42,7x44x21 cm,Black,Steel,385,52,20,Discontinued,Fly section mind tell minute.
+14,Part-14,e87e37cd-7f50-41ca-af48-cc71de70818f,Why peace in year increase clearly music painting.,3,Charger,273.09,EUR,7.67,23x20x24 cm,Green,Aluminum,783,59,27,Active,Case really nor personal follow much lawyer.
+15,Part-15,786ec44f-d942-4f5e-a12f-4a02341b6d24,Instead start card activity because.,8,Controller,574.23,EUR,43.94,13x17x12 cm,Black,Carbon Fiber,184,96,26,Discontinued,Benefit baby majority.
+16,Part-16,cef6b4b0-3a99-436e-91de-24d2b6f749d2,This education nothing.,2,Cooling System,228.28,USD,3.85,31x6x50 cm,Silver,Aluminum,667,81,11,Active,Threat away chance share sort book type.
+17,Part-17,1e9357d4-ef3a-4fdc-b2bd-43f8f28ee476,When common be thought than hospital.,3,Battery,554.99,EUR,47.54,38x19x21 cm,Green,Steel,672,96,28,Active,Production sit simple.
+18,Part-18,6556df65-28ef-44c6-9c61-f4c8d76e7f6b,Always Republican key pay environment yeah.,5,Controller,955.29,USD,38.58,31x7x30 cm,Red,Steel,747,68,9,Discontinued,Hand my reach husband.
+19,Part-19,4b262c2c-0e80-4090-bde0-5e9d01747d17,Up get mean Mr.,8,Cooling System,831.85,USD,36.05,20x7x21 cm,Green,Aluminum,813,65,25,Discontinued,Hundred education author economic force.
+20,Part-20,d07190f7-ddc5-401d-8f44-dc4f49fc9f5d,Everybody church officer Democrat town environment little.,10,Transmission,99.78,EUR,13.0,25x20x15 cm,Blue,Carbon Fiber,874,99,12,Discontinued,Discussion sister worry.
+21,Part-21,417e8129-a2ac-4f84-9a03-e341b92dc0d6,Success big public hospital its scientist six change.,1,Charger,942.99,EUR,46.66,28x49x33 cm,Black,Plastic,313,62,9,Active,Make not behavior three speak soon senior.
+22,Part-22,07ce733f-c5cb-4512-bb0b-9754604fc409,For investment education economic no live.,5,Charger,751.15,USD,36.54,40x15x16 cm,Blue,Carbon Fiber,474,81,14,Active,Chance already administration threat knowledge find.
+23,Part-23,42518024-272d-4636-b7fe-809547d92192,Box affect third manager someone.,10,Transmission,73.02,EUR,23.63,8x6x31 cm,Red,Carbon Fiber,464,89,16,Active,Follow deal fly state.
+24,Part-24,7266155d-d724-489c-9866-bb1c35c8e556,Industry treatment especially class report beautiful along.,7,Motor,208.5,EUR,0.75,16x17x40 cm,Red,Aluminum,298,85,5,Active,I range believe hotel.
+25,Part-25,f5509da1-1f5e-430c-8211-bd500eab58d4,Its get example public machine.,6,Motor,847.32,EUR,22.82,13x34x22 cm,Black,Plastic,475,41,14,Discontinued,Quality share explain ask window.
+26,Part-26,5ea89fca-5bf8-4199-8ea3-38c439145a05,Trial they mouth check miss one area relate.,5,Transmission,363.3,USD,46.22,18x21x22 cm,Black,Carbon Fiber,638,20,30,Active,Person reflect doctor community.
+27,Part-27,470239da-9bb5-4dc2-933d-bfeb1b586150,We business traditional instead.,7,Controller,146.97,USD,42.88,8x37x44 cm,Green,Steel,776,47,19,Discontinued,Before subject continue consider over move.
+28,Part-28,7084a130-55a7-4621-af04-0200b90d863e,Me cover hospital quickly look student.,5,Controller,72.27,EUR,17.39,47x34x47 cm,Red,Carbon Fiber,829,10,10,Active,Policy leader various industry education lay environment.
+29,Part-29,2d599f63-4e64-480d-b93e-d419eeb96ead,Coach soon visit fill bag next.,7,Motor,74.01,USD,47.32,29x15x42 cm,Green,Aluminum,889,93,27,Active,Enough soon north happy trade.
+30,Part-30,fe5ab59b-54fa-444f-a1c8-e5490a529ffc,Culture bad officer sometimes various see list.,10,Battery,933.96,EUR,44.26,37x7x26 cm,Green,Carbon Fiber,918,30,21,Discontinued,Light enter buy every control expect ability public.
+31,Part-31,7d1f5e30-54a2-477b-98d7-4208179cf61e,Level else none himself our.,5,Controller,185.09,EUR,49.54,12x41x17 cm,Black,Plastic,515,63,7,Discontinued,Begin indicate what listen speak high situation.
+32,Part-32,77fd98ff-f564-414d-b637-0879541ba5e1,Fine language consumer magazine film college family.,3,Charger,895.54,EUR,47.49,40x31x36 cm,Blue,Steel,971,58,5,Active,Order heart nor look.
+33,Part-33,597a0e8a-7586-4887-9fc4-1b867f5cad51,Within air option several.,5,Transmission,642.37,EUR,17.34,18x11x47 cm,Blue,Aluminum,85,27,6,Active,Employee leader group sort national big set.
+34,Part-34,a53ec900-74df-456f-ab0d-acbff6b2406a,Help conference wall suggest seek occur.,6,Motor,994.46,USD,0.93,15x8x28 cm,Silver,Steel,853,99,7,Discontinued,How almost prevent discover quite nearly safe.
+35,Part-35,ee2881ca-e686-410b-ad17-07237773636a,Bag speech live million baby effect heavy.,6,Cooling System,226.36,EUR,26.79,21x24x36 cm,Blue,Plastic,203,97,11,Discontinued,Field full strategy accept.
+36,Part-36,3b855941-f345-49ed-b076-954b2d753856,Hundred especially central TV part rate.,6,Battery,540.45,USD,4.36,49x7x39 cm,Blue,Plastic,414,54,5,Discontinued,Behind employee kid order focus thank.
+37,Part-37,8a3afad6-dd5b-4935-a128-8b09dd9db8c5,Against add strategy national sell.,7,Cooling System,777.22,USD,39.7,19x22x14 cm,Green,Plastic,91,25,25,Discontinued,Message remember space theory hear buy fish amount.
+38,Part-38,b2cdc8d0-d27f-412a-afef-c518c3df2c7c,Force hour position happy talk.,1,Cooling System,60.83,EUR,29.25,5x12x25 cm,Blue,Plastic,699,22,19,Active,Financial report dark.
+39,Part-39,e2afdcc8-ee0a-4a2d-96ae-e4224a77351f,Show improve coach political.,9,Controller,82.19,USD,49.4,47x25x15 cm,Black,Steel,735,65,30,Active,Same structure save thank key way question question.
+40,Part-40,144f2860-c0dd-4754-8cba-f8a361b3c4cb,Involve act history amount trip against.,3,Battery,935.13,USD,32.4,46x48x10 cm,Red,Plastic,785,83,10,Active,Drive scientist follow magazine.
+41,Part-41,07068e07-9374-4ea3-bbe5-0f1ecac08823,Strong third tree crime subject democratic.,8,Controller,820.05,EUR,8.0,39x34x11 cm,Silver,Aluminum,58,26,26,Active,Rather look nearly fall apply interview.
+42,Part-42,e423fe3f-52ba-45b5-bc05-3b19a587211b,Fear analysis cause it tough father laugh already.,3,Battery,537.15,USD,48.3,36x7x18 cm,Silver,Steel,359,17,15,Discontinued,Lawyer respond better prevent begin yard behavior environmental.
+43,Part-43,f8236c7e-7eb5-4497-a391-c7ff80f8fdd3,Big can wife.,6,Battery,169.54,EUR,27.18,6x6x27 cm,Silver,Steel,485,95,19,Discontinued,Wife key theory mention sense.
+44,Part-44,d27f804e-856d-4a2e-8dbb-84cd4dbc0ac3,War responsibility drive.,6,Transmission,165.88,EUR,34.05,42x17x16 cm,Blue,Carbon Fiber,416,64,16,Active,Own laugh market instead.
+45,Part-45,ac4d7cce-c73a-45bf-a500-fb37b02f6b27,Week firm either citizen road none win her.,3,Transmission,42.07,USD,44.54,10x7x10 cm,Red,Steel,410,92,5,Discontinued,History sell government significant.
+46,Part-46,6a012c00-f34f-4809-a98e-0e1f9ca7359f,Production seven final begin training almost.,4,Charger,275.33,EUR,31.98,9x20x34 cm,Black,Steel,930,19,22,Active,Option from box old partner ground.
+47,Part-47,6e29e388-7ea7-4d48-80df-874aaac9b8d8,Use walk rest.,7,Transmission,586.73,EUR,20.27,18x26x27 cm,Green,Aluminum,169,54,6,Active,Painting them picture computer.
+48,Part-48,a9543b5d-bbe9-441c-8a2c-059298523b80,What something property call.,10,Battery,445.71,USD,16.69,12x44x32 cm,Blue,Aluminum,763,66,18,Active,Them wall describe property water begin wish.
+49,Part-49,8f1962e1-b715-43b4-ba96-5871e8c99ae9,Rise fill leave.,8,Transmission,303.89,USD,44.17,26x39x24 cm,Black,Carbon Fiber,171,55,21,Discontinued,Live prevent character.
+50,Part-50,22af0e69-208b-4ead-a17a-a89f44305dac,Tax between to better community reason.,4,Controller,807.03,USD,20.56,42x5x23 cm,Black,Carbon Fiber,924,28,10,Active,Economy approach piece.

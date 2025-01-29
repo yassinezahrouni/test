@@ -1,0 +1,1520 @@
+[
+    {
+        "name": "Alabama",
+        "link": "https://www.w3newspapers.com/usa/alabama/",
+        "country": "USA",
+        "state": "Alabama"
+    },
+    {
+        "name": "Alaska",
+        "link": "https://www.w3newspapers.com/usa/alaska/",
+        "country": "USA",
+        "state": "Alaska"
+    },
+    {
+        "name": "Arizona",
+        "link": "https://www.w3newspapers.com/usa/arizona/",
+        "country": "USA",
+        "state": "Arizona"
+    },
+    {
+        "name": "Arkansas",
+        "link": "https://www.w3newspapers.com/usa/arkansas/",
+        "country": "USA",
+        "state": "Arkansas"
+    },
+    {
+        "name": "California",
+        "link": "https://www.w3newspapers.com/usa/california/",
+        "country": "USA",
+        "state": "California"
+    },
+    {
+        "name": "Colorado",
+        "link": "https://www.w3newspapers.com/usa/colorado/",
+        "country": "USA",
+        "state": "Colorado"
+    },
+    {
+        "name": "Connecticut",
+        "link": "https://www.w3newspapers.com/usa/connecticut/",
+        "country": "USA",
+        "state": "Connecticut"
+    },
+    {
+        "name": "Delaware",
+        "link": "https://www.w3newspapers.com/usa/delaware/",
+        "country": "USA",
+        "state": "Delaware"
+    },
+    {
+        "name": "Florida",
+        "link": "https://www.w3newspapers.com/usa/florida/",
+        "country": "USA",
+        "state": "Florida"
+    },
+    {
+        "name": "Georgia",
+        "link": "https://www.w3newspapers.com/usa/georgia/",
+        "country": "USA",
+        "state": "Georgia"
+    },
+    {
+        "name": "Hawaii",
+        "link": "https://www.w3newspapers.com/usa/hawaii/",
+        "country": "USA",
+        "state": "Hawaii"
+    },
+    {
+        "name": "Idaho",
+        "link": "https://www.w3newspapers.com/usa/idaho/",
+        "country": "USA",
+        "state": "Idaho"
+    },
+    {
+        "name": "Illinois",
+        "link": "https://www.w3newspapers.com/usa/illinois/",
+        "country": "USA",
+        "state": "Illinois"
+    },
+    {
+        "name": "Indiana",
+        "link": "https://www.w3newspapers.com/usa/indiana/",
+        "country": "USA",
+        "state": "Indiana"
+    },
+    {
+        "name": "Iowa",
+        "link": "https://www.w3newspapers.com/usa/iowa/",
+        "country": "USA",
+        "state": "Iowa"
+    },
+    {
+        "name": "Kansas",
+        "link": "https://www.w3newspapers.com/usa/kansas/",
+        "country": "USA",
+        "state": "Kansas"
+    },
+    {
+        "name": "Kentucky",
+        "link": "https://www.w3newspapers.com/usa/kentucky/",
+        "country": "USA",
+        "state": "Kentucky"
+    },
+    {
+        "name": "Louisiana",
+        "link": "https://www.w3newspapers.com/usa/louisiana/",
+        "country": "USA",
+        "state": "Louisiana"
+    },
+    {
+        "name": "Maine",
+        "link": "https://www.w3newspapers.com/usa/maine/",
+        "country": "USA",
+        "state": "Maine"
+    },
+    {
+        "name": "Maryland",
+        "link": "https://www.w3newspapers.com/usa/maryland/",
+        "country": "USA",
+        "state": "Maryland"
+    },
+    {
+        "name": "Massachusetts",
+        "link": "https://www.w3newspapers.com/usa/massachusetts/",
+        "country": "USA",
+        "state": "Massachusetts"
+    },
+    {
+        "name": "Michigan",
+        "link": "https://www.w3newspapers.com/usa/michigan/",
+        "country": "USA",
+        "state": "Michigan"
+    },
+    {
+        "name": "Minnesota",
+        "link": "https://www.w3newspapers.com/usa/minnesota/",
+        "country": "USA",
+        "state": "Minnesota"
+    },
+    {
+        "name": "Mississippi",
+        "link": "https://www.w3newspapers.com/usa/mississippi/",
+        "country": "USA",
+        "state": "Mississippi"
+    },
+    {
+        "name": "Missouri",
+        "link": "https://www.w3newspapers.com/usa/missouri/",
+        "country": "USA",
+        "state": "Missouri"
+    },
+    {
+        "name": "Montana",
+        "link": "https://www.w3newspapers.com/usa/montana/",
+        "country": "USA",
+        "state": "Montana"
+    },
+    {
+        "name": "Nebraska",
+        "link": "https://www.w3newspapers.com/usa/nebraska/",
+        "country": "USA",
+        "state": "Nebraska"
+    },
+    {
+        "name": "Nevada",
+        "link": "https://www.w3newspapers.com/usa/nevada/",
+        "country": "USA",
+        "state": "Nevada"
+    },
+    {
+        "name": "New Hampshire",
+        "link": "https://www.w3newspapers.com/usa/new-hampshire/",
+        "country": "USA",
+        "state": "New Hampshire"
+    },
+    {
+        "name": "New Jersey",
+        "link": "https://www.w3newspapers.com/usa/new-jersey/",
+        "country": "USA",
+        "state": "New Jersey"
+    },
+    {
+        "name": "New Mexico",
+        "link": "https://www.w3newspapers.com/usa/new-mexico/",
+        "country": "USA",
+        "state": "New Mexico"
+    },
+    {
+        "name": "New York",
+        "link": "https://www.w3newspapers.com/usa/new-york/",
+        "country": "USA",
+        "state": "New York"
+    },
+    {
+        "name": "North Carolina",
+        "link": "https://www.w3newspapers.com/usa/north-carolina/",
+        "country": "USA",
+        "state": "North Carolina"
+    },
+    {
+        "name": "North Dakota",
+        "link": "https://www.w3newspapers.com/usa/north-dakota/",
+        "country": "USA",
+        "state": "North Dakota"
+    },
+    {
+        "name": "Ohio",
+        "link": "https://www.w3newspapers.com/usa/ohio/",
+        "country": "USA",
+        "state": "Ohio"
+    },
+    {
+        "name": "Oklahoma",
+        "link": "https://www.w3newspapers.com/usa/oklahoma/",
+        "country": "USA",
+        "state": "Oklahoma"
+    },
+    {
+        "name": "Oregon",
+        "link": "https://www.w3newspapers.com/usa/oregon/",
+        "country": "USA",
+        "state": "Oregon"
+    },
+    {
+        "name": "Pennsylvania",
+        "link": "https://www.w3newspapers.com/usa/pennsylvania/",
+        "country": "USA",
+        "state": "Pennsylvania"
+    },
+    {
+        "name": "Rhode Island",
+        "link": "https://www.w3newspapers.com/usa/rhode-island/",
+        "country": "USA",
+        "state": "Rhode Island"
+    },
+    {
+        "name": "South Carolina",
+        "link": "https://www.w3newspapers.com/usa/south-carolina/",
+        "country": "USA",
+        "state": "South Carolina"
+    },
+    {
+        "name": "South Dakota",
+        "link": "https://www.w3newspapers.com/usa/south-dakota/",
+        "country": "USA",
+        "state": "South Dakota"
+    },
+    {
+        "name": "Tennessee",
+        "link": "https://www.w3newspapers.com/usa/tennessee/",
+        "country": "USA",
+        "state": "Tennessee"
+    },
+    {
+        "name": "Texas",
+        "link": "https://www.w3newspapers.com/usa/texas/",
+        "country": "USA",
+        "state": "Texas"
+    },
+    {
+        "name": "Utah",
+        "link": "https://www.w3newspapers.com/usa/utah/",
+        "country": "USA",
+        "state": "Utah"
+    },
+    {
+        "name": "Vermont",
+        "link": "https://www.w3newspapers.com/usa/vermont/",
+        "country": "USA",
+        "state": "Vermont"
+    },
+    {
+        "name": "Virginia",
+        "link": "https://www.w3newspapers.com/usa/virginia/",
+        "country": "USA",
+        "state": "Virginia"
+    },
+    {
+        "name": "Washington",
+        "link": "https://www.w3newspapers.com/usa/washington/",
+        "country": "USA",
+        "state": "Washington"
+    },
+    {
+        "name": "Washington, D.C.",
+        "link": "https://www.w3newspapers.com/usa/district-of-columbia/",
+        "country": "USA",
+        "state": "Washington, D.C."
+    },
+    {
+        "name": "West Virginia",
+        "link": "https://www.w3newspapers.com/usa/west-virginia/",
+        "country": "USA",
+        "state": "West Virginia"
+    },
+    {
+        "name": "Wisconsin",
+        "link": "https://www.w3newspapers.com/usa/wisconsin/",
+        "country": "USA",
+        "state": "Wisconsin"
+    },
+    {
+        "name": "Wyoming",
+        "link": "https://www.w3newspapers.com/usa/wyoming/",
+        "country": "USA",
+        "state": "Wyoming"
+    },
+    {
+        "name": "Afghanistan",
+        "link": "https://www.w3newspapers.com/afghanistan/",
+        "country": "Afghanistan",
+        "state": ""
+    },
+    {
+        "name": "Albania",
+        "link": "https://www.w3newspapers.com/albania/",
+        "country": "Albania",
+        "state": ""
+    },
+    {
+        "name": "Algeria",
+        "link": "https://www.w3newspapers.com/algeria/",
+        "country": "Algeria",
+        "state": ""
+    },
+    {
+        "name": "Andorra",
+        "link": "https://www.w3newspapers.com/andorra/",
+        "country": "Andorra",
+        "state": ""
+    },
+    {
+        "name": "Angola",
+        "link": "https://www.w3newspapers.com/angola/",
+        "country": "Angola",
+        "state": ""
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "link": "https://www.w3newspapers.com/antigua-and-barbuda/",
+        "country": "Antigua and Barbuda",
+        "state": ""
+    },
+    {
+        "name": "Argentina",
+        "link": "https://www.w3newspapers.com/argentina/",
+        "country": "Argentina",
+        "state": ""
+    },
+    {
+        "name": "Armenia",
+        "link": "https://www.w3newspapers.com/armenia/",
+        "country": "Armenia",
+        "state": ""
+    },
+    {
+        "name": "Aruba",
+        "link": "https://www.w3newspapers.com/aruba/",
+        "country": "Aruba",
+        "state": ""
+    },
+    {
+        "name": "Australia",
+        "link": "https://www.w3newspapers.com/australia/",
+        "country": "Australia",
+        "state": ""
+    },
+    {
+        "name": "Austria",
+        "link": "https://www.w3newspapers.com/austria/",
+        "country": "Austria",
+        "state": ""
+    },
+    {
+        "name": "Azerbaijan",
+        "link": "https://www.w3newspapers.com/azerbaijan/",
+        "country": "Azerbaijan",
+        "state": ""
+    },
+    {
+        "name": "Bahamas",
+        "link": "https://www.w3newspapers.com/bahamas/",
+        "country": "Bahamas",
+        "state": ""
+    },
+    {
+        "name": "Belgium",
+        "link": "https://www.w3newspapers.com/belgium/",
+        "country": "Belgium",
+        "state": ""
+    },
+    {
+        "name": "Belize",
+        "link": "https://www.w3newspapers.com/belize/",
+        "country": "Belize",
+        "state": ""
+    },
+    {
+        "name": "Bermuda",
+        "link": "https://www.w3newspapers.com/bermuda/",
+        "country": "Bermuda",
+        "state": ""
+    },
+    {
+        "name": "Bahrain",
+        "link": "https://www.w3newspapers.com/bahrain/",
+        "country": "Bahrain",
+        "state": ""
+    },
+    {
+        "name": "Bangladesh",
+        "link": "https://www.w3newspapers.com/bangladesh/",
+        "country": "Bangladesh",
+        "state": ""
+    },
+    {
+        "name": "Barbados",
+        "link": "https://www.w3newspapers.com/barbados/",
+        "country": "Barbados",
+        "state": ""
+    },
+    {
+        "name": "Belarus",
+        "link": "https://www.w3newspapers.com/belarus/",
+        "country": "Belarus",
+        "state": ""
+    },
+    {
+        "name": "Benin",
+        "link": "https://www.w3newspapers.com/benin/",
+        "country": "Benin",
+        "state": ""
+    },
+    {
+        "name": "Bhutan",
+        "link": "https://www.w3newspapers.com/bhutan/",
+        "country": "Bhutan",
+        "state": ""
+    },
+    {
+        "name": "Bolivia",
+        "link": "https://www.w3newspapers.com/bolivia/",
+        "country": "Bolivia",
+        "state": ""
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "link": "https://www.w3newspapers.com/bosnia-and-herzegovina/",
+        "country": "Bosnia and Herzegovina",
+        "state": ""
+    },
+    {
+        "name": "Botswana",
+        "link": "https://www.w3newspapers.com/botswana/",
+        "country": "Botswana",
+        "state": ""
+    },
+    {
+        "name": "Brazil",
+        "link": "https://www.w3newspapers.com/brazil/",
+        "country": "Brazil",
+        "state": ""
+    },
+    {
+        "name": "British Virgin Islands",
+        "link": "https://www.w3newspapers.com/british-virgin-islands/",
+        "country": "British Virgin Islands",
+        "state": ""
+    },
+    {
+        "name": "Brunei",
+        "link": "https://www.w3newspapers.com/brunei/",
+        "country": "Brunei",
+        "state": ""
+    },
+    {
+        "name": "Bulgaria",
+        "link": "https://www.w3newspapers.com/bulgaria/",
+        "country": "Bulgaria",
+        "state": ""
+    },
+    {
+        "name": "Burkina Faso",
+        "link": "https://www.w3newspapers.com/burkina-faso/",
+        "country": "Burkina Faso",
+        "state": ""
+    },
+    {
+        "name": "Burundi",
+        "link": "https://www.w3newspapers.com/burundi/",
+        "country": "Burundi",
+        "state": ""
+    },
+    {
+        "name": "Cape Verde",
+        "link": "https://www.w3newspapers.com/cape-verde/",
+        "country": "Cape Verde",
+        "state": ""
+    },
+    {
+        "name": "Central African Republic",
+        "link": "https://www.w3newspapers.com/central-african-republic/",
+        "country": "Central African Republic",
+        "state": ""
+    },
+    {
+        "name": "Cambodia",
+        "link": "https://www.w3newspapers.com/cambodia/",
+        "country": "Cambodia",
+        "state": ""
+    },
+    {
+        "name": "Cameroon",
+        "link": "https://www.w3newspapers.com/cameroon/",
+        "country": "Cameroon",
+        "state": ""
+    },
+    {
+        "name": "Canada",
+        "link": "https://www.w3newspapers.com/canada/",
+        "country": "Canada",
+        "state": ""
+    },
+    {
+        "name": "Chad",
+        "link": "https://www.w3newspapers.com/chad/",
+        "country": "Chad",
+        "state": ""
+    },
+    {
+        "name": "Chechnya",
+        "link": "https://www.w3newspapers.com/chechnya/",
+        "country": "Chechnya",
+        "state": ""
+    },
+    {
+        "name": "Chile",
+        "link": "https://www.w3newspapers.com/chile/",
+        "country": "Chile",
+        "state": ""
+    },
+    {
+        "name": "China",
+        "link": "https://www.w3newspapers.com/chinese/",
+        "country": "China",
+        "state": ""
+    },
+    {
+        "name": "Colombia",
+        "link": "https://www.w3newspapers.com/colombia/",
+        "country": "Colombia",
+        "state": ""
+    },
+    {
+        "name": "Costa Rica",
+        "link": "https://www.w3newspapers.com/costa-rica/",
+        "country": "Costa Rica",
+        "state": ""
+    },
+    {
+        "name": "Comoros",
+        "link": "https://www.w3newspapers.com/comoros/",
+        "country": "Comoros",
+        "state": ""
+    },
+    {
+        "name": "Congo",
+        "link": "https://www.w3newspapers.com/congo/",
+        "country": "Congo",
+        "state": ""
+    },
+    {
+        "name": "Cook Islands",
+        "link": "https://www.w3newspapers.com/cook-islands/",
+        "country": "Cook Islands",
+        "state": ""
+    },
+    {
+        "name": "Croatia",
+        "link": "https://www.w3newspapers.com/croatia/",
+        "country": "Croatia",
+        "state": ""
+    },
+    {
+        "name": "Cuba",
+        "link": "https://www.w3newspapers.com/cuba/",
+        "country": "Cuba",
+        "state": ""
+    },
+    {
+        "name": "Cyprus",
+        "link": "https://www.w3newspapers.com/cyprus/",
+        "country": "Cyprus",
+        "state": ""
+    },
+    {
+        "name": "Czech Republic",
+        "link": "https://www.w3newspapers.com/czech-republic/",
+        "country": "Czech Republic",
+        "state": ""
+    },
+    {
+        "name": "Djibouti",
+        "link": "https://www.w3newspapers.com/djibouti/",
+        "country": "Djibouti",
+        "state": ""
+    },
+    {
+        "name": "Denmark",
+        "link": "https://www.w3newspapers.com/denmark/",
+        "country": "Denmark",
+        "state": ""
+    },
+    {
+        "name": "Dominican Republic",
+        "link": "https://www.w3newspapers.com/dominican-republic/",
+        "country": "Dominican Republic",
+        "state": ""
+    },
+    {
+        "name": "Dominica",
+        "link": "https://www.w3newspapers.com/dominica/",
+        "country": "Dominica",
+        "state": ""
+    },
+    {
+        "name": "Ecuador",
+        "link": "https://www.w3newspapers.com/ecuador/",
+        "country": "Ecuador",
+        "state": ""
+    },
+    {
+        "name": "Egypt",
+        "link": "https://www.w3newspapers.com/egypt/",
+        "country": "Egypt",
+        "state": ""
+    },
+    {
+        "name": "El Salvador",
+        "link": "https://www.w3newspapers.com/el-salvador/",
+        "country": "El Salvador",
+        "state": ""
+    },
+    {
+        "name": "Equatorial Guinea",
+        "link": "https://www.w3newspapers.com/equatorial-guinea/",
+        "country": "Equatorial Guinea",
+        "state": ""
+    },
+    {
+        "name": "Eritrea",
+        "link": "https://www.w3newspapers.com/eritrea/",
+        "country": "Eritrea",
+        "state": ""
+    },
+    {
+        "name": "Estonia",
+        "link": "https://www.w3newspapers.com/estonia/",
+        "country": "Estonia",
+        "state": ""
+    },
+    {
+        "name": "Ethiopia",
+        "link": "https://www.w3newspapers.com/ethiopia/",
+        "country": "Ethiopia",
+        "state": ""
+    },
+    {
+        "name": "France",
+        "link": "https://www.w3newspapers.com/france/",
+        "country": "France",
+        "state": ""
+    },
+    {
+        "name": "Fiji",
+        "link": "https://www.w3newspapers.com/fiji/",
+        "country": "Fiji",
+        "state": ""
+    },
+    {
+        "name": "Finland",
+        "link": "https://www.w3newspapers.com/finland/",
+        "country": "Finland",
+        "state": ""
+    },
+    {
+        "name": "Falkland Islands",
+        "link": "https://www.w3newspapers.com/falkland-islands/",
+        "country": "Falkland Islands",
+        "state": ""
+    },
+    {
+        "name": "Gabon",
+        "link": "https://www.w3newspapers.com/gabon/",
+        "country": "Gabon",
+        "state": ""
+    },
+    {
+        "name": "Gambia",
+        "link": "https://www.w3newspapers.com/gambia/",
+        "country": "Gambia",
+        "state": ""
+    },
+    {
+        "name": "Germany",
+        "link": "https://www.w3newspapers.com/germany/",
+        "country": "Germany",
+        "state": ""
+    },
+    {
+        "name": "Georgia",
+        "link": "https://www.w3newspapers.com/georgia/",
+        "country": "Georgia",
+        "state": ""
+    },
+    {
+        "name": "Ghana",
+        "link": "https://www.w3newspapers.com/ghana/",
+        "country": "Ghana",
+        "state": ""
+    },
+    {
+        "name": "Greece",
+        "link": "https://www.w3newspapers.com/greece/",
+        "country": "Greece",
+        "state": ""
+    },
+    {
+        "name": "Grenada",
+        "link": "https://www.w3newspapers.com/grenada/",
+        "country": "Grenada",
+        "state": ""
+    },
+    {
+        "name": "Guyana",
+        "link": "https://www.w3newspapers.com/guyana/",
+        "country": "Guyana",
+        "state": ""
+    },
+    {
+        "name": "Guatemala",
+        "link": "https://www.w3newspapers.com/guatemala/",
+        "country": "Guatemala",
+        "state": ""
+    },
+    {
+        "name": "Guinea",
+        "link": "https://www.w3newspapers.com/guinea/",
+        "country": "Guinea",
+        "state": ""
+    },
+    {
+        "name": "Guinea Bissau",
+        "link": "https://www.w3newspapers.com/guinea-bissau/",
+        "country": "Guinea Bissau",
+        "state": ""
+    },
+    {
+        "name": "Haiti",
+        "link": "https://www.w3newspapers.com/haiti/",
+        "country": "Haiti",
+        "state": ""
+    },
+    {
+        "name": "Hong Kong",
+        "link": "https://www.w3newspapers.com/hong-kong/",
+        "country": "Hong Kong",
+        "state": ""
+    },
+    {
+        "name": "Hungary",
+        "link": "https://www.w3newspapers.com/hungary/",
+        "country": "Hungary",
+        "state": ""
+    },
+    {
+        "name": "Honduras",
+        "link": "https://www.w3newspapers.com/honduras/",
+        "country": "Honduras",
+        "state": ""
+    },
+    {
+        "name": "Iceland",
+        "link": "https://www.w3newspapers.com/iceland/",
+        "country": "Iceland",
+        "state": ""
+    },
+    {
+        "name": "India",
+        "link": "https://www.w3newspapers.com/india/",
+        "country": "India",
+        "state": ""
+    },
+    {
+        "name": "Indonesia",
+        "link": "https://www.w3newspapers.com/indonesia/",
+        "country": "Indonesia",
+        "state": ""
+    },
+    {
+        "name": "Iran",
+        "link": "https://www.w3newspapers.com/iran/",
+        "country": "Iran",
+        "state": ""
+    },
+    {
+        "name": "Iraq",
+        "link": "https://www.w3newspapers.com/iraq/",
+        "country": "Iraq",
+        "state": ""
+    },
+    {
+        "name": "Israel",
+        "link": "https://www.w3newspapers.com/israel/",
+        "country": "Israel",
+        "state": ""
+    },
+    {
+        "name": "Ireland",
+        "link": "https://www.w3newspapers.com/ireland/",
+        "country": "Ireland",
+        "state": ""
+    },
+    {
+        "name": "Italy",
+        "link": "https://www.w3newspapers.com/italy/",
+        "country": "Italy",
+        "state": ""
+    },
+    {
+        "name": "Ivory Coast",
+        "link": "https://www.w3newspapers.com/ivory-coast/",
+        "country": "Ivory Coast",
+        "state": ""
+    },
+    {
+        "name": "Jamaica",
+        "link": "https://www.w3newspapers.com/jamaica/",
+        "country": "Jamaica",
+        "state": ""
+    },
+    {
+        "name": "Japan",
+        "link": "https://www.w3newspapers.com/japan/",
+        "country": "Japan",
+        "state": ""
+    },
+    {
+        "name": "Jordan",
+        "link": "https://www.w3newspapers.com/jordan/",
+        "country": "Jordan",
+        "state": ""
+    },
+    {
+        "name": "Kazakhstan",
+        "link": "https://www.w3newspapers.com/kazakhstan/",
+        "country": "Kazakhstan",
+        "state": ""
+    },
+    {
+        "name": "Kuwait",
+        "link": "https://www.w3newspapers.com/kuwait/",
+        "country": "Kuwait",
+        "state": ""
+    },
+    {
+        "name": "Kenya",
+        "link": "https://www.w3newspapers.com/kenya/",
+        "country": "Kenya",
+        "state": ""
+    },
+    {
+        "name": "Kiribati",
+        "link": "https://www.w3newspapers.com/kiribati/",
+        "country": "Kiribati",
+        "state": ""
+    },
+    {
+        "name": "Kyrgyzstan",
+        "link": "https://www.w3newspapers.com/kyrgyzstan/",
+        "country": "Kyrgyzstan",
+        "state": ""
+    },
+    {
+        "name": "Latvia",
+        "link": "https://www.w3newspapers.com/latvia/",
+        "country": "Latvia",
+        "state": ""
+    },
+    {
+        "name": "Lesotho",
+        "link": "https://www.w3newspapers.com/lesotho/",
+        "country": "Lesotho",
+        "state": ""
+    },
+    {
+        "name": "Laos",
+        "link": "https://www.w3newspapers.com/laos/",
+        "country": "Laos",
+        "state": ""
+    },
+    {
+        "name": "Lebanon",
+        "link": "https://www.w3newspapers.com/lebanon/",
+        "country": "Lebanon",
+        "state": ""
+    },
+    {
+        "name": "Liberia",
+        "link": "https://www.w3newspapers.com/liberia/",
+        "country": "Liberia",
+        "state": ""
+    },
+    {
+        "name": "Libya",
+        "link": "https://www.w3newspapers.com/libya/",
+        "country": "Libya",
+        "state": ""
+    },
+    {
+        "name": "Liechtenstein",
+        "link": "https://www.w3newspapers.com/liechtenstein/",
+        "country": "Liechtenstein",
+        "state": ""
+    },
+    {
+        "name": "Lithuania",
+        "link": "https://www.w3newspapers.com/lithuania/",
+        "country": "Lithuania",
+        "state": ""
+    },
+    {
+        "name": "Luxembourg",
+        "link": "https://www.w3newspapers.com/luxembourg/",
+        "country": "Luxembourg",
+        "state": ""
+    },
+    {
+        "name": "Macedonia",
+        "link": "https://www.w3newspapers.com/macedonia/",
+        "country": "Macedonia",
+        "state": ""
+    },
+    {
+        "name": "Madagascar",
+        "link": "https://www.w3newspapers.com/madagascar/",
+        "country": "Madagascar",
+        "state": ""
+    },
+    {
+        "name": "Malawi",
+        "link": "https://www.w3newspapers.com/malawi/",
+        "country": "Malawi",
+        "state": ""
+    },
+    {
+        "name": "Malaysia",
+        "link": "https://www.w3newspapers.com/malaysia/",
+        "country": "Malaysia",
+        "state": ""
+    },
+    {
+        "name": "Maldives",
+        "link": "https://www.w3newspapers.com/maldives/",
+        "country": "Maldives",
+        "state": ""
+    },
+    {
+        "name": "Malta",
+        "link": "https://www.w3newspapers.com/malta/",
+        "country": "Malta",
+        "state": ""
+    },
+    {
+        "name": "Mali",
+        "link": "https://www.w3newspapers.com/mali/",
+        "country": "Mali",
+        "state": ""
+    },
+    {
+        "name": "Marshall Islands",
+        "link": "https://www.w3newspapers.com/marshall-islands/",
+        "country": "Marshall Islands",
+        "state": ""
+    },
+    {
+        "name": "Mexico",
+        "link": "https://www.w3newspapers.com/mexico/",
+        "country": "M\u00e9xico",
+        "state": ""
+    },
+    {
+        "name": "Monaco",
+        "link": "https://www.w3newspapers.com/monaco/",
+        "country": "Monaco",
+        "state": ""
+    },
+    {
+        "name": "Micronesia",
+        "link": "https://www.w3newspapers.com/micronesia/",
+        "country": "Micronesia",
+        "state": ""
+    },
+    {
+        "name": "Moldova",
+        "link": "https://www.w3newspapers.com/moldova/",
+        "country": "Moldova",
+        "state": ""
+    },
+    {
+        "name": "Mongolia",
+        "link": "https://www.w3newspapers.com/mongolia/",
+        "country": "Mongolia",
+        "state": ""
+    },
+    {
+        "name": "Montenegro",
+        "link": "https://www.w3newspapers.com/montenegro/",
+        "country": "Montenegro",
+        "state": ""
+    },
+    {
+        "name": "Montserrat",
+        "link": "https://www.w3newspapers.com/montserrat/",
+        "country": "Montserrat",
+        "state": ""
+    },
+    {
+        "name": "Morocco",
+        "link": "https://www.w3newspapers.com/morocco/",
+        "country": "Morocco",
+        "state": ""
+    },
+    {
+        "name": "Mauritania",
+        "link": "https://www.w3newspapers.com/mauritania/",
+        "country": "Mauritania",
+        "state": ""
+    },
+    {
+        "name": "Mauritius",
+        "link": "https://www.w3newspapers.com/mauritius/",
+        "country": "Mauritius",
+        "state": ""
+    },
+    {
+        "name": "Myanmar",
+        "link": "https://www.w3newspapers.com/myanmar/",
+        "country": "Myanmar",
+        "state": ""
+    },
+    {
+        "name": "Mozambique",
+        "link": "https://www.w3newspapers.com/mozambique/",
+        "country": "Mozambique",
+        "state": ""
+    },
+    {
+        "name": "Namibia",
+        "link": "https://www.w3newspapers.com/namibia/",
+        "country": "Namibia",
+        "state": ""
+    },
+    {
+        "name": "Nauru",
+        "link": "https://www.w3newspapers.com/nauru/",
+        "country": "Nauru",
+        "state": ""
+    },
+    {
+        "name": "Netherlands",
+        "link": "https://www.w3newspapers.com/netherlands/",
+        "country": "Netherlands",
+        "state": ""
+    },
+    {
+        "name": "Nepal",
+        "link": "https://www.w3newspapers.com/nepal/",
+        "country": "Nepal",
+        "state": ""
+    },
+    {
+        "name": "Nicaragua",
+        "link": "https://www.w3newspapers.com/nicaragua/",
+        "country": "Nicaragua",
+        "state": ""
+    },
+    {
+        "name": "Nigeria",
+        "link": "https://www.w3newspapers.com/nigeria/",
+        "country": "Nigeria",
+        "state": ""
+    },
+    {
+        "name": "Niger",
+        "link": "https://www.w3newspapers.com/niger/",
+        "country": "Niger",
+        "state": ""
+    },
+    {
+        "name": "North Korea",
+        "link": "https://www.w3newspapers.com/north-korea/",
+        "country": "North Korea",
+        "state": ""
+    },
+    {
+        "name": "Norway",
+        "link": "https://www.w3newspapers.com/norway/",
+        "country": "Norway",
+        "state": ""
+    },
+    {
+        "name": "New Zealand",
+        "link": "https://www.w3newspapers.com/new-zealand/",
+        "country": "New Zealand",
+        "state": ""
+    },
+    {
+        "name": "Oman",
+        "link": "https://www.w3newspapers.com/oman/",
+        "country": "Oman",
+        "state": ""
+    },
+    {
+        "name": "Pakistan",
+        "link": "https://www.w3newspapers.com/pakistan/",
+        "country": "Pakistan",
+        "state": ""
+    },
+    {
+        "name": "Palau",
+        "link": "https://www.w3newspapers.com/palau/",
+        "country": "Palau",
+        "state": ""
+    },
+    {
+        "name": "Palestine",
+        "link": "https://www.w3newspapers.com/palestine/",
+        "country": "Palestine",
+        "state": ""
+    },
+    {
+        "name": "Panama",
+        "link": "https://www.w3newspapers.com/panama/",
+        "country": "Panama",
+        "state": ""
+    },
+    {
+        "name": "Papua New Guinea",
+        "link": "https://www.w3newspapers.com/papua-new-guinea/",
+        "country": "Papua New Guinea",
+        "state": ""
+    },
+    {
+        "name": "Paraguay",
+        "link": "https://www.w3newspapers.com/paraguay/",
+        "country": "Paraguay",
+        "state": ""
+    },
+    {
+        "name": "Peru",
+        "link": "https://www.w3newspapers.com/peru/",
+        "country": "Peru",
+        "state": ""
+    },
+    {
+        "name": "Philippines",
+        "link": "https://www.w3newspapers.com/philippines/",
+        "country": "Philippines",
+        "state": ""
+    },
+    {
+        "name": "Poland",
+        "link": "https://www.w3newspapers.com/poland/",
+        "country": "Poland",
+        "state": ""
+    },
+    {
+        "name": "Portugal",
+        "link": "https://www.w3newspapers.com/portugal/",
+        "country": "Portugal",
+        "state": ""
+    },
+    {
+        "name": "Qatar",
+        "link": "https://www.w3newspapers.com/qatar/",
+        "country": "Qatar",
+        "state": ""
+    },
+    {
+        "name": "Romania",
+        "link": "https://www.w3newspapers.com/romania/",
+        "country": "Romania",
+        "state": ""
+    },
+    {
+        "name": "Russia",
+        "link": "https://www.w3newspapers.com/russia/",
+        "country": "Russia",
+        "state": ""
+    },
+    {
+        "name": "Rwanda",
+        "link": "https://www.w3newspapers.com/rwanda/",
+        "country": "Rwanda",
+        "state": ""
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "link": "https://www.w3newspapers.com/saint-kitts-and-nevis/",
+        "country": "Saint Kitts and Nevis",
+        "state": ""
+    },
+    {
+        "name": "Saint Lucia",
+        "link": "https://www.w3newspapers.com/saint-lucia/",
+        "country": "Saint Lucia",
+        "state": ""
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "link": "https://www.w3newspapers.com/saint-vincent-and-the-grenadines/",
+        "country": "Saint Vincent and the Grenadines",
+        "state": ""
+    },
+    {
+        "name": "Samoa",
+        "link": "https://www.w3newspapers.com/samoa/",
+        "country": "Samoa",
+        "state": ""
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "link": "https://www.w3newspapers.com/sao-tome-and-principe/",
+        "country": "Sao Tome and Principe",
+        "state": ""
+    },
+    {
+        "name": "Saudi Arabia",
+        "link": "https://www.w3newspapers.com/saudi-arabia/",
+        "country": "Saudi Arabia",
+        "state": ""
+    },
+    {
+        "name": "Senegal",
+        "link": "https://www.w3newspapers.com/senegal/",
+        "country": "Senegal",
+        "state": ""
+    },
+    {
+        "name": "Serbia",
+        "link": "https://www.w3newspapers.com/serbia/",
+        "country": "Serbia",
+        "state": ""
+    },
+    {
+        "name": "Singapore",
+        "link": "https://www.w3newspapers.com/singapore/",
+        "country": "Singapore",
+        "state": ""
+    },
+    {
+        "name": "Slovakia",
+        "link": "https://www.w3newspapers.com/slovakia/",
+        "country": "Slovakia",
+        "state": ""
+    },
+    {
+        "name": "Slovenia",
+        "link": "https://www.w3newspapers.com/slovenia/",
+        "country": "Slovenia",
+        "state": ""
+    },
+    {
+        "name": "Solomon Islands",
+        "link": "https://www.w3newspapers.com/solomon-islands/",
+        "country": "Solomon Islands",
+        "state": ""
+    },
+    {
+        "name": "Seychelles",
+        "link": "https://www.w3newspapers.com/seychelles/",
+        "country": "Seychelles",
+        "state": ""
+    },
+    {
+        "name": "Sierra Leone",
+        "link": "https://www.w3newspapers.com/sierra-leone/",
+        "country": "Sierra Leone",
+        "state": ""
+    },
+    {
+        "name": "South Korea",
+        "link": "https://www.w3newspapers.com/south-korea/",
+        "country": "South Korea",
+        "state": ""
+    },
+    {
+        "name": "Spain",
+        "link": "https://www.w3newspapers.com/spain/",
+        "country": "Spain",
+        "state": ""
+    },
+    {
+        "name": "Sri Lanka",
+        "link": "https://www.w3newspapers.com/srilanka/",
+        "country": "Sri Lanka",
+        "state": ""
+    },
+    {
+        "name": "Somalia",
+        "link": "https://www.w3newspapers.com/somalia/",
+        "country": "Somalia",
+        "state": ""
+    },
+    {
+        "name": "South Africa",
+        "link": "https://www.w3newspapers.com/south-africa/",
+        "country": "South Africa",
+        "state": ""
+    },
+    {
+        "name": "South Sudan",
+        "link": "https://www.w3newspapers.com/southsudan/",
+        "country": "South Sudan",
+        "state": ""
+    },
+    {
+        "name": "Sudan",
+        "link": "https://www.w3newspapers.com/sudan/",
+        "country": "Sudan",
+        "state": ""
+    },
+    {
+        "name": "Suriname",
+        "link": "https://www.w3newspapers.com/suriname/",
+        "country": "Suriname",
+        "state": ""
+    },
+    {
+        "name": "Swaziland",
+        "link": "https://www.w3newspapers.com/swaziland/",
+        "country": "Swaziland",
+        "state": ""
+    },
+    {
+        "name": "Sweden",
+        "link": "https://www.w3newspapers.com/sweden/",
+        "country": "Sweden",
+        "state": ""
+    },
+    {
+        "name": "Switzerland",
+        "link": "https://www.w3newspapers.com/switzerland/",
+        "country": "Switzerland",
+        "state": ""
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "link": "https://www.w3newspapers.com/syria/",
+        "country": "Syrian Arab Republic",
+        "state": ""
+    },
+    {
+        "name": "Tanzania",
+        "link": "https://www.w3newspapers.com/tanzania/",
+        "country": "Tanzania",
+        "state": ""
+    },
+    {
+        "name": "Tajikistan",
+        "link": "https://www.w3newspapers.com/tajikistan/",
+        "country": "Tajikistan",
+        "state": ""
+    },
+    {
+        "name": "Taiwan",
+        "link": "https://www.w3newspapers.com/taiwan/",
+        "country": "Taiwan",
+        "state": ""
+    },
+    {
+        "name": "Thailand",
+        "link": "https://www.w3newspapers.com/thailand/",
+        "country": "Thailand",
+        "state": ""
+    },
+    {
+        "name": "Tonga",
+        "link": "https://www.w3newspapers.com/tonga/",
+        "country": "Tonga",
+        "state": ""
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "link": "https://www.w3newspapers.com/trinidad-and-tobago/",
+        "country": "Trinidad and Tobago",
+        "state": ""
+    },
+    {
+        "name": "Togo",
+        "link": "https://www.w3newspapers.com/togo/",
+        "country": "Togo",
+        "state": ""
+    },
+    {
+        "name": "Turkmenistan",
+        "link": "https://www.w3newspapers.com/turkmenistan/",
+        "country": "Turkmenistan",
+        "state": ""
+    },
+    {
+        "name": "Tuvalu",
+        "link": "https://www.w3newspapers.com/tuvalu/",
+        "country": "Tuvalu",
+        "state": ""
+    },
+    {
+        "name": "Tunisia",
+        "link": "https://www.w3newspapers.com/tunisia/",
+        "country": "Tunisia",
+        "state": ""
+    },
+    {
+        "name": "Turkey",
+        "link": "https://www.w3newspapers.com/turkey/",
+        "country": "Turkey",
+        "state": ""
+    },
+    {
+        "name": "UAE",
+        "link": "https://www.w3newspapers.com/uae/",
+        "country": "UAE",
+        "state": ""
+    },
+    {
+        "name": "Uganda",
+        "link": "https://www.w3newspapers.com/uganda/",
+        "country": "Uganda",
+        "state": ""
+    },
+    {
+        "name": "UK",
+        "link": "https://www.w3newspapers.com/uk/",
+        "country": "UK",
+        "state": ""
+    },
+    {
+        "name": "Ukraine",
+        "link": "https://www.w3newspapers.com/ukraine/",
+        "country": "Ukraine",
+        "state": ""
+    },
+    {
+        "name": "Uruguay",
+        "link": "https://www.w3newspapers.com/uruguay/",
+        "country": "Uruguay",
+        "state": ""
+    },
+    {
+        "name": "USA",
+        "link": "https://www.w3newspapers.com/usa/",
+        "country": "USA",
+        "state": ""
+    },
+    {
+        "name": "Uzbekistan",
+        "link": "https://www.w3newspapers.com/uzbekistan/",
+        "country": "Uzbekistan",
+        "state": ""
+    },
+    {
+        "name": "Vanuatu",
+        "link": "https://www.w3newspapers.com/vanuatu/",
+        "country": "Vanuatu",
+        "state": ""
+    },
+    {
+        "name": "Vatican City",
+        "link": "https://www.w3newspapers.com/vatican-city/",
+        "country": "Vatican City",
+        "state": ""
+    },
+    {
+        "name": "Venezuela",
+        "link": "https://www.w3newspapers.com/venezuela/",
+        "country": "Venezuela",
+        "state": ""
+    },
+    {
+        "name": "VietNam",
+        "link": "https://www.w3newspapers.com/vietnam/",
+        "country": "VietNam",
+        "state": ""
+    },
+    {
+        "name": "Western Sahara",
+        "link": "https://www.w3newspapers.com/western-sahara/",
+        "country": "Western Sahara",
+        "state": ""
+    },
+    {
+        "name": "Yemen",
+        "link": "https://www.w3newspapers.com/yemen/",
+        "country": "Yemen",
+        "state": ""
+    },
+    {
+        "name": "Zambia",
+        "link": "https://www.w3newspapers.com/zambia/",
+        "country": "Zambia",
+        "state": ""
+    },
+    {
+        "name": "Zimbabwe",
+        "link": "https://www.w3newspapers.com/zimbabwe/",
+        "country": "Zimbabwe",
+        "state": ""
+    }
+]
