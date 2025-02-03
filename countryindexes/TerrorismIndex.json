@@ -1,0 +1,472 @@
+[
+    {
+      "country": "India",
+      "GlobalTerrorismIndex_Score_2024": 6.324,
+      "GlobalTerrorismIndex_Score_2023": 7.175
+    },
+    {
+      "country": "China",
+      "GlobalTerrorismIndex_Score_2024": 0.582,
+      "GlobalTerrorismIndex_Score_2023": null
+    },
+    {
+      "country": "United States",
+      "GlobalTerrorismIndex_Score_2024": 4.141,
+      "GlobalTerrorismIndex_Score_2023": 4.799
+    },
+    {
+      "country": "Indonesia",
+      "GlobalTerrorismIndex_Score_2024": 3.993,
+      "GlobalTerrorismIndex_Score_2023": 5.502
+    },
+    {
+      "country": "Pakistan",
+      "GlobalTerrorismIndex_Score_2024": 7.916,
+      "GlobalTerrorismIndex_Score_2023": 8.16
+    },
+    {
+      "country": "Nigeria",
+      "GlobalTerrorismIndex_Score_2024": 7.575,
+      "GlobalTerrorismIndex_Score_2023": 8.065
+    },
+    {
+      "country": "Brazil",
+      "GlobalTerrorismIndex_Score_2024": 1.988,
+      "GlobalTerrorismIndex_Score_2023": 0.599
+    },
+    {
+      "country": "Bangladesh",
+      "GlobalTerrorismIndex_Score_2024": 3.317,
+      "GlobalTerrorismIndex_Score_2023": 3.827
+    },
+    {
+      "country": "Russia",
+      "GlobalTerrorismIndex_Score_2024": 3.016,
+      "GlobalTerrorismIndex_Score_2023": 3.799
+    },
+    {
+      "country": "Ethiopia",
+      "GlobalTerrorismIndex_Score_2024": 1.272,
+      "GlobalTerrorismIndex_Score_2023": 3.044
+    },
+    {
+      "country": "Mexico",
+      "GlobalTerrorismIndex_Score_2024": 1.04,
+      "GlobalTerrorismIndex_Score_2023": 1.578
+    },
+    {
+      "country": "Japan",
+      "GlobalTerrorismIndex_Score_2024": 1.189,
+      "GlobalTerrorismIndex_Score_2023": 2.398
+    },
+    {
+      "country": "Egypt",
+      "GlobalTerrorismIndex_Score_2024": 5.221,
+      "GlobalTerrorismIndex_Score_2023": 6.632
+    },
+    {
+      "country": "Philippines",
+      "GlobalTerrorismIndex_Score_2024": 5.383,
+      "GlobalTerrorismIndex_Score_2023": 6.328
+    },
+    {
+      "country": "DR Congo",
+      "GlobalTerrorismIndex_Score_2024": 6.514,
+      "GlobalTerrorismIndex_Score_2023": 6.872
+    },
+    {
+      "country": "Vietnam",
+      "GlobalTerrorismIndex_Score_2024": null,
+      "GlobalTerrorismIndex_Score_2023": 0.227
+    },
+    {
+      "country": "Iran",
+      "GlobalTerrorismIndex_Score_2024": 4.464,
+      "GlobalTerrorismIndex_Score_2023": 5.688
+    },
+    {
+      "country": "Turkey",
+      "GlobalTerrorismIndex_Score_2024": 4.168,
+      "GlobalTerrorismIndex_Score_2023": 5.6
+    },
+    {
+      "country": "Germany",
+      "GlobalTerrorismIndex_Score_2024": 2.782,
+      "GlobalTerrorismIndex_Score_2023": 4.242
+    },
+    {
+      "country": "Thailand",
+      "GlobalTerrorismIndex_Score_2024": 4.219,
+      "GlobalTerrorismIndex_Score_2023": 5.43
+    },
+    {
+      "country": "United Kingdom",
+      "GlobalTerrorismIndex_Score_2024": 2.373,
+      "GlobalTerrorismIndex_Score_2023": 3.84
+    },
+    {
+      "country": "Tanzania",
+      "GlobalTerrorismIndex_Score_2024": 2.267,
+      "GlobalTerrorismIndex_Score_2023": 4.065
+    },
+    {
+      "country": "France",
+      "GlobalTerrorismIndex_Score_2024": 2.647,
+      "GlobalTerrorismIndex_Score_2023": 4.419
+    },
+    {
+      "country": "South Africa",
+      "GlobalTerrorismIndex_Score_2024": null,
+      "GlobalTerrorismIndex_Score_2023": 0.826
+    },
+    {
+      "country": "Italy",
+      "GlobalTerrorismIndex_Score_2024": 1.447,
+      "GlobalTerrorismIndex_Score_2023": 3.29
+    },
+    {
+      "country": "Kenya",
+      "GlobalTerrorismIndex_Score_2024": 5.616,
+      "GlobalTerrorismIndex_Score_2023": 6.163
+    },
+    {
+      "country": "Myanmar",
+      "GlobalTerrorismIndex_Score_2024": 7.536,
+      "GlobalTerrorismIndex_Score_2023": 7.977
+    },
+    {
+      "country": "Colombia",
+      "GlobalTerrorismIndex_Score_2024": 6.188,
+      "GlobalTerrorismIndex_Score_2023": 6.697
+    },
+    {
+      "country": "Uganda",
+      "GlobalTerrorismIndex_Score_2024": 4.377,
+      "GlobalTerrorismIndex_Score_2023": 3.599
+    },
+    {
+      "country": "Spain",
+      "GlobalTerrorismIndex_Score_2024": 1.669,
+      "GlobalTerrorismIndex_Score_2023": 2.712
+    },
+    {
+      "country": "Algeria",
+      "GlobalTerrorismIndex_Score_2024": 2.197,
+      "GlobalTerrorismIndex_Score_2023": 4.083
+    },
+    {
+      "country": "Iraq",
+      "GlobalTerrorismIndex_Score_2024": 7.078,
+      "GlobalTerrorismIndex_Score_2023": 8.139
+    },
+    {
+      "country": "Argentina",
+      "GlobalTerrorismIndex_Score_2024": 1.274,
+      "GlobalTerrorismIndex_Score_2023": 2.875
+    },
+    {
+      "country": "Afghanistan",
+      "GlobalTerrorismIndex_Score_2024": 7.825,
+      "GlobalTerrorismIndex_Score_2023": 8.822
+    },
+    {
+      "country": "Yemen",
+      "GlobalTerrorismIndex_Score_2024": 4.951,
+      "GlobalTerrorismIndex_Score_2023": 5.616
+    },
+    {
+      "country": "Canada",
+      "GlobalTerrorismIndex_Score_2024": 1.753,
+      "GlobalTerrorismIndex_Score_2023": 3.275
+    },
+    {
+      "country": "Morocco",
+      "GlobalTerrorismIndex_Score_2024": null,
+      "GlobalTerrorismIndex_Score_2023": 0.757
+    },
+    {
+      "country": "Angola",
+      "GlobalTerrorismIndex_Score_2024": 2.254,
+      "GlobalTerrorismIndex_Score_2023": 0.158
+    },
+    {
+      "country": "Ukraine",
+      "GlobalTerrorismIndex_Score_2024": 1.686,
+      "GlobalTerrorismIndex_Score_2023": 1.535
+    },
+    {
+      "country": "Uzbekistan",
+      "GlobalTerrorismIndex_Score_2024": 0.423,
+      "GlobalTerrorismIndex_Score_2023": 1.731
+    },
+    {
+      "country": "Malaysia",
+      "GlobalTerrorismIndex_Score_2024": 0.192,
+      "GlobalTerrorismIndex_Score_2023": 1.357
+    },
+    {
+      "country": "Mozambique",
+      "GlobalTerrorismIndex_Score_2024": 6.267,
+      "GlobalTerrorismIndex_Score_2023": 7.33
+    },
+    {
+      "country": "Peru",
+      "GlobalTerrorismIndex_Score_2024": 2.045,
+      "GlobalTerrorismIndex_Score_2023": 3.856
+    },
+    {
+      "country": "Saudi Arabia",
+      "GlobalTerrorismIndex_Score_2024": 1.366,
+      "GlobalTerrorismIndex_Score_2023": 2.387
+    },
+    {
+      "country": "Ivory Coast",
+      "GlobalTerrorismIndex_Score_2024": 2.06,
+      "GlobalTerrorismIndex_Score_2023": 3.747
+    },
+    {
+      "country": "Nepal",
+      "GlobalTerrorismIndex_Score_2024": 2.163,
+      "GlobalTerrorismIndex_Score_2023": 4.134
+    },
+    {
+      "country": "Cameroon",
+      "GlobalTerrorismIndex_Score_2024": 6.98,
+      "GlobalTerrorismIndex_Score_2023": 7.347
+    },
+    {
+      "country": "Venezuela",
+      "GlobalTerrorismIndex_Score_2024": 1.174,
+      "GlobalTerrorismIndex_Score_2023": 3.409
+    },
+    {
+      "country": "Niger",
+      "GlobalTerrorismIndex_Score_2024": 7.274,
+      "GlobalTerrorismIndex_Score_2023": 7.616
+    },
+    {
+      "country": "Australia",
+      "GlobalTerrorismIndex_Score_2024": 1.475,
+      "GlobalTerrorismIndex_Score_2023": 1.83
+    },
+    {
+      "country": "Syria",
+      "GlobalTerrorismIndex_Score_2024": 7.89,
+      "GlobalTerrorismIndex_Score_2023": 8.161
+    },
+    {
+      "country": "Mali",
+      "GlobalTerrorismIndex_Score_2024": 7.998,
+      "GlobalTerrorismIndex_Score_2023": 8.412
+    },
+    {
+      "country": "Burkina Faso",
+      "GlobalTerrorismIndex_Score_2024": 8.571,
+      "GlobalTerrorismIndex_Score_2023": 8.564
+    },
+    {
+      "country": "Sri Lanka",
+      "GlobalTerrorismIndex_Score_2024": 3.072,
+      "GlobalTerrorismIndex_Score_2023": 4.839
+    },
+    {
+      "country": "Chad",
+      "GlobalTerrorismIndex_Score_2024": 4.987,
+      "GlobalTerrorismIndex_Score_2023": 6.168
+    },
+    {
+      "country": "Chile",
+      "GlobalTerrorismIndex_Score_2024": 5.679,
+      "GlobalTerrorismIndex_Score_2023": 6.619
+    },
+    {
+      "country": "Romania",
+      "GlobalTerrorismIndex_Score_2024": null,
+      "GlobalTerrorismIndex_Score_2023": 0.682
+    },
+    {
+      "country": "Somalia",
+      "GlobalTerrorismIndex_Score_2024": 7.814,
+      "GlobalTerrorismIndex_Score_2023": 8.463
+    },
+    {
+      "country": "Senegal",
+      "GlobalTerrorismIndex_Score_2024": null,
+      "GlobalTerrorismIndex_Score_2023": 1.108
+    },
+    {
+      "country": "Netherlands",
+      "GlobalTerrorismIndex_Score_2024": 0.577,
+      "GlobalTerrorismIndex_Score_2023": 2.12
+    },
+    {
+      "country": "Ecuador",
+      "GlobalTerrorismIndex_Score_2024": 0.167,
+      "GlobalTerrorismIndex_Score_2023": 2.198
+    },
+    {
+      "country": "Benin",
+      "GlobalTerrorismIndex_Score_2024": 4.898,
+      "GlobalTerrorismIndex_Score_2023": 4.84
+    },
+    {
+      "country": "Rwanda",
+      "GlobalTerrorismIndex_Score_2024": 0.114,
+      "GlobalTerrorismIndex_Score_2023": 0.826
+    },
+    {
+      "country": "Burundi",
+      "GlobalTerrorismIndex_Score_2024": 2.434,
+      "GlobalTerrorismIndex_Score_2023": 4.051
+    },
+    {
+      "country": "Tunisia",
+      "GlobalTerrorismIndex_Score_2024": 2.914,
+      "GlobalTerrorismIndex_Score_2023": 3.989
+    },
+    {
+      "country": "Belgium",
+      "GlobalTerrorismIndex_Score_2024": 1.904,
+      "GlobalTerrorismIndex_Score_2023": 2.763
+    },
+    {
+      "country": "Jordan",
+      "GlobalTerrorismIndex_Score_2024": 0.455,
+      "GlobalTerrorismIndex_Score_2023": 2.033
+    },
+    {
+      "country": "United Arab Emirates",
+      "GlobalTerrorismIndex_Score_2024": 0.233,
+      "GlobalTerrorismIndex_Score_2023": 1.241
+    },
+    {
+      "country": "Sweden",
+      "GlobalTerrorismIndex_Score_2024": 0.735,
+      "GlobalTerrorismIndex_Score_2023": 2.307
+    },
+    {
+      "country": "Tajikistan",
+      "GlobalTerrorismIndex_Score_2024": 0.871,
+      "GlobalTerrorismIndex_Score_2023": 3.438
+    },
+    {
+      "country": "Greece",
+      "GlobalTerrorismIndex_Score_2024": 3.028,
+      "GlobalTerrorismIndex_Score_2023": 4.793
+    },
+    {
+      "country": "Togo",
+      "GlobalTerrorismIndex_Score_2024": 4.67,
+      "GlobalTerrorismIndex_Score_2023": 4.915
+    },
+    {
+      "country": "Israel",
+      "GlobalTerrorismIndex_Score_2024": 8.143,
+      "GlobalTerrorismIndex_Score_2023": 5.489
+    },
+    {
+      "country": "Austria",
+      "GlobalTerrorismIndex_Score_2024": 0.953,
+      "GlobalTerrorismIndex_Score_2023": 2.677
+    },
+    {
+      "country": "Switzerland",
+      "GlobalTerrorismIndex_Score_2024": 0.627,
+      "GlobalTerrorismIndex_Score_2023": 2.205
+    },
+    {
+      "country": "Libya",
+      "GlobalTerrorismIndex_Score_2024": 2.469,
+      "GlobalTerrorismIndex_Score_2023": 4.73
+    },
+    {
+      "country": "Paraguay",
+      "GlobalTerrorismIndex_Score_2024": 0.241,
+      "GlobalTerrorismIndex_Score_2023": 1.605
+    },
+    {
+      "country": "Denmark",
+      "GlobalTerrorismIndex_Score_2024": null,
+      "GlobalTerrorismIndex_Score_2023": 0.158
+    },
+    {
+      "country": "Lebanon",
+      "GlobalTerrorismIndex_Score_2024": 1.562,
+      "GlobalTerrorismIndex_Score_2023": 3.4
+    },
+    {
+      "country": "Norway",
+      "GlobalTerrorismIndex_Score_2024": 1.747,
+      "GlobalTerrorismIndex_Score_2023": 3.514
+    },
+    {
+      "country": "Slovakia",
+      "GlobalTerrorismIndex_Score_2024": 1.092,
+      "GlobalTerrorismIndex_Score_2023": 2.784
+    },
+    {
+      "country": "Palestine",
+      "GlobalTerrorismIndex_Score_2024": 4.966,
+      "GlobalTerrorismIndex_Score_2023": 4.611
+    },
+    {
+      "country": "Central African Republic",
+      "GlobalTerrorismIndex_Score_2024": 1.445,
+      "GlobalTerrorismIndex_Score_2023": 3.194
+    },
+    {
+      "country": "Ireland",
+      "GlobalTerrorismIndex_Score_2024": 0.03,
+      "GlobalTerrorismIndex_Score_2023": 0.291
+    },
+    {
+      "country": "New Zealand",
+      "GlobalTerrorismIndex_Score_2024": 1.947,
+      "GlobalTerrorismIndex_Score_2023": 3.776
+    },
+    {
+      "country": "Mauritania",
+      "GlobalTerrorismIndex_Score_2024": null,
+      "GlobalTerrorismIndex_Score_2023": 0.291
+    },
+    {
+      "country": "Uruguay",
+      "GlobalTerrorismIndex_Score_2024": 0.114,
+      "GlobalTerrorismIndex_Score_2023": 0.826
+    },
+    {
+      "country": "Armenia",
+      "GlobalTerrorismIndex_Score_2024": 0.423,
+      "GlobalTerrorismIndex_Score_2023": null
+    },
+    {
+      "country": "Lithuania",
+      "GlobalTerrorismIndex_Score_2024": 0.059,
+      "GlobalTerrorismIndex_Score_2023": 0.508
+    },
+    {
+      "country": "Bahrain",
+      "GlobalTerrorismIndex_Score_2024": 0.123,
+      "GlobalTerrorismIndex_Score_2023": 0.826
+    },
+    {
+      "country": "Cyprus",
+      "GlobalTerrorismIndex_Score_2024": 0.616,
+      "GlobalTerrorismIndex_Score_2023": 1.392
+    },
+    {
+      "country": "Eswatini",
+      "GlobalTerrorismIndex_Score_2024": 0.18,
+      "GlobalTerrorismIndex_Score_2023": 1.058
+    },
+    {
+      "country": "Djibouti",
+      "GlobalTerrorismIndex_Score_2024": 2.035,
+      "GlobalTerrorismIndex_Score_2023": 3.8
+    },
+    {
+      "country": "Iceland",
+      "GlobalTerrorismIndex_Score_2024": 0.233,
+      "GlobalTerrorismIndex_Score_2023": null
+    }
+  ]
