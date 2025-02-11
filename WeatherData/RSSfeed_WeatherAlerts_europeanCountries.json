@@ -1,0 +1,159 @@
+[
+    {
+        "country": "Europe",
+        "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-europe"
+    },
+    {
+      "country": "Austria",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-austria"
+    },
+    {
+      "country": "Belgium",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-belgium"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-bosnia-herzegovina"
+    },
+    {
+      "country": "Bulgaria",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-bulgaria"
+    },
+    {
+      "country": "Croatia",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-croatia"
+    },
+    {
+      "country": "Cyprus",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-cyprus"
+    },
+    {
+      "country": "Czech Republic",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-czechia"
+    },
+    {
+      "country": "Denmark",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-denmark"
+    },
+    {
+      "country": "Estonia",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-estonia"
+    },
+    {
+      "country": "Finland",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-finland"
+    },
+    {
+      "country": "France",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-france"
+    },
+    {
+      "country": "Germany",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-germany"
+    },
+    {
+      "country": "Greece",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-greece"
+    },
+    {
+      "country": "Hungary",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-hungary"
+    },
+    {
+      "country": "Iceland",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-iceland"
+    },
+    {
+      "country": "Ireland",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-ireland"
+    },
+    {
+      "country": "Israel",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-israel"
+    },
+    {
+      "country": "Italy",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-italy"
+    },
+    {
+      "country": "Latvia",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-latvia"
+    },
+    {
+      "country": "Lithuania",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-lithuania"
+    },
+    {
+      "country": "Luxembourg",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-luxembourg"
+    },
+    {
+      "country": "Malta",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-malta"
+    },
+    {
+      "country": "Moldova",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-moldova"
+    },
+    {
+      "country": "Montenegro",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-montenegro"
+    },
+    {
+      "country": "Netherlands",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-netherlands"
+    },
+    {
+      "country": "North Macedonia",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-republic-of-north-macedonia"
+    },
+    {
+      "country": "Norway",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-norway"
+    },
+    {
+      "country": "Poland",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-poland"
+    },
+    {
+      "country": "Portugal",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-portugal"
+    },
+    {
+      "country": "Romania",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-romania"
+    },
+    {
+      "country": "Serbia",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-serbia"
+    },
+    {
+      "country": "Slovakia",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-slovakia"
+    },
+    {
+      "country": "Slovenia",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-slovenia"
+    },
+    {
+      "country": "Spain",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-spain"
+    },
+    {
+      "country": "Sweden",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-sweden"
+    },
+    {
+      "country": "Switzerland",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-switzerland"
+    },
+    {
+      "country": "Ukraine",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-ukraine"
+    },
+    {
+      "country": "United Kingdom of Great Britain and Northern Ireland",
+      "rss_feed": "https://feeds.meteoalarm.org/feeds/meteoalarm-legacy-rss-united-kingdom"
+    }
+  ]
+  

@@ -1,0 +1,1352 @@
+[
+    {
+        "location": "Liège",
+        "warning_description": "The ground may become slippery due to: 1 to 5 cm fresh snow in 6 hours, or 5 to 10 cm fresh snow in 24 hours, or (very) local black ice, or (very) local frost or ice patches. Be careful. Be vigilant\nGerman(de-DE): Es wird Bodenglätte erwartet aufgrund von: 1 bis 5 cm Neuschnee in 6 Stunden, oder 5 bis 10 cm Neuschnee in 24 Stunden, oder (sehr) lokaler gefrierender Regen oder lokale Reifglätte oder Eisflächen. Seien Sie vorsichtig. Be vigilant",
+        "from": "2025-02-10T05:00:00+00:00",
+        "until": "2025-02-10T12:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:BE008",
+        "country": "Belgium"
+    },
+    {
+        "location": "Luxembourg",
+        "warning_description": "The ground may become slippery due to: 1 to 5 cm fresh snow in 6 hours, or 5 to 10 cm fresh snow in 24 hours, or (very) local black ice, or (very) local frost or ice patches. Be careful. Be vigilant\nGerman(de-DE): Es wird Bodenglätte erwartet aufgrund von: 1 bis 5 cm Neuschnee in 6 Stunden, oder 5 bis 10 cm Neuschnee in 24 Stunden, oder (sehr) lokaler gefrierender Regen oder lokale Reifglätte oder Eisflächen. Seien Sie vorsichtig. Be vigilant",
+        "from": "2025-02-10T04:00:00+00:00",
+        "until": "2025-02-10T11:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:BE001",
+        "country": "Belgium"
+    },
+    {
+        "location": "Velebit channel region",
+        "warning_description": "Locally possible fresh NE wind. Maximum wind gusts 35-40 knots  (65-75 km/h) IMPACT: Although rather usual in this region, locally or potentially dangerous wind speeds are expected to produce dangerous wave conditions to small crafts. Inexperienced mariners, especially those operating smaller vessels, should avoid navigating in these conditions. Mariners should pay close attention to the marine forecast  and consider wind and sea conditions in planning. It is possible that some ferry lines will not operate so follow traffic information if travelling.",
+        "from": "2025-02-10T19:00:00+00:00",
+        "until": "2025-02-10T22:59:59+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:HR803",
+        "country": "Croatia"
+    },
+    {
+        "location": "Pyrénées-Atlantiques",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR091",
+        "country": "France"
+    },
+    {
+        "location": "Andorre",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR001",
+        "country": "France"
+    },
+    {
+        "location": "Charente-Maritime",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR015",
+        "country": "France"
+    },
+    {
+        "location": "Haute-Loire",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR025",
+        "country": "France"
+    },
+    {
+        "location": "Ariège",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR008",
+        "country": "France"
+    },
+    {
+        "location": "Aisne",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR073",
+        "country": "France"
+    },
+    {
+        "location": "Moselle",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T23:00:00+00:00",
+        "until": "2025-02-10T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR087",
+        "country": "France"
+    },
+    {
+        "location": "Meuse",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T23:00:00+00:00",
+        "until": "2025-02-10T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR002",
+        "country": "France"
+    },
+    {
+        "location": "Haute-Garonne",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR009",
+        "country": "France"
+    },
+    {
+        "location": "Somme",
+        "warning_description": "Large floods are possible. Traffic conditions may be difficult across the entire network and the railway traffic may be disrupted. Power outage may happen. Dykes may be damaged or submerged. I keep away from rivers and bridges, I reach a high point or I take shelter upstairs. I do not drive on a flooded road, even if it is only partially so. I avoid traveling and I keep myself informed of the weather conditions. I check the rising waters. I don't go into basements. I keep my goods out of the water and I locate my emergency kit.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR071",
+        "country": "France"
+    },
+    {
+        "location": "Oise",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR072",
+        "country": "France"
+    },
+    {
+        "location": "Eure",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR056",
+        "country": "France"
+    },
+    {
+        "location": "Savoie",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR036",
+        "country": "France"
+    },
+    {
+        "location": "Meurthe-et-Moselle",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T23:00:00+00:00",
+        "until": "2025-02-10T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR088",
+        "country": "France"
+    },
+    {
+        "location": "Haute-Savoie",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR035",
+        "country": "France"
+    },
+    {
+        "location": "Eure-et-Loir",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR063",
+        "country": "France"
+    },
+    {
+        "location": "Sarthe",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR057",
+        "country": "France"
+    },
+    {
+        "location": "Bas-Rhin",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T23:00:00+00:00",
+        "until": "2025-02-10T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR086",
+        "country": "France"
+    },
+    {
+        "location": "Pas-de-Calais",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T23:00:00+00:00",
+        "until": "2025-02-10T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR069",
+        "country": "France"
+    },
+    {
+        "location": "Hautes-Pyrénées",
+        "warning_description": "Moderate damages may occur, especially in vulnerable or in exposed areas and to people who carry out weather-related activities. Be careful, keep informed of the latest weather forecast.",
+        "from": "2025-02-09T15:00:58+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:FR003",
+        "country": "France"
+    },
+    {
+        "location": "Thessalia",
+        "warning_description": "Extremely low air temperature values, expected to range between -5 and -7 degrees Celsius. BE AWARE that low temperatures are expected. Some health risks amongst vulnerable people e.g. the elderly, very young and homeless are possible.\nGreek(el-GR): Πολύ χαμηλές θερμοκρασίες, με τιμές που αναμένεται να κυμανθούν μεταξύ -5 και -7 βαθμών Κελσίου. ΕΝΗΜΕΡΩΘΕΙΤΕ για τις αναμενόμενες πολύ χαμηλές θερμοκρασίες. Είναι πιθανοί κάποιοι κίνδυνοι υγείας στις ευπαθείς ομάδες πληθυσμού όπως οι ηλικιωμένοι και τα μικρά παιδιά.",
+        "from": "2025-02-09T00:00:00+00:00",
+        "until": "2025-02-09T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:GR001",
+        "country": "Greece"
+    },
+    {
+        "location": "West Sterea",
+        "warning_description": "Extremely low air temperature values, expected to range between -1 and -3 degrees Celsius. BE AWARE that low temperatures are expected. Some health risks amongst vulnerable people e.g. the elderly, very young and homeless are possible.\nGreek(el-GR): Πολύ χαμηλές θερμοκρασίες, με τιμές που αναμένεται να κυμανθούν μεταξύ -1 και -3 βαθμών Κελσίου. ΕΝΗΜΕΡΩΘΕΙΤΕ για τις αναμενόμενες πολύ χαμηλές θερμοκρασίες. Είναι πιθανοί κάποιοι κίνδυνοι υγείας στις ευπαθείς ομάδες πληθυσμού όπως οι ηλικιωμένοι και τα μικρά παιδιά.",
+        "from": "2025-02-09T00:00:00+00:00",
+        "until": "2025-02-09T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:GR002",
+        "country": "Greece"
+    },
+    {
+        "location": "East Sterea &amp; Evvoia",
+        "warning_description": "Extremely low air temperature values, expected to range between -5 and -7 degrees Celsius. BE AWARE that low temperatures are expected. Some health risks amongst vulnerable people e.g. the elderly, very young and homeless are possible.\nGreek(el-GR): Extremely low air temperature values, expected to range between -1 and -3 degrees Celsius. BE AWARE that low temperatures are expected. Some health risks amongst vulnerable people e.g. the elderly, very young and homeless are possible. ΕΝΗΜΕΡΩΘΕΙΤΕ για τις αναμενόμενες πολύ χαμηλές θερμοκρασίες. Είναι πιθανοί κάποιοι κίνδυνοι υγείας στις ευπαθείς ομάδες πληθυσμού όπως οι ηλικιωμένοι και τα μικρά παιδιά. ΕΝΗΜΕΡΩΘΕΙΤΕ για τις αναμενόμενες πολύ χαμηλές θερμοκρασίες. Είναι πιθανοί κάποιοι κίνδυνοι υγείας στις ευπαθείς ομάδες πληθυσμού όπως οι ηλικιωμένοι και τα μικρά παιδιά.",
+        "from": "2025-02-10T00:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:GR003",
+        "country": "Greece"
+    },
+    {
+        "location": "Thraki",
+        "warning_description": "Extremely low air temperature values, expected to range between -5 and -7 degrees Celsius. BE AWARE that low temperatures are expected. Some health risks amongst vulnerable people e.g. the elderly, very young and homeless are possible.\nGreek(el-GR): Πολύ χαμηλές θερμοκρασίες, με τιμές που αναμένεται να κυμανθούν μεταξύ -5 και -7 βαθμών Κελσίου. ΕΝΗΜΕΡΩΘΕΙΤΕ για τις αναμενόμενες πολύ χαμηλές θερμοκρασίες. Είναι πιθανοί κάποιοι κίνδυνοι υγείας στις ευπαθείς ομάδες πληθυσμού όπως οι ηλικιωμένοι και τα μικρά παιδιά.",
+        "from": "2025-02-10T00:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:GR004",
+        "country": "Greece"
+    },
+    {
+        "location": "East Makedonia",
+        "warning_description": "Extremely low air temperature values, expected to range between -5 and -7 degrees Celsius. BE AWARE that low temperatures are expected. Some health risks amongst vulnerable people e.g. the elderly, very young and homeless are possible.\nGreek(el-GR): Πολύ χαμηλές θερμοκρασίες, με τιμές που αναμένεται να κυμανθούν μεταξύ -5 και -7 βαθμών Κελσίου. ΕΝΗΜΕΡΩΘΕΙΤΕ για τις αναμενόμενες πολύ χαμηλές θερμοκρασίες. Είναι πιθανοί κάποιοι κίνδυνοι υγείας στις ευπαθείς ομάδες πληθυσμού όπως οι ηλικιωμένοι και τα μικρά παιδιά.",
+        "from": "2025-02-09T00:00:00+00:00",
+        "until": "2025-02-09T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:GR005",
+        "country": "Greece"
+    },
+    {
+        "location": "West Makedonia",
+        "warning_description": "Extremely low air temperature values, expected to range between -5 and -7 degrees Celsius. BE AWARE that low temperatures are expected. Some health risks amongst vulnerable people e.g. the elderly, very young and homeless are possible.\nGreek(el-GR): Πολύ χαμηλές θερμοκρασίες, με τιμές που αναμένεται να κυμανθούν μεταξύ -5 και -7 βαθμών Κελσίου. ΕΝΗΜΕΡΩΘΕΙΤΕ για τις αναμενόμενες πολύ χαμηλές θερμοκρασίες. Είναι πιθανοί κάποιοι κίνδυνοι υγείας στις ευπαθείς ομάδες πληθυσμού όπως οι ηλικιωμένοι και τα μικρά παιδιά.",
+        "from": "2025-02-09T00:00:00+00:00",
+        "until": "2025-02-09T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:GR006",
+        "country": "Greece"
+    },
+    {
+        "location": "Central Makedonia",
+        "warning_description": "Extremely low air temperature values, expected to range between -5 and -7 degrees Celsius. BE AWARE that low temperatures are expected. Some health risks amongst vulnerable people e.g. the elderly, very young and homeless are possible.\nGreek(el-GR): Πολύ χαμηλές θερμοκρασίες, με τιμές που αναμένεται να κυμανθούν μεταξύ -5 και -7 βαθμών Κελσίου. ΕΝΗΜΕΡΩΘΕΙΤΕ για τις αναμενόμενες πολύ χαμηλές θερμοκρασίες. Είναι πιθανοί κάποιοι κίνδυνοι υγείας στις ευπαθείς ομάδες πληθυσμού όπως οι ηλικιωμένοι και τα μικρά παιδιά.",
+        "from": "2025-02-09T00:00:00+00:00",
+        "until": "2025-02-09T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:GR007",
+        "country": "Greece"
+    },
+    {
+        "location": "Epirus",
+        "warning_description": "Extremely low air temperature values, expected to range between -5 and -7 degrees Celsius. BE AWARE that low temperatures are expected. Some health risks amongst vulnerable people e.g. the elderly, very young and homeless are possible.\nGreek(el-GR): Πολύ χαμηλές θερμοκρασίες, με τιμές που αναμένεται να κυμανθούν μεταξύ -5 και -7 βαθμών Κελσίου. ΕΝΗΜΕΡΩΘΕΙΤΕ για τις αναμενόμενες πολύ χαμηλές θερμοκρασίες. Είναι πιθανοί κάποιοι κίνδυνοι υγείας στις ευπαθείς ομάδες πληθυσμού όπως οι ηλικιωμένοι και τα μικρά παιδιά.",
+        "from": "2025-02-09T00:00:00+00:00",
+        "until": "2025-02-09T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:GR008",
+        "country": "Greece"
+    },
+    {
+        "location": "Kyklades",
+        "warning_description": "Northerly gale force (8B) winds\nGreek(el-GR): Θυελλώδεις βόρειοι άνεμοι  (8 μποφόρ)",
+        "from": "2025-02-09T10:00:00+00:00",
+        "until": "2025-02-09T19:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:GR012",
+        "country": "Greece"
+    },
+    {
+        "location": "North East Aegean Islands",
+        "warning_description": "Northerly gale force (8B) winds\nGreek(el-GR): Θυελλώδεις βόρειοι άνεμοι  (8 μποφόρ)",
+        "from": "2025-02-09T10:00:00+00:00",
+        "until": "2025-02-09T19:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:GR014",
+        "country": "Greece"
+    },
+    {
+        "location": "East Peloponnisos",
+        "warning_description": "Extremely low air temperature values, expected to range between -5 and -7 degrees Celsius. BE AWARE that low temperatures are expected. Some health risks amongst vulnerable people e.g. the elderly, very young and homeless are possible.\nGreek(el-GR): Extremely low air temperature values, expected to range between -1 and -3 degrees Celsius. BE AWARE that low temperatures are expected. Some health risks amongst vulnerable people e.g. the elderly, very young and homeless are possible. ΕΝΗΜΕΡΩΘΕΙΤΕ για τις αναμενόμενες πολύ χαμηλές θερμοκρασίες. Είναι πιθανοί κάποιοι κίνδυνοι υγείας στις ευπαθείς ομάδες πληθυσμού όπως οι ηλικιωμένοι και τα μικρά παιδιά. ΕΝΗΜΕΡΩΘΕΙΤΕ για τις αναμενόμενες πολύ χαμηλές θερμοκρασίες. Είναι πιθανοί κάποιοι κίνδυνοι υγείας στις ευπαθείς ομάδες πληθυσμού όπως οι ηλικιωμένοι και τα μικρά παιδιά.",
+        "from": "2025-02-10T00:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:GR015",
+        "country": "Greece"
+    },
+    {
+        "location": "Breidafjordur - Westnorthwest Iceland",
+        "warning_description": "Moderate to heavy rain, mainly on Snaefellsnes peninsula. To prevent water damage, its important to clear drainage grates and conduits. Expecting increaased water levels in rivers. Rock slides possible from mountains so people are advised not to travel near steep hills. For further information see: https://en.vedur.is/alerts",
+        "from": "2025-02-09T12:00:00+00:00",
+        "until": "2025-02-10T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:IS004",
+        "country": "Iceland"
+    },
+    {
+        "location": "Westfjords",
+        "warning_description": "South 13-20 m/s, strongest on mountain roads with wind gusts reaching 35 m/s near mountains. Hazardous for vehicles sensitive to winds. For further information see: https://en.vedur.is/alerts",
+        "from": "2025-02-09T12:00:00+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:IS005",
+        "country": "Iceland"
+    },
+    {
+        "location": "Northwest Iceland",
+        "warning_description": "South 13-20 m/s, strongest on Holtavorduheidi, Strandir and Trollaskagi areas with wind gusts reaching 35 m/s near mountains. Hazardous for vehicles sensitive to winds. For further information see: https://en.vedur.is/alerts",
+        "from": "2025-02-09T13:00:00+00:00",
+        "until": "2025-02-10T08:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:IS006",
+        "country": "Iceland"
+    },
+    {
+        "location": "Central highlands - Uninhabited part of Iceland",
+        "warning_description": "Southwest 18-23 m/s with wind gusts reaching 40-45 m/s by mountains. Hazardous travel conditions. For further information see: https://en.vedur.is/alerts",
+        "from": "2025-02-09T14:00:00+00:00",
+        "until": "2025-02-10T12:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:IS011",
+        "country": "Iceland"
+    },
+    {
+        "location": "Central highlands - Uninhabited part of Iceland",
+        "warning_description": "Southwest 18-23 m/s with wind gusts reaching 40-45 m/s by mountains. Hazardous travel conditions. For further information see: https://en.vedur.is/alerts",
+        "from": "2025-02-09T14:00:00+00:00",
+        "until": "2025-02-10T12:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=920a777b-20df-41c7-b104-d2e43bd68e37,1,0,0",
+        "country": "Iceland"
+    },
+    {
+        "location": "Northwest Iceland",
+        "warning_description": "South 13-20 m/s, strongest on Holtavorduheidi, Strandir and Trollaskagi areas with wind gusts reaching 35 m/s near mountains. Hazardous for vehicles sensitive to winds. For further information see: https://en.vedur.is/alerts",
+        "from": "2025-02-09T13:00:00+00:00",
+        "until": "2025-02-10T08:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=72423c3c-5190-4950-906f-75efac56573e,1,0,0",
+        "country": "Iceland"
+    },
+    {
+        "location": "Breidafjordur - Westnorthwest Iceland",
+        "warning_description": "Moderate to heavy rain, mainly on Snaefellsnes peninsula. To prevent water damage, its important to clear drainage grates and conduits. Expecting increaased water levels in rivers. Rock slides possible from mountains so people are advised not to travel near steep hills. For further information see: https://en.vedur.is/alerts",
+        "from": "2025-02-09T12:00:00+00:00",
+        "until": "2025-02-10T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=36cafee7-1e2d-4c3b-8165-bcd7d5dd8a3f,1,0,0",
+        "country": "Iceland"
+    },
+    {
+        "location": "Westfjords",
+        "warning_description": "South 13-20 m/s, strongest on mountain roads with wind gusts reaching 35 m/s near mountains. Hazardous for vehicles sensitive to winds. For further information see: https://en.vedur.is/alerts",
+        "from": "2025-02-09T12:00:00+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=e4fb39fc-32e3-4802-9580-9cd1a421c33e,1,0,0",
+        "country": "Iceland"
+    },
+    {
+        "location": "Breidafjordur - Westnorthwest Iceland",
+        "warning_description": "South 13-20 m/s locally on Snaefellsnes peninsula with wind gusts reaching 35 m/s near mountains. Hazardous for vehicles sensitive to winds. For further information see: https://en.vedur.is/alerts",
+        "from": "2025-02-09T12:00:00+00:00",
+        "until": "2025-02-10T08:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9753ef3f-04b5-4229-97fe-6cc1003f2bc2,1,0,0",
+        "country": "Iceland"
+    },
+    {
+        "location": "Gush Dan",
+        "warning_description": "Yellow Early Warning of FLOODING in Gush Dan and in Southern Coast on 10/02 from 03 until 12 LT. For further details: https://ims.gov.il/he/IMSwarnings .\nHebrew(he-IL): התראה מוקדמת צהובה על הצפות בגוש דן ובדרום מישור החוף ב-10/02 מ-03 עד 12.   מחר קיים חשש להצפות מקומיות באזורים המוזכרים. לפרטים נוספים: https://ims.gov.il/he/IMSwarnings .",
+        "from": "2025-02-10T01:00:00+00:00",
+        "until": "2025-02-10T10:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:IL036",
+        "country": "Israel"
+    },
+    {
+        "location": "Southern Coast",
+        "warning_description": "Yellow Early Warning of FLOODING in Gush Dan and in Southern Coast on 10/02 from 03 until 12 LT. For further details: https://ims.gov.il/he/IMSwarnings .\nHebrew(he-IL): התראה מוקדמת צהובה על הצפות בגוש דן ובדרום מישור החוף ב-10/02 מ-03 עד 12.   מחר קיים חשש להצפות מקומיות באזורים המוזכרים. לפרטים נוספים: https://ims.gov.il/he/IMSwarnings .",
+        "from": "2025-02-10T01:00:00+00:00",
+        "until": "2025-02-10T10:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:IL038",
+        "country": "Israel"
+    },
+    {
+        "location": "Sea - North",
+        "warning_description": "Yellow Warning of HIGH SEA SWIMMING DANGER in Mediterranean Sea on 09/02 from 13 until 22 LT.    The state of sea is Slight. The significant wave height from 80 to 120 cm, Increasing. For further details: https://ims.gov.il/he/IMSwarnings .\nHebrew(he-IL): אזהרה צהובה על ים גבוה ומסוכן לרחצה בים התיכון ב-09/02 מ-13 עד 22.   מצב הים גלי. גובה הגל הסיגניפיקנטי ינוע מ- 80 עד 120 ס\"מ, במגמת עליה. לפרטים נוספים: https://ims.gov.il/he/IMSwarnings .",
+        "from": "2025-02-09T11:00:00+00:00",
+        "until": "2025-02-09T20:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:IL801",
+        "country": "Israel"
+    },
+    {
+        "location": "Sea - Center",
+        "warning_description": "Yellow Warning of HIGH SEA SWIMMING DANGER in Mediterranean Sea on 09/02 from 13 until 22 LT.    The state of sea is Slight. The significant wave height from 80 to 120 cm, Increasing. For further details: https://ims.gov.il/he/IMSwarnings .\nHebrew(he-IL): אזהרה צהובה על ים גבוה ומסוכן לרחצה בים התיכון ב-09/02 מ-13 עד 22.   מצב הים גלי. גובה הגל הסיגניפיקנטי ינוע מ- 80 עד 120 ס\"מ, במגמת עליה. לפרטים נוספים: https://ims.gov.il/he/IMSwarnings .",
+        "from": "2025-02-09T11:00:00+00:00",
+        "until": "2025-02-09T20:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:IL802",
+        "country": "Israel"
+    },
+    {
+        "location": "Sea - South",
+        "warning_description": "Yellow Warning of HIGH SEA SWIMMING DANGER in Mediterranean Sea on 09/02 from 13 until 22 LT.    The state of sea is Slight. The significant wave height from 80 to 120 cm, Increasing. For further details: https://ims.gov.il/he/IMSwarnings .\nHebrew(he-IL): אזהרה צהובה על ים גבוה ומסוכן לרחצה בים התיכון ב-09/02 מ-13 עד 22.   מצב הים גלי. גובה הגל הסיגניפיקנטי ינוע מ- 80 עד 120 ס\"מ, במגמת עליה. לפרטים נוספים: https://ims.gov.il/he/IMSwarnings .",
+        "from": "2025-02-09T11:00:00+00:00",
+        "until": "2025-02-09T20:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:IL803",
+        "country": "Israel"
+    },
+    {
+        "location": "Sea - South",
+        "warning_description": "Yellow Warning of HIGH SEA SWIMMING DANGER in Mediterranean Sea on 09/02 from 13 until 22 LT.    The state of sea is Slight. The significant wave height from 80 to 120 cm, Increasing. For further details: https://ims.gov.il/he/IMSwarnings .\nHebrew(he-IL): אזהרה צהובה על ים גבוה ומסוכן לרחצה בים התיכון ב-09/02 מ-13 עד 22.   מצב הים גלי. גובה הגל הסיגניפיקנטי ינוע מ- 80 עד 120 ס\"מ, במגמת עליה. לפרטים נוספים: https://ims.gov.il/he/IMSwarnings .",
+        "from": "2025-02-09T11:00:00+00:00",
+        "until": "2025-02-09T20:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=28d69b1a-56ac-4fcd-9340-ce47a3e08bef,0,2,0",
+        "country": "Israel"
+    },
+    {
+        "location": "Sea - Center",
+        "warning_description": "Yellow Warning of HIGH SEA SWIMMING DANGER in Mediterranean Sea on 09/02 from 13 until 22 LT.    The state of sea is Slight. The significant wave height from 80 to 120 cm, Increasing. For further details: https://ims.gov.il/he/IMSwarnings .\nHebrew(he-IL): אזהרה צהובה על ים גבוה ומסוכן לרחצה בים התיכון ב-09/02 מ-13 עד 22.   מצב הים גלי. גובה הגל הסיגניפיקנטי ינוע מ- 80 עד 120 ס\"מ, במגמת עליה. לפרטים נוספים: https://ims.gov.il/he/IMSwarnings .",
+        "from": "2025-02-09T11:00:00+00:00",
+        "until": "2025-02-09T20:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=28d69b1a-56ac-4fcd-9340-ce47a3e08bef,0,1,0",
+        "country": "Israel"
+    },
+    {
+        "location": "Sea - North",
+        "warning_description": "Yellow Warning of HIGH SEA SWIMMING DANGER in Mediterranean Sea on 09/02 from 13 until 22 LT.    The state of sea is Slight. The significant wave height from 80 to 120 cm, Increasing. For further details: https://ims.gov.il/he/IMSwarnings .\nHebrew(he-IL): אזהרה צהובה על ים גבוה ומסוכן לרחצה בים התיכון ב-09/02 מ-13 עד 22.   מצב הים גלי. גובה הגל הסיגניפיקנטי ינוע מ- 80 עד 120 ס\"מ, במגמת עליה. לפרטים נוספים: https://ims.gov.il/he/IMSwarnings .",
+        "from": "2025-02-09T11:00:00+00:00",
+        "until": "2025-02-09T20:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=28d69b1a-56ac-4fcd-9340-ce47a3e08bef,0,0,0",
+        "country": "Israel"
+    },
+    {
+        "location": "Sea - South",
+        "warning_description": "update: Yellow Warning of HIGH SEA SWIMMING DANGER in Mediterranean Sea from 08/02 22 until 09/02 10 LT.    The state of sea is Slight. The significant wave height from 80 to 100 cm, Decreasing. For further details: https://ims.gov.il/he/IMSwarnings .\nHebrew(he-IL): עדכון: אזהרה צהובה על ים גבוה ומסוכן לרחצה בים התיכון מ-08/02 ב-22 עד 09/02 ב-10.   מצב הים גלי. גובה הגל הסיגניפיקנטי ינוע מ- 80 עד 100 ס\"מ, במגמת ירידה. לפרטים נוספים: https://ims.gov.il/he/IMSwarnings .",
+        "from": "2025-02-08T20:00:00+00:00",
+        "until": "2025-02-09T08:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=a109067a-f173-4cd6-9872-5dad8a4d0964,0,2,0",
+        "country": "Israel"
+    },
+    {
+        "location": "Sea - Center",
+        "warning_description": "update: Yellow Warning of HIGH SEA SWIMMING DANGER in Mediterranean Sea from 08/02 22 until 09/02 10 LT.    The state of sea is Slight. The significant wave height from 80 to 100 cm, Decreasing. For further details: https://ims.gov.il/he/IMSwarnings .\nHebrew(he-IL): עדכון: אזהרה צהובה על ים גבוה ומסוכן לרחצה בים התיכון מ-08/02 ב-22 עד 09/02 ב-10.   מצב הים גלי. גובה הגל הסיגניפיקנטי ינוע מ- 80 עד 100 ס\"מ, במגמת ירידה. לפרטים נוספים: https://ims.gov.il/he/IMSwarnings .",
+        "from": "2025-02-08T20:00:00+00:00",
+        "until": "2025-02-09T08:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=a109067a-f173-4cd6-9872-5dad8a4d0964,0,1,0",
+        "country": "Israel"
+    },
+    {
+        "location": "Sea - North",
+        "warning_description": "update: Yellow Warning of HIGH SEA SWIMMING DANGER in Mediterranean Sea from 08/02 22 until 09/02 10 LT.    The state of sea is Slight. The significant wave height from 80 to 100 cm, Decreasing. For further details: https://ims.gov.il/he/IMSwarnings .\nHebrew(he-IL): עדכון: אזהרה צהובה על ים גבוה ומסוכן לרחצה בים התיכון מ-08/02 ב-22 עד 09/02 ב-10.   מצב הים גלי. גובה הגל הסיגניפיקנטי ינוע מ- 80 עד 100 ס\"מ, במגמת ירידה. לפרטים נוספים: https://ims.gov.il/he/IMSwarnings .",
+        "from": "2025-02-08T20:00:00+00:00",
+        "until": "2025-02-09T08:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=a109067a-f173-4cd6-9872-5dad8a4d0964,0,0,0",
+        "country": "Israel"
+    },
+    {
+        "location": "Lombardia",
+        "warning_description": "Moderate intensity weather phenomena expected Alps  (DISCLAIMER: \"Information provided on METEOALARM for Italy regard only the intensity and recurrence of the phenomena, further details can be found at www.meteoam.it. METEOALARM information do not provide the assessment of impact on the territory and they do not represent the Official Alerts messages that are issued by the National Civil Protection Service https://www.protezionecivile.gov.it\") BE AWARE, keep up to date with the latest weather forecast. Expect some minor disruption to outdoor activities\nItalian(it-IT): Sono previsti fenomeni meteorologici di moderata intensità Alpi  (DISCLAIMER: \"Le informazioni fornite su METEOALARM per l'Italia riguardano esclusivamente l'intensità e la ricorrenza dei fenomeni, maggiori dettagli sono disponibili su www.meteoam.it. Le informazioni METEOALARM non forniscono la valutazione di impatto sul territorio e non rappresentano i messaggi di Allerta Ufficiali che vengono emessi dal Servizio Nazionale di Protezione Civile https://www.protezionecivile.gov.it\") STARE (RIMANERE) ATTENTI. Tenersi aggiornati con le previsioni del tempo più recenti. Aspettarsi alcuni disagi minori per le attività all'aria aperta.",
+        "from": "2025-02-08T12:00:00+00:00",
+        "until": "2025-02-08T23:59:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:IT003",
+        "country": "Italy"
+    },
+    {
+        "location": "Piemonte",
+        "warning_description": "Severe weather expected south part >200 metri  (DISCLAIMER: \"Information provided on METEOALARM for Italy regard only the intensity and recurrence of the phenomena, further details can be found at www.meteoam.it. METEOALARM information do not provide the assessment of impact on the territory and they do not represent the Official Alerts messages that are issued by the National Civil Protection Service https://www.protezionecivile.gov.it\") BE PREPARED. Take precautions and keep up to date with the latest weather forecast. Expect some disruption to daily routines and BE PREPARED for disruption to outdoor activities.\nItalian(it-IT): Sono previsti fenomeni meteorologici intensi Parte sud >200 metri  (DISCLAIMER: \"Le informazioni fornite su METEOALARM per l'Italia riguardano esclusivamente l'intensità e la ricorrenza dei fenomeni, maggiori dettagli sono disponibili su www.meteoam.it. Le informazioni METEOALARM non forniscono la valutazione di impatto sul territorio e non rappresentano i messaggi di Allerta Ufficiali che vengono emessi dal Servizio Nazionale di Protezione Civile https://www.protezionecivile.gov.it\") ESSERE PREPARATI. Prendere le dovute precauzioni e tenersi aggiornati sulle ultime previsioni del tempo. Aspettarsi qualche disgio durante le normali attività quotidiane ed essere pronti ad interrompere le attività all'aria aperta.",
+        "from": "2025-02-08T12:00:00+00:00",
+        "until": "2025-02-08T23:59:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:IT005",
+        "country": "Italy"
+    },
+    {
+        "location": "Emilia e Romagna",
+        "warning_description": "Moderate intensity weather phenomena expected West part   (DISCLAIMER: \"Information provided on METEOALARM for Italy regard only the intensity and recurrence of the phenomena, further details can be found at www.meteoam.it. METEOALARM information do not provide the assessment of impact on the territory and they do not represent the Official Alerts messages that are issued by the National Civil Protection Service https://www.protezionecivile.gov.it\") BE AWARE, keep up to date with the latest weather forecast. Expect some minor disruption to outdoor activities\nItalian(it-IT): Sono previsti fenomeni meteorologici di moderata intensità Parte ovest  (DISCLAIMER: \"Le informazioni fornite su METEOALARM per l'Italia riguardano esclusivamente l'intensità e la ricorrenza dei fenomeni, maggiori dettagli sono disponibili su www.meteoam.it. Le informazioni METEOALARM non forniscono la valutazione di impatto sul territorio e non rappresentano i messaggi di Allerta Ufficiali che vengono emessi dal Servizio Nazionale di Protezione Civile https://www.protezionecivile.gov.it\") STARE (RIMANERE) ATTENTI. Tenersi aggiornati con le previsioni del tempo più recenti. Aspettarsi alcuni disagi minori per le attività all'aria aperta.",
+        "from": "2025-02-08T12:00:00+00:00",
+        "until": "2025-02-08T23:59:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:IT008",
+        "country": "Italy"
+    },
+    {
+        "location": "Toscana",
+        "warning_description": "Moderate intensity weather phenomena expected  (DISCLAIMER: \"Information provided on METEOALARM for Italy regard only the intensity and recurrence of the phenomena, further details can be found at www.meteoam.it. METEOALARM information do not provide the assessment of impact on the territory and they do not represent the Official Alerts messages that are issued by the National Civil Protection Service https://www.protezionecivile.gov.it\") BE AWARE, keep up to date with the latest weather forecast. Expect some minor disruption to outdoor activities\nItalian(it-IT): Sono previsti fenomeni meteorologici di moderata intensità  (DISCLAIMER: \"Le informazioni fornite su METEOALARM per l'Italia riguardano esclusivamente l'intensità e la ricorrenza dei fenomeni, maggiori dettagli sono disponibili su www.meteoam.it. Le informazioni METEOALARM non forniscono la valutazione di impatto sul territorio e non rappresentano i messaggi di Allerta Ufficiali che vengono emessi dal Servizio Nazionale di Protezione Civile https://www.protezionecivile.gov.it\") STARE (RIMANERE) ATTENTI. Tenersi aggiornati con le previsioni del tempo più recenti. Aspettarsi alcuni disagi minori per le attività all'aria aperta.",
+        "from": "2025-02-09T12:00:00+00:00",
+        "until": "2025-02-09T23:59:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:IT009",
+        "country": "Italy"
+    },
+    {
+        "location": "Sicilia",
+        "warning_description": "Moderate intensity weather phenomena expected  (DISCLAIMER: \"Information provided on METEOALARM for Italy regard only the intensity and recurrence of the phenomena, further details can be found at www.meteoam.it. METEOALARM information do not provide the assessment of impact on the territory and they do not represent the Official Alerts messages that are issued by the National Civil Protection Service https://www.protezionecivile.gov.it\") BE AWARE, keep up to date with the latest weather forecast. Expect some minor disruption to outdoor activities\nItalian(it-IT): Sono previsti fenomeni meteorologici di moderata intensità  (DISCLAIMER: \"Le informazioni fornite su METEOALARM per l'Italia riguardano esclusivamente l'intensità e la ricorrenza dei fenomeni, maggiori dettagli sono disponibili su www.meteoam.it. Le informazioni METEOALARM non forniscono la valutazione di impatto sul territorio e non rappresentano i messaggi di Allerta Ufficiali che vengono emessi dal Servizio Nazionale di Protezione Civile https://www.protezionecivile.gov.it\") STARE (RIMANERE) ATTENTI. Tenersi aggiornati con le previsioni del tempo più recenti. Aspettarsi alcuni disagi minori per le attività all'aria aperta.",
+        "from": "2025-02-08T23:00:00+00:00",
+        "until": "2025-02-10T08:59:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:IT018",
+        "country": "Italy"
+    },
+    {
+        "location": "Texel",
+        "warning_description": "east to northeast 6 bft",
+        "from": "2025-02-09T06:55:00+00:00",
+        "until": "2025-02-09T21:55:57+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:NL804",
+        "country": "Netherlands"
+    },
+    {
+        "location": "Rottum",
+        "warning_description": "east to northeast 6 bft",
+        "from": "2025-02-09T06:55:00+00:00",
+        "until": "2025-02-09T21:55:57+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:NL805",
+        "country": "Netherlands"
+    },
+    {
+        "location": "Skomvaer - Andenes",
+        "warning_description": "Occasionally south and southwest near gale force 7.     Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-08T11:00:00+00:00",
+        "until": "2025-02-09T20:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=02b99ecf-4107-4e48-b927-67fa13214082,1,0,1",
+        "country": "Norway"
+    },
+    {
+        "location": "Skomvaer - Andenes",
+        "warning_description": "Occasionally south and southwest near gale force 7.     Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-08T11:00:00+00:00",
+        "until": "2025-02-09T20:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=02b99ecf-4107-4e48-b927-67fa13214082,1,0,0",
+        "country": "Norway"
+    },
+    {
+        "location": "Fruholmen - Slettnes lighthouse",
+        "warning_description": "Occasionally southwest near gale force 7, from Sunday evening gale force 8, occasionally strong gale force 9.     Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-08T20:00:00+00:00",
+        "until": "2025-02-10T05:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=0aecf37e-255c-4167-8765-1cc9c1f8b11f,1,0,1",
+        "country": "Norway"
+    },
+    {
+        "location": "Fruholmen - Slettnes lighthouse",
+        "warning_description": "Occasionally southwest near gale force 7, from Sunday evening gale force 8, occasionally strong gale force 9.     Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-08T20:00:00+00:00",
+        "until": "2025-02-10T05:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=0aecf37e-255c-4167-8765-1cc9c1f8b11f,1,0,0",
+        "country": "Norway"
+    },
+    {
+        "location": "Stoett - Loedingen",
+        "warning_description": "From Saturday afternoon occasionally south, later southwest near gale force 7.     Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-08T15:00:00+00:00",
+        "until": "2025-02-09T16:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=06c72ba0-7038-4468-95ec-54fcd65cfce5,1,0,1",
+        "country": "Norway"
+    },
+    {
+        "location": "Stoett - Loedingen",
+        "warning_description": "From Saturday afternoon occasionally south, later southwest near gale force 7.     Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-08T15:00:00+00:00",
+        "until": "2025-02-09T16:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=06c72ba0-7038-4468-95ec-54fcd65cfce5,1,0,0",
+        "country": "Norway"
+    },
+    {
+        "location": "Slettnes lighthouse - Russian border",
+        "warning_description": "Occasionally southwest near gale force 7, from Sunday evening gale force 8. Early Monday morning occasionally strong gale force 9.     Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-08T08:00:00+00:00",
+        "until": "2025-02-10T09:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=5e36af2f-f3d8-4b5b-a0f3-67d69f82de90,1,0,1",
+        "country": "Norway"
+    },
+    {
+        "location": "Slettnes lighthouse - Russian border",
+        "warning_description": "Occasionally southwest near gale force 7, from Sunday evening gale force 8. Early Monday morning occasionally strong gale force 9.     Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-08T08:00:00+00:00",
+        "until": "2025-02-10T09:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=5e36af2f-f3d8-4b5b-a0f3-67d69f82de90,1,0,0",
+        "country": "Norway"
+    },
+    {
+        "location": "Torsvaag - Fruholmen",
+        "warning_description": "Occasionally southwest near gale force 7, early Sunday afternoon veering to west, occasionally gale force 8.      Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-08T20:00:00+00:00",
+        "until": "2025-02-10T09:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=418e72e5-3f60-4055-a62c-7df725904138,1,0,1",
+        "country": "Norway"
+    },
+    {
+        "location": "Torsvaag - Fruholmen",
+        "warning_description": "Occasionally southwest near gale force 7, early Sunday afternoon veering to west, occasionally gale force 8.      Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-08T20:00:00+00:00",
+        "until": "2025-02-10T09:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=418e72e5-3f60-4055-a62c-7df725904138,1,0,0",
+        "country": "Norway"
+    },
+    {
+        "location": "Andenes - Torsvaag",
+        "warning_description": "South and southwest near gale force 7, from late Sunday morning occasionally gale force 8.     Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-08T20:00:00+00:00",
+        "until": "2025-02-10T03:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=734a3821-53a9-4cb4-920f-1683ffc91805,1,0,1",
+        "country": "Norway"
+    },
+    {
+        "location": "Andenes - Torsvaag",
+        "warning_description": "South and southwest near gale force 7, from late Sunday morning occasionally gale force 8.     Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-08T20:00:00+00:00",
+        "until": "2025-02-10T03:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=734a3821-53a9-4cb4-920f-1683ffc91805,1,0,0",
+        "country": "Norway"
+    },
+    {
+        "location": "Maaloey - Svinoey",
+        "warning_description": "Sunday south and southwest near gale force 7 to gale force 8. Decreasing Sunday evening.     Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-09T00:00:00+00:00",
+        "until": "2025-02-09T19:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=da320883-650d-45d1-bd01-12cd878e3f14,1,0,1",
+        "country": "Norway"
+    },
+    {
+        "location": "Maaloey - Svinoey",
+        "warning_description": "Sunday south and southwest near gale force 7 to gale force 8. Decreasing Sunday evening.     Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-09T00:00:00+00:00",
+        "until": "2025-02-09T19:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=da320883-650d-45d1-bd01-12cd878e3f14,1,0,0",
+        "country": "Norway"
+    },
+    {
+        "location": "Svinoey - Roervik",
+        "warning_description": "From Sunday morning, southwest near gale force 7, occasionally gale force 8. Decreasing Sunday evening.     Large waves. High risk of dangerous situations when in a small boat at sea. Moderately high waves with breaking crests forming spindrift. Considerable airborne spray. Do not go out at sea in a small boat",
+        "from": "2025-02-09T05:00:00+00:00",
+        "until": "2025-02-09T22:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=b489322e-d898-4205-be22-ff926905367b,1,0,3",
+        "country": "Norway"
+    },
+    {
+        "location": "Svinoey - Roervik",
+        "warning_description": "From Sunday morning, southwest near gale force 7, occasionally gale force 8. Decreasing Sunday evening.     Large waves. High risk of dangerous situations when in a small boat at sea. Moderately high waves with breaking crests forming spindrift. Considerable airborne spray. Do not go out at sea in a small boat",
+        "from": "2025-02-09T05:00:00+00:00",
+        "until": "2025-02-09T22:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=b489322e-d898-4205-be22-ff926905367b,1,0,2",
+        "country": "Norway"
+    },
+    {
+        "location": "Svinoey - Roervik",
+        "warning_description": "From Sunday morning, southwest near gale force 7, occasionally gale force 8. Decreasing Sunday evening.     Large waves. High risk of dangerous situations when in a small boat at sea. Moderately high waves with breaking crests forming spindrift. Considerable airborne spray. Do not go out at sea in a small boat",
+        "from": "2025-02-09T05:00:00+00:00",
+        "until": "2025-02-09T22:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=b489322e-d898-4205-be22-ff926905367b,1,0,1",
+        "country": "Norway"
+    },
+    {
+        "location": "Svinoey - Roervik",
+        "warning_description": "From Sunday morning, southwest near gale force 7, occasionally gale force 8. Decreasing Sunday evening.     Large waves. High risk of dangerous situations when in a small boat at sea. Moderately high waves with breaking crests forming spindrift. Considerable airborne spray. Do not go out at sea in a small boat",
+        "from": "2025-02-09T05:00:00+00:00",
+        "until": "2025-02-09T22:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=b489322e-d898-4205-be22-ff926905367b,1,0,0",
+        "country": "Norway"
+    },
+    {
+        "location": "Sandnessjoeen - Stoett",
+        "warning_description": "From Saturday evening still south near gale force 7. Late Sunday morning decreasing.      Moderate waves. Risk of dangerous situations when in a small boat at sea. Sea heaps up. Moderate amounts of airborne spray. It is not recommended to be at sea in a small boat.",
+        "from": "2025-02-08T20:00:00+00:00",
+        "until": "2025-02-09T11:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=a31ba400-ad46-491b-ab48-2cc8fa8c3f61,1,0,0",
+        "country": "Norway"
+    },
+    {
+        "location": "Parts of Troms and northern Nordland",
+        "warning_description": "Local blowing snow is expected on mountain roads due to strong wind and snow.Decreasing wind and snow Monday morning.     Reduced visibility. Local driving conditions may become difficult due to snow accumulating on the road. Expect convoys and/or closed roads on short notice. Allow extra time for transportation and driving. Follow advice and check status from transport operators. Check road reports (175.no). Use tires fit for winter conditions and use caution while driving. Avoid unnecessary journeys to exposed places.",
+        "from": "2025-02-09T12:00:00+00:00",
+        "until": "2025-02-10T08:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=4bcff29d-0780-4438-9c27-6973a2e11d5d,1,0,0",
+        "country": "Norway"
+    },
+    {
+        "location": "Parts of Finnmark",
+        "warning_description": "Local blowing snow is expected in exposed areas due to strong wind and snow, first in western parts. Decreasing wind and snow Monday morning.     Reduced visibility. Local driving conditions may become difficult due to snow accumulating on the road. Expect convoys and/or closed roads on short notice. Allow extra time for transportation and driving. Follow advice and check status from transport operators. Check road reports (175.no). Use tires fit for winter conditions and use caution while driving. Avoid unnecessary journeys to exposed places.",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T10:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=328eb6b8-7f3c-4393-8511-3b5d0099be3e,1,0,0",
+        "country": "Norway"
+    },
+    {
+        "location": "Banat",
+        "warning_description": "Wind gusts ≥ 17 m/s (≥60km/h) Possible damage of properties, problems in transportation (cars veer on road), forest damage, damage of trees in parks and individual trees (some twigs broken from trees, some branches break off trees), problems in civil engineering construction works - especially works with cranes, indirect impact on the safety of people and animals, makes already existing dangerous security situations more complicated (forest and other fires, environmental disasters, disturbance of rescue actions). Impacts apply to facilities built of hard materials, facilities that are well maintained on healthy trees and the like.\nSerbian(sr): Udari vetra ≥ 17 m/s (≥60km/h) Moguće štete na pokretnoj i nepokretnoj imovini, problemi u transportu i saobraćaju (zanošenje automobila na putevima), štete na šumama, drveću u parkovima i individualnom drveću ( lomljenje manjih i tanjih grana), problemi u građevinarstvu - naročitu u radu sa kranovima, indirektna opasnost od povređivanja ljudi i životinja, otežava već tešku situaciju ( šumski i drugi požari, ekološka katastrofa, ometanje akcija spašavanja). Uticaji se odnose na dobro i redovno održavane objekte tvrde građe, zdravo drveće i slično.",
+        "from": "2025-02-08T23:00:00+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:RS001",
+        "country": "Serbia"
+    },
+    {
+        "location": "Backa",
+        "warning_description": "Minimum temperature lower than -5°C above 1000 MSL lower than -10°C The predicted minimum air temperatures are not uncommon but take the necessary measures of protection for outside activities. They are especially dangerous lakes of cold air for longer stay in them. Problems in thermal and electric power supply. Possible risk of freezing water pipes in the backyard and water installations. Unfavourable conditions for chronically sick, people under therapy and medical control or meteoropaths.\nSerbian(sr): Minimalna temperatura manja od -5°C a na područjima iznad 1000 metara nadmorske visine manja od -10°C Prognozirana minimalna temperatura vazduha nije neuobičajena ali preduzmite neophodne mere zaštite za aktivnosti na otvorenom prostoru. Posebno su opasna jezera hladnog vazduha i duža zadržavanja u njima.Problemi u snabdevanju toplotne i električne energije. Rizik od zaleđivanja česmi i instalacija za vodu. Nepovoljni vremenski uslovi za hronične bolesnike, ljude pod terapijom, medicinskom kontrolom ili meteoropate.",
+        "from": "2025-02-09T23:00:00+00:00",
+        "until": "2025-02-10T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:RS002",
+        "country": "Serbia"
+    },
+    {
+        "location": "Beograd",
+        "warning_description": "Minimum temperature lower than -5°C above 1000 MSL lower than -10°C The predicted minimum air temperatures are not uncommon but take the necessary measures of protection for outside activities. They are especially dangerous lakes of cold air for longer stay in them. Problems in thermal and electric power supply. Possible risk of freezing water pipes in the backyard and water installations. Unfavourable conditions for chronically sick, people under therapy and medical control or meteoropaths.\nSerbian(sr): Minimalna temperatura manja od -5°C a na područjima iznad 1000 metara nadmorske visine manja od -10°C Prognozirana minimalna temperatura vazduha nije neuobičajena ali preduzmite neophodne mere zaštite za aktivnosti na otvorenom prostoru. Posebno su opasna jezera hladnog vazduha i duža zadržavanja u njima.Problemi u snabdevanju toplotne i električne energije. Rizik od zaleđivanja česmi i instalacija za vodu. Nepovoljni vremenski uslovi za hronične bolesnike, ljude pod terapijom, medicinskom kontrolom ili meteoropate.",
+        "from": "2025-02-09T23:00:00+00:00",
+        "until": "2025-02-10T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:RS003",
+        "country": "Serbia"
+    },
+    {
+        "location": "Istocna Srbija",
+        "warning_description": "Minimum temperature lower than -5°C above 1000 MSL lower than -10°C The predicted minimum air temperatures are not uncommon but take the necessary measures of protection for outside activities. They are especially dangerous lakes of cold air for longer stay in them. Problems in thermal and electric power supply. Possible risk of freezing water pipes in the backyard and water installations. Unfavourable conditions for chronically sick, people under therapy and medical control or meteoropaths.\nSerbian(sr): Minimalna temperatura manja od -5°C a na područjima iznad 1000 metara nadmorske visine manja od -10°C Prognozirana minimalna temperatura vazduha nije neuobičajena ali preduzmite neophodne mere zaštite za aktivnosti na otvorenom prostoru. Posebno su opasna jezera hladnog vazduha i duža zadržavanja u njima.Problemi u snabdevanju toplotne i električne energije. Rizik od zaleđivanja česmi i instalacija za vodu. Nepovoljni vremenski uslovi za hronične bolesnike, ljude pod terapijom, medicinskom kontrolom ili meteoropate.",
+        "from": "2025-02-08T23:00:00+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:RS004",
+        "country": "Serbia"
+    },
+    {
+        "location": "Jugoistocna Srbija",
+        "warning_description": "Minimum temperature lower than -5°C above 1000 MSL lower than -10°C The predicted minimum air temperatures are not uncommon but take the necessary measures of protection for outside activities. They are especially dangerous lakes of cold air for longer stay in them. Problems in thermal and electric power supply. Possible risk of freezing water pipes in the backyard and water installations. Unfavourable conditions for chronically sick, people under therapy and medical control or meteoropaths.\nSerbian(sr): Minimalna temperatura manja od -5°C a na područjima iznad 1000 metara nadmorske visine manja od -10°C Prognozirana minimalna temperatura vazduha nije neuobičajena ali preduzmite neophodne mere zaštite za aktivnosti na otvorenom prostoru. Posebno su opasna jezera hladnog vazduha i duža zadržavanja u njima.Problemi u snabdevanju toplotne i električne energije. Rizik od zaleđivanja česmi i instalacija za vodu. Nepovoljni vremenski uslovi za hronične bolesnike, ljude pod terapijom, medicinskom kontrolom ili meteoropate.",
+        "from": "2025-02-08T23:00:00+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:RS005",
+        "country": "Serbia"
+    },
+    {
+        "location": "Jugozapadna Srbija",
+        "warning_description": "Minimum temperature lower than -5°C above 1000 MSL lower than -10°C The predicted minimum air temperatures are not uncommon but take the necessary measures of protection for outside activities. They are especially dangerous lakes of cold air for longer stay in them. Problems in thermal and electric power supply. Possible risk of freezing water pipes in the backyard and water installations. Unfavourable conditions for chronically sick, people under therapy and medical control or meteoropaths.\nSerbian(sr): Minimalna temperatura manja od -5°C a na područjima iznad 1000 metara nadmorske visine manja od -10°C Prognozirana minimalna temperatura vazduha nije neuobičajena ali preduzmite neophodne mere zaštite za aktivnosti na otvorenom prostoru. Posebno su opasna jezera hladnog vazduha i duža zadržavanja u njima.Problemi u snabdevanju toplotne i električne energije. Rizik od zaleđivanja česmi i instalacija za vodu. Nepovoljni vremenski uslovi za hronične bolesnike, ljude pod terapijom, medicinskom kontrolom ili meteoropate.",
+        "from": "2025-02-08T23:00:00+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:RS006",
+        "country": "Serbia"
+    },
+    {
+        "location": "Kosovo i Metohija",
+        "warning_description": "Minimum temperature lower than -5°C above 1000 MSL lower than -10°C The predicted minimum air temperatures are not uncommon but take the necessary measures of protection for outside activities. They are especially dangerous lakes of cold air for longer stay in them. Problems in thermal and electric power supply. Possible risk of freezing water pipes in the backyard and water installations. Unfavourable conditions for chronically sick, people under therapy and medical control or meteoropaths.\nSerbian(sr): Minimalna temperatura manja od -5°C a na područjima iznad 1000 metara nadmorske visine manja od -10°C Prognozirana minimalna temperatura vazduha nije neuobičajena ali preduzmite neophodne mere zaštite za aktivnosti na otvorenom prostoru. Posebno su opasna jezera hladnog vazduha i duža zadržavanja u njima.Problemi u snabdevanju toplotne i električne energije. Rizik od zaleđivanja česmi i instalacija za vodu. Nepovoljni vremenski uslovi za hronične bolesnike, ljude pod terapijom, medicinskom kontrolom ili meteoropate.",
+        "from": "2025-02-08T23:00:00+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:RS007",
+        "country": "Serbia"
+    },
+    {
+        "location": "Pomoravlje",
+        "warning_description": "Wind gusts ≥ 17 m/s (≥60km/h) Possible damage of properties, problems in transportation (cars veer on road), forest damage, damage of trees in parks and individual trees (some twigs broken from trees, some branches break off trees), problems in civil engineering construction works - especially works with cranes, indirect impact on the safety of people and animals, makes already existing dangerous security situations more complicated (forest and other fires, environmental disasters, disturbance of rescue actions). Impacts apply to facilities built of hard materials, facilities that are well maintained on healthy trees and the like.\nSerbian(sr): Udari vetra ≥ 17 m/s (≥60km/h) Moguće štete na pokretnoj i nepokretnoj imovini, problemi u transportu i saobraćaju (zanošenje automobila na putevima), štete na šumama, drveću u parkovima i individualnom drveću ( lomljenje manjih i tanjih grana), problemi u građevinarstvu - naročitu u radu sa kranovima, indirektna opasnost od povređivanja ljudi i životinja, otežava već tešku situaciju ( šumski i drugi požari, ekološka katastrofa, ometanje akcija spašavanja). Uticaji se odnose na dobro i redovno održavane objekte tvrde građe, zdravo drveće i slično.",
+        "from": "2025-02-08T23:00:00+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:RS008",
+        "country": "Serbia"
+    },
+    {
+        "location": "Srem",
+        "warning_description": "Minimum temperature lower than -5°C above 1000 MSL lower than -10°C The predicted minimum air temperatures are not uncommon but take the necessary measures of protection for outside activities. They are especially dangerous lakes of cold air for longer stay in them. Problems in thermal and electric power supply. Possible risk of freezing water pipes in the backyard and water installations. Unfavourable conditions for chronically sick, people under therapy and medical control or meteoropaths.\nSerbian(sr): Minimalna temperatura manja od -5°C a na područjima iznad 1000 metara nadmorske visine manja od -10°C Prognozirana minimalna temperatura vazduha nije neuobičajena ali preduzmite neophodne mere zaštite za aktivnosti na otvorenom prostoru. Posebno su opasna jezera hladnog vazduha i duža zadržavanja u njima.Problemi u snabdevanju toplotne i električne energije. Rizik od zaleđivanja česmi i instalacija za vodu. Nepovoljni vremenski uslovi za hronične bolesnike, ljude pod terapijom, medicinskom kontrolom ili meteoropate.",
+        "from": "2025-02-09T23:00:00+00:00",
+        "until": "2025-02-10T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:RS009",
+        "country": "Serbia"
+    },
+    {
+        "location": "Sumadija",
+        "warning_description": "Minimum temperature lower than -5°C above 1000 MSL lower than -10°C The predicted minimum air temperatures are not uncommon but take the necessary measures of protection for outside activities. They are especially dangerous lakes of cold air for longer stay in them. Problems in thermal and electric power supply. Possible risk of freezing water pipes in the backyard and water installations. Unfavourable conditions for chronically sick, people under therapy and medical control or meteoropaths.\nSerbian(sr): Minimalna temperatura manja od -5°C a na područjima iznad 1000 metara nadmorske visine manja od -10°C Prognozirana minimalna temperatura vazduha nije neuobičajena ali preduzmite neophodne mere zaštite za aktivnosti na otvorenom prostoru. Posebno su opasna jezera hladnog vazduha i duža zadržavanja u njima.Problemi u snabdevanju toplotne i električne energije. Rizik od zaleđivanja česmi i instalacija za vodu. Nepovoljni vremenski uslovi za hronične bolesnike, ljude pod terapijom, medicinskom kontrolom ili meteoropate.",
+        "from": "2025-02-08T23:00:00+00:00",
+        "until": "2025-02-09T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:RS010",
+        "country": "Serbia"
+    },
+    {
+        "location": "Zapadna Srbija",
+        "warning_description": "Minimum temperature lower than -5°C above 1000 MSL lower than -10°C The predicted minimum air temperatures are not uncommon but take the necessary measures of protection for outside activities. They are especially dangerous lakes of cold air for longer stay in them. Problems in thermal and electric power supply. Possible risk of freezing water pipes in the backyard and water installations. Unfavourable conditions for chronically sick, people under therapy and medical control or meteoropaths.\nSerbian(sr): Minimalna temperatura manja od -5°C a na područjima iznad 1000 metara nadmorske visine manja od -10°C Prognozirana minimalna temperatura vazduha nije neuobičajena ali preduzmite neophodne mere zaštite za aktivnosti na otvorenom prostoru. Posebno su opasna jezera hladnog vazduha i duža zadržavanja u njima.Problemi u snabdevanju toplotne i električne energije. Rizik od zaleđivanja česmi i instalacija za vodu. Nepovoljni vremenski uslovi za hronične bolesnike, ljude pod terapijom, medicinskom kontrolom ili meteoropate.",
+        "from": "2025-02-09T23:00:00+00:00",
+        "until": "2025-02-10T23:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:RS011",
+        "country": "Serbia"
+    },
+    {
+        "location": "Senica",
+        "warning_description": "We expect strong wind in district Senica. Wind gusts can reach 18 - 20 m/s (65 - 70 km/h). This wind speed represents potential risk for human activities. BE AWARE of debris being blown around. Localised outdoor activity disruption is possible due to debris.",
+        "from": "2025-02-07T19:00:00+00:00",
+        "until": "2025-02-09T02:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:SK205",
+        "country": "Slovakia"
+    },
+    {
+        "location": "Pirineo oscense",
+        "warning_description": "Minimum temperature: -6 ºC. Aviso de baja probabilidad. Be aware, keep up to date with the latest weather forecast. Moderate damages to people and properties may occur, especially to those vulnerable or in exposed areas.",
+        "from": "2025-02-08T23:00:00+00:00",
+        "until": "2025-02-09T07:59:59+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:ES099",
+        "country": "Spain"
+    },
+    {
+        "location": "Prepirineo de Barcelona",
+        "warning_description": "Minimum temperature: -6 ºC. Aviso de baja probabilidad. Be aware, keep up to date with the latest weather forecast. Moderate damages to people and properties may occur, especially to those vulnerable or in exposed areas.",
+        "from": "2025-02-08T23:00:00+00:00",
+        "until": "2025-02-09T07:59:59+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:ES178",
+        "country": "Spain"
+    },
+    {
+        "location": "Pirineo de Girona",
+        "warning_description": "Minimum temperature: -6 ºC. Aviso de baja probabilidad. Be aware, keep up to date with the latest weather forecast. Moderate damages to people and properties may occur, especially to those vulnerable or in exposed areas.",
+        "from": "2025-02-08T23:00:00+00:00",
+        "until": "2025-02-09T07:59:59+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:ES182",
+        "country": "Spain"
+    },
+    {
+        "location": "Valle de Arán",
+        "warning_description": "Minimum temperature: -6 ºC. Aviso de baja probabilidad. Be aware, keep up to date with the latest weather forecast. Moderate damages to people and properties may occur, especially to those vulnerable or in exposed areas.",
+        "from": "2025-02-08T23:00:00+00:00",
+        "until": "2025-02-09T07:59:59+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:ES186",
+        "country": "Spain"
+    },
+    {
+        "location": "Pirineo de Lleida",
+        "warning_description": "Minimum temperature: -6 ºC. Aviso de baja probabilidad. Be aware, keep up to date with the latest weather forecast. Moderate damages to people and properties may occur, especially to those vulnerable or in exposed areas.",
+        "from": "2025-02-08T23:00:00+00:00",
+        "until": "2025-02-09T07:59:59+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:ES187",
+        "country": "Spain"
+    },
+    {
+        "location": "Costa - Ampurdán",
+        "warning_description": "Viento del norte de 50 a 60 km/h (fuerza 7) y olas de 3 m. Be aware, keep up to date with the latest weather forecast. Moderate damages to people and properties may occur, especially to those vulnerable or in exposed areas.",
+        "from": "2025-02-08T10:00:00+00:00",
+        "until": "2025-02-09T02:59:59+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?geocode=EMMA_ID:ES890",
+        "country": "Spain"
+    },
+    {
+        "location": "Southern Baltic",
+        "warning_description": "Late Sunday evening east 14-17 m/s. Night to Monday decreasing. Late Monday afternoon east 14-17 m/s.; What should I think about?: Pay close attention to the marine forecast and prepare crew and vessel for high winds and seas. Keep in mind that the wind gusts are often significantly higher than the average wind.; Where?: Southern Baltic",
+        "from": "2025-02-09T22:00:00+00:00",
+        "until": "2025-02-11T00:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=c50b29e4-c413-4bd9-a231-94bf0fb176fa,1,0,0",
+        "country": "Sweden"
+    },
+    {
+        "location": "Skagerrak",
+        "warning_description": "From Monday afternoon, mainly in western part, east 14-17 m/s.; What should I think about?: Pay close attention to the marine forecast and prepare crew and vessel for high winds and seas. Keep in mind that the wind gusts are often significantly higher than the average wind.; Where?: Skagerrak",
+        "from": "2025-02-10T11:00:00+00:00",
+        "until": "2025-02-11T19:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=8b7ae65e-7ad3-47ee-a3fa-2d3fbd627646,1,0,0",
+        "country": "Sweden"
+    },
+    {
+        "location": "Western Baltic",
+        "warning_description": "Night to Monday east 14-17 m/s. Late night to Monday decreasing. Late Monday afternoon east 14-17 m/s.; What should I think about?: Pay close attention to the marine forecast and prepare crew and vessel for high winds and seas. Keep in mind that the wind gusts are often significantly higher than the average wind.; Where?: Western Baltic",
+        "from": "2025-02-10T00:00:00+00:00",
+        "until": "2025-02-11T19:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=4a020322-194a-4ff3-9cb0-732d5dfb3b6b,1,0,0",
+        "country": "Sweden"
+    },
+    {
+        "location": "Northern Lapland Mountains",
+        "warning_description": "From Sunday evening, occasionally strong westerly winds and snow showers. Risk of reduced visibility, among other things.; What happens?: Sunday afternoon, a westerly or northwesterly wind will increase. From the evening up to strong or very strong winds, around 15-20 m/s, at the same time as some snow showers move in. During the night towards Monday, there may be local storms of 25-30 m/s on the highest peaks. Monday morning, both wind and snow showers are expected to subside.; What should I think about?: Do not hike in mountainous areas if you are inexperienced. It is difficult to orientate due to reduced visibility. It can be difficult to set up or anchor tents. There is a risk of frostbite.; Where?: Northern Lapland Mountains; Comments: Most of the snow showers are expected in the northwestern parts.",
+        "from": "2025-02-09T16:00:00+00:00",
+        "until": "2025-02-10T08:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=f19dde71-7e91-4db9-8a14-e7ea8df1606b,1,0,1",
+        "country": "Sweden"
+    },
+    {
+        "location": "Northern Lapland Mountains",
+        "warning_description": "From Sunday evening, occasionally strong westerly winds and snow showers. Risk of reduced visibility, among other things.; What happens?: Sunday afternoon, a westerly or northwesterly wind will increase. From the evening up to strong or very strong winds, around 15-20 m/s, at the same time as some snow showers move in. During the night towards Monday, there may be local storms of 25-30 m/s on the highest peaks. Monday morning, both wind and snow showers are expected to subside.; What should I think about?: Do not hike in mountainous areas if you are inexperienced. It is difficult to orientate due to reduced visibility. It can be difficult to set up or anchor tents. There is a risk of frostbite.; Where?: Northern Lapland Mountains; Comments: Most of the snow showers are expected in the northwestern parts.",
+        "from": "2025-02-09T16:00:00+00:00",
+        "until": "2025-02-10T08:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=f19dde71-7e91-4db9-8a14-e7ea8df1606b,1,0,0",
+        "country": "Sweden"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Ports of Mariupol and Berdyansk, Southern Crimean area, Western Crimean area, Western Sea of Azov",
+        "warning_description": "Northeast wind 15-18 m/s on the open part of the sea.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=80f821f5-afa3-4923-ab0f-7acb28f4d485,0,0,6",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Ports of Mariupol and Berdyansk, Southern Crimean area, Western Crimean area, Western Sea of Azov",
+        "warning_description": "Northeast wind 15-18 m/s on the open part of the sea.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=80f821f5-afa3-4923-ab0f-7acb28f4d485,0,0,5",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Ports of Mariupol and Berdyansk, Southern Crimean area, Western Crimean area, Western Sea of Azov",
+        "warning_description": "Northeast wind 15-18 m/s on the open part of the sea.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=80f821f5-afa3-4923-ab0f-7acb28f4d485,0,0,4",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Ports of Mariupol and Berdyansk, Southern Crimean area, Western Crimean area, Western Sea of Azov",
+        "warning_description": "Northeast wind 15-18 m/s on the open part of the sea.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=80f821f5-afa3-4923-ab0f-7acb28f4d485,0,0,3",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Ports of Mariupol and Berdyansk, Southern Crimean area, Western Crimean area, Western Sea of Azov",
+        "warning_description": "Northeast wind 15-18 m/s on the open part of the sea.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=80f821f5-afa3-4923-ab0f-7acb28f4d485,0,0,2",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Ports of Mariupol and Berdyansk, Southern Crimean area, Western Crimean area, Western Sea of Azov",
+        "warning_description": "Northeast wind 15-18 m/s on the open part of the sea.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=80f821f5-afa3-4923-ab0f-7acb28f4d485,0,0,1",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Ports of Mariupol and Berdyansk, Southern Crimean area, Western Crimean area, Western Sea of Azov",
+        "warning_description": "Northeast wind 15-18 m/s on the open part of the sea.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=80f821f5-afa3-4923-ab0f-7acb28f4d485,0,0,0",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Danube Delta, Karkinitsky gulf, Open sea of Northwestern area of Black sea, Zmiinyi Island",
+        "warning_description": "Wave height 15-20 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=65491e45-993a-450a-a255-c9350ac4225b,0,0,3",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Danube Delta, Karkinitsky gulf, Open sea of Northwestern area of Black sea, Zmiinyi Island",
+        "warning_description": "Wave height 15-20 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=65491e45-993a-450a-a255-c9350ac4225b,0,0,2",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Danube Delta, Karkinitsky gulf, Open sea of Northwestern area of Black sea, Zmiinyi Island",
+        "warning_description": "Wave height 15-20 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=65491e45-993a-450a-a255-c9350ac4225b,0,0,1",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Danube Delta, Karkinitsky gulf, Open sea of Northwestern area of Black sea, Zmiinyi Island",
+        "warning_description": "Wave height 15-20 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=65491e45-993a-450a-a255-c9350ac4225b,0,0,0",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Danube Delta, Dniester estuary, Eastern Crimean area, Karkinitsky gulf, Open sea of Crimean area of Black sea, Open sea of Northwestern area of Black sea, Southern Crimean area, Western Crimean area, Zmiinyi Island",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9d5d73f2-1da3-4349-9412-38f661fbcb29,0,0,9",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Danube Delta, Dniester estuary, Eastern Crimean area, Karkinitsky gulf, Open sea of Crimean area of Black sea, Open sea of Northwestern area of Black sea, Southern Crimean area, Western Crimean area, Zmiinyi Island",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9d5d73f2-1da3-4349-9412-38f661fbcb29,0,0,8",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Danube Delta, Dniester estuary, Eastern Crimean area, Karkinitsky gulf, Open sea of Crimean area of Black sea, Open sea of Northwestern area of Black sea, Southern Crimean area, Western Crimean area, Zmiinyi Island",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9d5d73f2-1da3-4349-9412-38f661fbcb29,0,0,7",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Danube Delta, Dniester estuary, Eastern Crimean area, Karkinitsky gulf, Open sea of Crimean area of Black sea, Open sea of Northwestern area of Black sea, Southern Crimean area, Western Crimean area, Zmiinyi Island",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9d5d73f2-1da3-4349-9412-38f661fbcb29,0,0,6",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Danube Delta, Dniester estuary, Eastern Crimean area, Karkinitsky gulf, Open sea of Crimean area of Black sea, Open sea of Northwestern area of Black sea, Southern Crimean area, Western Crimean area, Zmiinyi Island",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9d5d73f2-1da3-4349-9412-38f661fbcb29,0,0,5",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Danube Delta, Dniester estuary, Eastern Crimean area, Karkinitsky gulf, Open sea of Crimean area of Black sea, Open sea of Northwestern area of Black sea, Southern Crimean area, Western Crimean area, Zmiinyi Island",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9d5d73f2-1da3-4349-9412-38f661fbcb29,0,0,4",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Danube Delta, Dniester estuary, Eastern Crimean area, Karkinitsky gulf, Open sea of Crimean area of Black sea, Open sea of Northwestern area of Black sea, Southern Crimean area, Western Crimean area, Zmiinyi Island",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9d5d73f2-1da3-4349-9412-38f661fbcb29,0,0,3",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Danube Delta, Dniester estuary, Eastern Crimean area, Karkinitsky gulf, Open sea of Crimean area of Black sea, Open sea of Northwestern area of Black sea, Southern Crimean area, Western Crimean area, Zmiinyi Island",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9d5d73f2-1da3-4349-9412-38f661fbcb29,0,0,2",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Danube Delta, Dniester estuary, Eastern Crimean area, Karkinitsky gulf, Open sea of Crimean area of Black sea, Open sea of Northwestern area of Black sea, Southern Crimean area, Western Crimean area, Zmiinyi Island",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9d5d73f2-1da3-4349-9412-38f661fbcb29,0,0,1",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Danube Delta, Dniester estuary, Eastern Crimean area, Karkinitsky gulf, Open sea of Crimean area of Black sea, Open sea of Northwestern area of Black sea, Southern Crimean area, Western Crimean area, Zmiinyi Island",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9d5d73f2-1da3-4349-9412-38f661fbcb29,0,0,0",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Wave height 15-20 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-10T07:00:00+00:00",
+        "until": "2025-02-10T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=125992c5-9e2d-482e-95a9-ac4c358940d5,0,0,5",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Wave height 15-20 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-10T07:00:00+00:00",
+        "until": "2025-02-10T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=125992c5-9e2d-482e-95a9-ac4c358940d5,0,0,4",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Wave height 15-20 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-10T07:00:00+00:00",
+        "until": "2025-02-10T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=125992c5-9e2d-482e-95a9-ac4c358940d5,0,0,3",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Wave height 15-20 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-10T07:00:00+00:00",
+        "until": "2025-02-10T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=125992c5-9e2d-482e-95a9-ac4c358940d5,0,0,2",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Wave height 15-20 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-10T07:00:00+00:00",
+        "until": "2025-02-10T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=125992c5-9e2d-482e-95a9-ac4c358940d5,0,0,1",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Wave height 15-20 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-10T07:00:00+00:00",
+        "until": "2025-02-10T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=125992c5-9e2d-482e-95a9-ac4c358940d5,0,0,0",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Ports of Mariupol and Berdyansk, Western Sea of Azov",
+        "warning_description": "Wave height 13-15 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=6df71c64-4759-4be0-908b-8a743bc0bf26,0,0,1",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Ports of Mariupol and Berdyansk, Western Sea of Azov",
+        "warning_description": "Wave height 13-15 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=6df71c64-4759-4be0-908b-8a743bc0bf26,0,0,0",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Northeast wind 15-20 m/s.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9671d258-d3aa-4897-a7d2-5c469f7fc191,0,0,5",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Northeast wind 15-20 m/s.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9671d258-d3aa-4897-a7d2-5c469f7fc191,0,0,4",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Northeast wind 15-20 m/s.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9671d258-d3aa-4897-a7d2-5c469f7fc191,0,0,3",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Northeast wind 15-20 m/s.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9671d258-d3aa-4897-a7d2-5c469f7fc191,0,0,2",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Northeast wind 15-20 m/s.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9671d258-d3aa-4897-a7d2-5c469f7fc191,0,0,1",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Northeast wind 15-20 m/s.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=9671d258-d3aa-4897-a7d2-5c469f7fc191,0,0,0",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=ba0564b0-a4ab-4004-8e75-a0d03ab8e4aa,0,0,5",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=ba0564b0-a4ab-4004-8e75-a0d03ab8e4aa,0,0,4",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=ba0564b0-a4ab-4004-8e75-a0d03ab8e4aa,0,0,3",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=ba0564b0-a4ab-4004-8e75-a0d03ab8e4aa,0,0,2",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=ba0564b0-a4ab-4004-8e75-a0d03ab8e4aa,0,0,1",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Anapa-Kerch region, Eastern Crimean area, Open sea of Crimean area of Black sea, Southern Crimean area, Strait of Kerch, Western Crimean area",
+        "warning_description": "Wave height 15-25 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T07:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=ba0564b0-a4ab-4004-8e75-a0d03ab8e4aa,0,0,0",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Ports of Mariupol and Berdyansk, Western Sea of Azov",
+        "warning_description": "Wave height 13-15 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=04455a8c-6769-4adb-8910-b470ac989264,0,0,1",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Ports of Mariupol and Berdyansk, Western Sea of Azov",
+        "warning_description": "Wave height 13-15 dm.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T15:09:11+00:00",
+        "until": "2025-02-09T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=04455a8c-6769-4adb-8910-b470ac989264,0,0,0",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Ports of Mariupol and Berdyansk, Western Sea of Azov",
+        "warning_description": "Northeast wind 15-18 m/s on the open part of the sea.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=dde1c902-4db1-4206-b9aa-2d91f25bc072,0,0,1",
+        "country": "Ukraine"
+    },
+    {
+        "location": "Ports of Mariupol and Berdyansk, Western Sea of Azov",
+        "warning_description": "Northeast wind 15-18 m/s on the open part of the sea.\nUkrainian(uk-UA):",
+        "from": "2025-02-09T18:00:00+00:00",
+        "until": "2025-02-10T18:00:00+00:00",
+        "pubDate": "",
+        "link": "https://meteoalarm.org?polygon=dde1c902-4db1-4206-b9aa-2d91f25bc072,0,0,0",
+        "country": "Ukraine"
+    }
+]

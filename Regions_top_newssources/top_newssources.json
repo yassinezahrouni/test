@@ -1,0 +1,1767 @@
+[
+    {
+        "newspaper": "The New York Times",
+        "link": "http://www.nytimes.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The New York Times",
+        "link": "http://www.nytimes.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Guardian",
+        "link": "http://www.theguardian.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Washington Post",
+        "link": "http://www.washingtonpost.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Daily Mail",
+        "link": "http://www.dailymail.co.uk",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Kompas",
+        "link": "http://www.kompas.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Liberty Times",
+        "link": "http://www.ltn.com.tw",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "USA Today",
+        "link": "http://www.usatoday.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Wall Street Journal",
+        "link": "http://www.wsj.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Daily Telegraph",
+        "link": "http://www.telegraph.co.uk",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "China Daily",
+        "link": "http://www.chinadaily.com.cn",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Independent",
+        "link": "http://www.independent.co.uk",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "El País",
+        "link": "http://elpais.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Marca",
+        "link": "http://www.marca.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Los Angeles Times",
+        "link": "http://www.latimes.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "New York Post",
+        "link": "http://nypost.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Malayala Manorama",
+        "link": "http://www.manoramaonline.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Financial Times",
+        "link": "http://www.ft.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Houston Chronicle",
+        "link": "http://www.chron.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "La Repubblica",
+        "link": "http://www.repubblica.it",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Philippine Daily Inquirer",
+        "link": "http://www.inquirer.net",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Sun",
+        "link": "http://www.thesun.co.uk",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Le Monde",
+        "link": "http://www.lemonde.fr",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Daily Mirror",
+        "link": "http://www.mirror.co.uk",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Nihon Keizai Shimbun",
+        "link": "http://www.nikkei.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Al Balad",
+        "link": "https://www.elbalad.news",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Daily Express",
+        "link": "http://www.express.co.uk",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "El Mundo",
+        "link": "http://www.elmundo.es",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "AS",
+        "link": "http://as.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Bild",
+        "link": "http://www.bild.de",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Asahi Shimbun",
+        "link": "http://www.asahi.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Le Figaro",
+        "link": "http://www.lefigaro.fr",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Komsomolskaya Pravda",
+        "link": "http://www.kp.ru",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Hill",
+        "link": "http://thehill.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Hürriyet",
+        "link": "http://www.hurriyet.com.tr",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Chicago Tribune",
+        "link": "http://www.chicagotribune.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "United Daily News",
+        "link": "http://udn.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Die Welt",
+        "link": "http://www.welt.de",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Infobae",
+        "link": "http://www.infobae.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Hollywood Reporter",
+        "link": "http://www.hollywoodreporter.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Corriere della Sera",
+        "link": "http://www.corriere.it",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Hindu",
+        "link": "http://www.thehindu.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Prothom Alo",
+        "link": "https://www.prothomalo.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Sydney Morning Herald",
+        "link": "http://www.smh.com.au",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Daily News",
+        "link": "http://www.nydailynews.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Indian Express",
+        "link": "http://indianexpress.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "ABC",
+        "link": "http://www.abc.es",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Inquirer Libre",
+        "link": "http://libre.inquirer.net",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Mathrubhumi",
+        "link": "http://www.mathrubhumi.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Metro",
+        "link": "http://metro.co.uk",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Globe and Mail",
+        "link": "http://www.theglobeandmail.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "South China Morning Post",
+        "link": "http://www.scmp.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Times",
+        "link": "http://www.thetimes.co.uk",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Chosun Ilbo",
+        "link": "http://www.chosun.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Hindustan Times",
+        "link": "http://www.hindustantimes.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Clarín",
+        "link": "http://www.clarin.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Dawn",
+        "link": "http://www.dawn.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Milliyet Gazetesi",
+        "link": "http://www.milliyet.com.tr",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Las Últimas Notícias",
+        "link": "http://www.lun.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Die Zeit",
+        "link": "http://www.zeit.de",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Dong-a Ilbo",
+        "link": "http://www.donga.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Toronto Star",
+        "link": "http://www.thestar.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Denver Post",
+        "link": "http://www.denverpost.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "La Nación",
+        "link": "http://www.lanacion.com.ar",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Examiner",
+        "link": "http://www.axs.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "High Point Enterprise",
+        "link": "http://www.hpe.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Süddeutsche Zeitung",
+        "link": "http://www.sueddeutsche.de",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Mladá fronta Dnes",
+        "link": "http://www.idnes.cz",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Christian Science Monitor",
+        "link": "http://www.csmonitor.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Boston Globe",
+        "link": "http://www.bostonglobe.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Japan Times",
+        "link": "http://www.japantimes.co.jp",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Rossiyskaya Gazeta",
+        "link": "http://rg.ru",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Evening Standard",
+        "link": "http://www.standard.co.uk",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Moskovskiy Komsomolets",
+        "link": "http://www.mk.ru",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Washington Times",
+        "link": "http://www.washingtontimes.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "San Jose Mercury News",
+        "link": "http://www.mercurynews.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Aksam Gazetesi",
+        "link": "http://www.aksam.com.tr",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Seattle Times",
+        "link": "http://www.seattletimes.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Economic Daily",
+        "link": "http://www.ce.cn",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Irish Times",
+        "link": "http://www.irishtimes.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "La Gazzetta dello Sport",
+        "link": "http://www.gazzetta.it",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Star Tribune",
+        "link": "http://www.startribune.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Le Parisien",
+        "link": "http://www.leparisien.fr",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "La Vanguardia",
+        "link": "http://www.lavanguardia.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "China Times",
+        "link": "http://www.chinatimes.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Dallas Morning News",
+        "link": "http://www.dallasnews.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Arizona Republic",
+        "link": "https://www.azcentral.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Age",
+        "link": "http://www.theage.com.au",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Frankfurter Allgemeine Zeitung",
+        "link": "http://www.faz.net",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Yomiuri Shimbun",
+        "link": "http://www.yomiuri.co.jp",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "A Bola",
+        "link": "http://www.abola.pt",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Sözcü",
+        "link": "http://www.sozcu.com.tr",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "20 Minutos",
+        "link": "http://www.20minutos.es",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Jerusalem Post",
+        "link": "http://www.jpost.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Izvestia",
+        "link": "https://iz.ru",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Apple Daily",
+        "link": "https://appledaily.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Oregonian",
+        "link": "http://www.oregonlive.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Miami Herald",
+        "link": "http://www.miamiherald.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Business Standard",
+        "link": "http://www.business-standard.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Daily Nation",
+        "link": "http://www.nation.co.ke",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Baltimore Sun",
+        "link": "http://www.baltimoresun.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Argumenti i Fakti",
+        "link": "https://aif.ru",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Mint",
+        "link": "http://www.livemint.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Sabah",
+        "link": "http://www.sabah.com.tr",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Straits Times",
+        "link": "http://www.straitstimes.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "L'Equipe",
+        "link": "http://www.lequipe.fr",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Atlanta Journal-Constitution",
+        "link": "http://www.ajc.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Mainichi Shimbun",
+        "link": "https://mainichi.jp",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Libération",
+        "link": "http://www.liberation.fr",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Yeni Safak",
+        "link": "http://www.yenisafak.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "El Comercio",
+        "link": "http://www.elcomercio.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Irish Independent",
+        "link": "http://www.independent.ie",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Andhra Jyothi",
+        "link": "http://www.andhrajyothy.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Australian",
+        "link": "http://www.theaustralian.com.au",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The New Zealand Herald",
+        "link": "http://www.nzherald.co.nz",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Detroit Free Press",
+        "link": "http://www.freep.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Aftonbladet",
+        "link": "http://www.aftonbladet.se",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Onion",
+        "link": "http://www.theonion.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "El Mundo Deportivo",
+        "link": "http://www.mundodeportivo.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Gazeta Wyborcza",
+        "link": "http://www.gazeta.pl",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Newsday",
+        "link": "http://www.newsday.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Standard",
+        "link": "http://www.standardmedia.co.ke",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "La Stampa",
+        "link": "http://www.lastampa.it",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Punch",
+        "link": "http://punchng.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "National Post",
+        "link": "https://nationalpost.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Plain Dealer",
+        "link": "http://www.cleveland.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Kommersant",
+        "link": "http://www.kommersant.ru",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Pittsburgh Post-Gazette",
+        "link": "http://www.post-gazette.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Al Wafd",
+        "link": "https://alwafd.news",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Le Nouvel Observateur",
+        "link": "https://www.nouvelobs.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Yedioth Aharonot",
+        "link": "http://www.ynet.co.il",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Koran Tempo",
+        "link": "http://koran.tempo.co",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "El Universal",
+        "link": "http://www.eluniversal.com.mx",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "O Estado de São Paulo",
+        "link": "http://www.estadao.com.br",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Daily Star",
+        "link": "http://www.dailystar.co.uk",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Verdens Gang",
+        "link": "http://www.vg.no",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Sacramento Bee",
+        "link": "http://www.sacbee.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "20 Minutes",
+        "link": "http://www.20minutes.fr",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Der Standard",
+        "link": "http://derstandard.at",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Gulf News",
+        "link": "http://gulfnews.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Der Tagesspiegel",
+        "link": "http://www.tagesspiegel.de",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Philadelphia Inquirer",
+        "link": "https://www.inquirer.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Star Online",
+        "link": "http://www.thestar.com.my",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Sakshi",
+        "link": "https://www.sakshi.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "El Comercio",
+        "link": "http://elcomercio.pe",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The News",
+        "link": "http://www.thenews.com.pk",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Scotsman",
+        "link": "http://www.scotsman.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "El Tiempo",
+        "link": "http://www.eltiempo.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Il Sole 24 Ore",
+        "link": "http://www.ilsole24ore.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The National",
+        "link": "http://www.thenational.ae",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Independent Online",
+        "link": "http://www.iol.co.za",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "South Florida Sun-Sentinel",
+        "link": "http://www.sun-sentinel.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Vanguard",
+        "link": "http://www.vanguardngr.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Sport",
+        "link": "http://www.sport.es",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Handelsblatt",
+        "link": "http://www.handelsblatt.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Prensa Libre",
+        "link": "http://www.prensalibre.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Orlando Sentinel",
+        "link": "http://www.orlandosentinel.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Milwaukee Journal Sentinel",
+        "link": "http://www.jsonline.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "St. Louis Post-Dispatch",
+        "link": "http://www.stltoday.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Orange County Register",
+        "link": "http://www.ocregister.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Tampa Bay Times",
+        "link": "http://www.tampabay.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Les Échos",
+        "link": "http://www.lesechos.fr",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "San Francisco Chronicle",
+        "link": "http://www.sfchronicle.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Nikkan Sports",
+        "link": "http://www.nikkansports.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Ouest France",
+        "link": "http://www.ouest-france.fr",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Eenadu",
+        "link": "http://www.eenadu.net",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Sol",
+        "link": "http://sol.sapo.pt",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Boston Herald",
+        "link": "http://www.bostonherald.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Herald Sun",
+        "link": "http://www.heraldsun.com.au",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Vedomosti",
+        "link": "http://www.vedomosti.ru",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Dainik Bhaskar",
+        "link": "http://www.bhaskar.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Detroit News",
+        "link": "http://www.detroitnews.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Jornal Económico",
+        "link": "https://jornaleconomico.sapo.pt",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Investor's Business Daily",
+        "link": "http://www.investors.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Sport Express",
+        "link": "http://www.sport-express.ru",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Dnevni avaz",
+        "link": "https://avaz.ba",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "El Economista",
+        "link": "http://www.eleconomista.es",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Advocate",
+        "link": "http://www.theadvocate.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Manchester Evening News",
+        "link": "http://www.manchestereveningnews.co.uk",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Expressen",
+        "link": "http://www.expressen.se",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Jakarta Post",
+        "link": "http://www.thejakartapost.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Salt Lake Tribune",
+        "link": "http://www.sltrib.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "El Periodico de Catalunya",
+        "link": "http://www.elperiodico.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Kansas City Star",
+        "link": "http://www.kansascity.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Diário Libre",
+        "link": "http://www.diariolibre.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Financial Express",
+        "link": "http://www.financialexpress.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Daily Telegraph",
+        "link": "http://www.dailytelegraph.com.au",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Yang Cheng Wan Bao",
+        "link": "http://www.ycwb.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Expansión",
+        "link": "http://www.expansion.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Las Vegas Review-Journal",
+        "link": "http://www.reviewjournal.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Pravda.ru",
+        "link": "http://www.pravda.ru",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "20 Minuten",
+        "link": "http://www.20min.ch",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Australian Financial Review",
+        "link": "http://www.afr.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Seattle Post-Intelligencer",
+        "link": "http://www.seattlepi.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Dagbladet",
+        "link": "http://www.dagbladet.no",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The New York Observer",
+        "link": "http://observer.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Neue Zürcher Zeitung",
+        "link": "http://www.nzz.ch",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "El Universo",
+        "link": "http://www.eluniverso.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Vancouver Sun",
+        "link": "http://vancouversun.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Khaleej Times",
+        "link": "http://www.khaleejtimes.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "Korea Economic Daily",
+        "link": "http://www.hankyung.com",
+        "region": "THE WORLD"
+    },
+    {
+        "newspaper": "The Daily Nation",
+        "link": "http://www.nation.co.ke",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The Daily Nation",
+        "link": "http://www.nation.co.ke",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The Standard",
+        "link": "http://www.standardmedia.co.ke",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The Punch",
+        "link": "http://punchng.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Al Wafd",
+        "link": "https://alwafd.news",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Independent Online",
+        "link": "http://www.iol.co.za",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Vanguard",
+        "link": "http://www.vanguardngr.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The Times",
+        "link": "http://www.timeslive.co.za",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Mail & Guardian Online",
+        "link": "http://mg.co.za",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The Nation",
+        "link": "http://thenationonlineng.net",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The Guardian",
+        "link": "http://guardian.ng",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Ennahar El Djadid",
+        "link": "http://www.ennaharonline.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Al-Ahram",
+        "link": "http://english.ahram.org.eg",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Akhbar El Yom",
+        "link": "http://akhbarelyom.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "El Khabar",
+        "link": "http://www.elkhabar.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "El Bilad",
+        "link": "http://www.elbilad.net",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The Monitor",
+        "link": "http://www.monitor.co.ug",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "This Day",
+        "link": "http://www.thisdaylive.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The New Vision",
+        "link": "http://www.newvision.co.ug",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "L'Avenir",
+        "link": "http://www.lavenir.net",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "L'Express",
+        "link": "http://www.lexpress.mu",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Citizen",
+        "link": "http://citizen.co.za",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "El Watan",
+        "link": "http://www.elwatan.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "New Times",
+        "link": "http://www.newtimes.co.rw",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Ech-Chorouk El-Youmi",
+        "link": "http://www.echoroukonline.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The EastAfrican",
+        "link": "http://www.theeastafrican.co.ke",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Sowetan",
+        "link": "http://www.sowetanlive.co.za",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The Sun",
+        "link": "https://www.sunnewsonline.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The Herald",
+        "link": "http://www.herald.co.zw",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Daily Trust",
+        "link": "http://www.dailytrust.com.ng",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Le Matin du Sahara et du Maghreb",
+        "link": "http://lematin.ma",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Al-Masry Al-Youm",
+        "link": "http://today.almasryalyoum.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "L'Economiste",
+        "link": "http://www.leconomiste.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "New Zimbabwe",
+        "link": "http://www.newzimbabwe.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Leadership",
+        "link": "http://leadership.ng",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The Daily News Egypt",
+        "link": "http://www.dailynewsegypt.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Liberté",
+        "link": "http://www.liberte-algerie.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The Namibian",
+        "link": "http://www.namibian.com.na",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Le Journal de l'Ile",
+        "link": "http://www.clicanoo.re",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The Weekly Observer",
+        "link": "http://www.observer.ug",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Mmegi",
+        "link": "http://www.mmegi.bw",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Daily Observer",
+        "link": "http://www.liberianobserver.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Aujourd'hui Le Maroc",
+        "link": "http://aujourdhui.ma",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Al Chourouk",
+        "link": "http://www.alchourouk.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "New Era",
+        "link": "https://neweralive.na",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Nigerian Tribune",
+        "link": "http://tribuneonlineng.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "La Nouvelle Tribune",
+        "link": "https://lanouvelletribune.info",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The Standard",
+        "link": "http://www.thestandard.co.zw",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "La Vie éco",
+        "link": "https://www.lavieeco.com",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "The Zimbabwe Independent",
+        "link": "http://www.theindependent.co.zw",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Daily News",
+        "link": "http://www.dailynews.co.tz",
+        "region": "Africa"
+    },
+    {
+        "newspaper": "Kompas",
+        "link": "http://www.kompas.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Kompas",
+        "link": "http://www.kompas.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Liberty Times",
+        "link": "http://www.ltn.com.tw",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "China Daily",
+        "link": "http://www.chinadaily.com.cn",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Malayala Manorama",
+        "link": "http://www.manoramaonline.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Philippine Daily Inquirer",
+        "link": "http://www.inquirer.net",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Nihon Keizai Shimbun",
+        "link": "http://www.nikkei.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Al Balad",
+        "link": "https://www.elbalad.news",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Asahi Shimbun",
+        "link": "http://www.asahi.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Hürriyet",
+        "link": "http://www.hurriyet.com.tr",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "United Daily News",
+        "link": "http://udn.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Hindu",
+        "link": "http://www.thehindu.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Prothom Alo",
+        "link": "https://www.prothomalo.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Indian Express",
+        "link": "http://indianexpress.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Inquirer Libre",
+        "link": "http://libre.inquirer.net",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Mathrubhumi",
+        "link": "http://www.mathrubhumi.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "South China Morning Post",
+        "link": "http://www.scmp.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Chosun Ilbo",
+        "link": "http://www.chosun.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Hindustan Times",
+        "link": "http://www.hindustantimes.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Dawn",
+        "link": "http://www.dawn.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Milliyet Gazetesi",
+        "link": "http://www.milliyet.com.tr",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Dong-a Ilbo",
+        "link": "http://www.donga.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Japan Times",
+        "link": "http://www.japantimes.co.jp",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Aksam Gazetesi",
+        "link": "http://www.aksam.com.tr",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Economic Daily",
+        "link": "http://www.ce.cn",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "China Times",
+        "link": "http://www.chinatimes.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Yomiuri Shimbun",
+        "link": "http://www.yomiuri.co.jp",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Sözcü",
+        "link": "http://www.sozcu.com.tr",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Jerusalem Post",
+        "link": "http://www.jpost.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Apple Daily",
+        "link": "https://appledaily.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Business Standard",
+        "link": "http://www.business-standard.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Mint",
+        "link": "http://www.livemint.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Sabah",
+        "link": "http://www.sabah.com.tr",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Straits Times",
+        "link": "http://www.straitstimes.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Mainichi Shimbun",
+        "link": "https://mainichi.jp",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Yeni Safak",
+        "link": "http://www.yenisafak.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Andhra Jyothi",
+        "link": "http://www.andhrajyothy.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Yedioth Aharonot",
+        "link": "http://www.ynet.co.il",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Koran Tempo",
+        "link": "http://koran.tempo.co",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Gulf News",
+        "link": "http://gulfnews.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Star Online",
+        "link": "http://www.thestar.com.my",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Sakshi",
+        "link": "https://www.sakshi.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The News",
+        "link": "http://www.thenews.com.pk",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The National",
+        "link": "http://www.thenational.ae",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Nikkan Sports",
+        "link": "http://www.nikkansports.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Eenadu",
+        "link": "http://www.eenadu.net",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Dainik Bhaskar",
+        "link": "http://www.bhaskar.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Jakarta Post",
+        "link": "http://www.thejakartapost.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Financial Express",
+        "link": "http://www.financialexpress.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Yang Cheng Wan Bao",
+        "link": "http://www.ycwb.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Khaleej Times",
+        "link": "http://www.khaleejtimes.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Korea Economic Daily",
+        "link": "http://www.hankyung.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Hindu Business Line",
+        "link": "http://www.thehindubusinessline.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "DNA - Daily News & Analysis",
+        "link": "http://www.dnaindia.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Dainik Jagran",
+        "link": "http://www.jagran.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Maeil Economic Daily",
+        "link": "http://www.mk.co.kr",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Republika",
+        "link": "http://www.republika.co.id",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Hankyoreh",
+        "link": "http://www.hani.co.kr",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Arab News",
+        "link": "http://www.arabnews.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Korea Times",
+        "link": "http://www.koreatimes.co.kr",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Donya-e-Eqtesad",
+        "link": "http://donya-e-eqtesad.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Daily Star",
+        "link": "http://www.thedailystar.net",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Philippine Star",
+        "link": "http://www.philstar.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The People's Daily",
+        "link": "http://www.people.com.cn",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Jie Fang Daily",
+        "link": "http://www.jfdaily.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Korea Herald",
+        "link": "http://www.koreaherald.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Qingdao News",
+        "link": "http://www.qingdaonews.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Amar Ujala",
+        "link": "http://www.amarujala.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Beijing Daily",
+        "link": "http://www.bjd.com.cn",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Deccan Chronicle",
+        "link": "http://www.deccanchronicle.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Hebei Daily",
+        "link": "http://www.hebnews.cn",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The New Indian Express",
+        "link": "http://www.newindianexpress.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Sports Nippon",
+        "link": "http://www.sponichi.co.jp",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Khabar e Jonoob",
+        "link": "http://www.khabaronline.ir",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Manila Bulletin",
+        "link": "http://mb.com.ph",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Money Today",
+        "link": "http://www.mt.co.kr",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Wen Wei Po",
+        "link": "http://www.wenweipo.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Cumhuriyet",
+        "link": "http://www.cumhuriyet.com.tr",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Yangtse Evening Post",
+        "link": "http://www.yangtse.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Hans India",
+        "link": "http://www.thehansindia.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Kyunghyang Shinmun",
+        "link": "http://www.khan.co.kr",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Globes",
+        "link": "http://www.globes.co.il",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Jingji Guancha Bao",
+        "link": "http://www.eeo.com.cn",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Taipei Times",
+        "link": "http://www.taipeitimes.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Deccan Herald",
+        "link": "http://www.deccanherald.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "New Straits Times",
+        "link": "http://www.nst.com.my",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Star",
+        "link": "http://www.star.com.tr",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Tribune",
+        "link": "http://www.tribuneindia.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Telegraph",
+        "link": "http://www.telegraphindia.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Asharq Al-Awsat",
+        "link": "http://aawsat.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Tuoi Tre",
+        "link": "http://tuoitre.vn",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Sankei Sports",
+        "link": "http://www.sanspo.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Liaoning Daily",
+        "link": "http://www.lnd.com.cn",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Shanghai Daily",
+        "link": "https://www.shine.cn",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Fanatik",
+        "link": "http://www.fanatik.com.tr",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Ming Pao",
+        "link": "http://www.mingpao.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Thai Rath",
+        "link": "http://www.thairath.co.th",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Panorama",
+        "link": "http://www.panet.co.il",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "The Daily Star",
+        "link": "http://www.dailystar.com.lb",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Chongqing Chen Bao",
+        "link": "http://www.cqcb.com",
+        "region": "Asia"
+    },
+    {
+        "newspaper": "Fotomaç",
+        "link": "http://www.fotomac.com.tr",
+        "region": "Asia"
+    }
+]

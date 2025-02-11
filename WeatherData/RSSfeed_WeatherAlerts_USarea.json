@@ -1,0 +1,7 @@
+[
+    {
+        "country": "USA_region",
+        "rss_feed": "https://api.weather.gov/alerts/active.atom"
+    }
+]
+
