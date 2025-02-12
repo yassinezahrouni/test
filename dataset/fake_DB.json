@@ -1,0 +1,1399 @@
+{
+    "RouteLocation": [
+      {
+        "location_id": 1,
+        "city": "Shanghai",
+        "state": "Shanghai",
+        "country": "China",
+        "region": "East Asia"
+      },
+      {
+        "location_id": 2,
+        "city": "Port Said",
+        "state": "Sinai",
+        "country": "Egypt",
+        "region": "Middle East"
+      },
+      {
+        "location_id": 3,
+        "city": "Marseille",
+        "state": "Provence-Alpes-Côte d'Azur",
+        "country": "France",
+        "region": "Mediterranean"
+      },
+      {
+        "location_id": 4,
+        "city": "Munich",
+        "state": "Bavaria",
+        "country": "Germany",
+        "region": "Central Europe"
+      }
+    ],
+    "LogisticsRoute": [
+      {
+        "route_id": 101,
+        "origin_location_id": 1,
+        "destination_location_id": 4,
+        "estimated_distance": 11000,
+        "estimated_time": "480:00:00" 
+      }
+    ],
+    "ShipmentMilestone": [
+      {
+        "milestone_id": 1001,
+        "shipment_id": 5001,
+        "milestone_name": "Departed Shanghai Port",
+        "milestone_date": "2024-10-01T06:00:00Z"
+      },
+      {
+        "milestone_id": 1002,
+        "shipment_id": 5001,
+        "milestone_name": "Entered Suez Canal at Port Said",
+        "milestone_date": "2024-10-10T12:00:00Z"
+      },
+      {
+        "milestone_id": 1003,
+        "shipment_id": 5001,
+        "milestone_name": "Arrived at Port of Marseille",
+        "milestone_date": "2024-10-20T09:00:00Z"
+      },
+      {
+        "milestone_id": 1004,
+        "shipment_id": 5001,
+        "milestone_name": "Departed Marseille",
+        "milestone_date": "2024-10-21T08:00:00Z"
+      },
+      {
+        "milestone_id": 1005,
+        "shipment_id": 5001,
+        "milestone_name": "Arrived at Munich Warehouse",
+        "milestone_date": "2024-10-25T14:00:00Z"
+      }
+    ],
+    "Location_ShipToAddress": [
+      {
+        "address_id": 2001,
+        "shipment_id": 5001,
+        "location_id": 4,
+        "address_line1": "Werner-Heisenberg-Allee 25",
+        "address_line2": "",
+        "postal_code": "80939",
+        "country": "Germany"
+      },
+      {
+        "address_id": 2002,
+        "shipment_id": 5002,
+        "location_id": 3,
+        "address_line1": "1 Quai de la Fonderie",
+        "address_line2": "2nd Floor",
+        "postal_code": "13002",
+        "country": "France"
+      }
+    ],
+    "ShipmentTSLNumber": [
+      {
+        "tsl_number_id": 3001,
+        "shipment_id": 5001,
+        "tsl_number": "TSL-DHL-20241001"
+      }
+    ],
+    "Location": [
+      {
+        "location_id": 1,
+        "name": "Shanghai Port",
+        "latitude": 31.2304,
+        "longitude": 121.4737,
+        "type": "port"
+      },
+      {
+        "location_id": 2,
+        "name": "Port Said Terminal",
+        "latitude": 31.2563,
+        "longitude": 32.3019,
+        "type": "port"
+      },
+      {
+        "location_id": 3,
+        "name": "Port of Marseille",
+        "latitude": 43.2965,
+        "longitude": 5.3698,
+        "type": "port"
+      },
+      {
+        "location_id": 4,
+        "name": "Munich Logistics Center",
+        "latitude": 48.1351,
+        "longitude": 11.5820,
+        "type": "warehouse"
+      }
+    ],
+    "ShipmentStop": [
+      {
+        "stop_id": 4001,
+        "shipment_id": 5001,
+        "location_id": 2,
+        "arrival_time": "2024-10-10T12:00:00Z",
+        "departure_time": "2024-10-10T14:00:00Z"
+      },
+      {
+        "stop_id": 4002,
+        "shipment_id": 5001,
+        "location_id": 3,
+        "arrival_time": "2024-10-20T09:00:00Z",
+        "departure_time": "2024-10-20T11:00:00Z"
+      },
+      {
+        "stop_id": 4003,
+        "shipment_id": 5001,
+        "location_id": 4,
+        "arrival_time": "2024-10-25T14:00:00Z",
+        "departure_time": null
+      }
+    ],
+    "Route_Master": [
+      {
+        "route_master_id": 500,
+        "route_code": "RT-SH-PS",
+        "description": "Ocean voyage from Shanghai Port to Port Said via South China Sea, Indian Ocean and through the Suez Canal",
+        "active_status": true
+      },
+      {
+        "route_master_id": 501,
+        "route_code": "RT-PS-MA",
+        "description": "Transit through Mediterranean Sea from Port Said to Port of Marseille",
+        "active_status": true
+      },
+      {
+        "route_master_id": 502,
+        "route_code": "RT-MA-MU",
+        "description": "Overland transport via Highway A1 from Port of Marseille to Munich Logistics Center",
+        "active_status": true
+      }
+    ],
+    "Route": [
+      {
+        "route_id": 101,
+        "route_master_id": 500,
+        "sequence_number": 1,
+        "location_id": 1
+      },
+      {
+        "route_id": 101,
+        "route_master_id": 500,
+        "sequence_number": 2,
+        "location_id": 2
+      },
+      {
+        "route_id": 102,
+        "route_master_id": 501,
+        "sequence_number": 1,
+        "location_id": 2
+      },
+      {
+        "route_id": 102,
+        "route_master_id": 501,
+        "sequence_number": 2,
+        "location_id": 3
+      },
+      {
+        "route_id": 103,
+        "route_master_id": 502,
+        "sequence_number": 1,
+        "location_id": 3
+      },
+      {
+        "route_id": 103,
+        "route_master_id": 502,
+        "sequence_number": 2,
+        "location_id": 4
+      }
+    ],
+    "Itinerary": [
+      {
+        "itinerary_id": 6001,
+        "shipment_id": 5001,
+        "route_id": 101,
+        "scheduled_start_time": "2024-10-01T05:00:00Z",
+        "scheduled_end_time": "2024-10-10T16:00:00Z"
+      },
+      {
+        "itinerary_id": 6002,
+        "shipment_id": 5001,
+        "route_id": 102,
+        "scheduled_start_time": "2024-10-10T15:00:00Z",
+        "scheduled_end_time": "2024-10-20T08:00:00Z"
+      },
+      {
+        "itinerary_id": 6003,
+        "shipment_id": 5001,
+        "route_id": 103,
+        "scheduled_start_time": "2024-10-20T12:00:00Z",
+        "scheduled_end_time": "2024-10-25T16:00:00Z"
+      }
+    ],
+    "ItineraryShipment": [
+      {
+        "itinerary_shipment_id": 7001,
+        "itinerary_id": 6001,
+        "shipment_id": 5001
+      },
+      {
+        "itinerary_shipment_id": 7002,
+        "itinerary_id": 6002,
+        "shipment_id": 5001
+      },
+      {
+        "itinerary_shipment_id": 7003,
+        "itinerary_id": 6003,
+        "shipment_id": 5001
+      }
+    ],
+    "Shipment": [
+      {
+        "shipment_id": 5001,
+        "shipment_number": "SHIP-20241001",
+        "origin_location_id": 1,
+        "destination_location_id": 4,
+        "departure_date": "2024-10-01T06:00:00Z",
+        "arrival_date": "2024-10-25T14:00:00Z",
+        "status": "in transit"
+      },
+      {
+        "shipment_id": 5002,
+        "shipment_number": "SHIP-20241115",
+        "origin_location_id": 1,
+        "destination_location_id": 4,
+        "departure_date": "2024-11-15T07:00:00Z",
+        "arrival_date": "2024-11-30T18:00:00Z",
+        "status": "delivered"
+      }
+    ],
+    "RecordShipment": [
+      {
+        "record_shipment_id": 8001,
+        "shipment_id": 5001,
+        "shipment_type": "ocean-road",
+        "record_details": "Combined ocean and overland shipment via Suez Canal and Highway A1."
+      }
+    ],
+    "ShipmentAlert": [
+      {
+        "alert_id": 9001,
+        "shipment_id": 5001,
+        "alert_type": "delay",
+        "alert_message": "Weather delays encountered near Port Said.",
+        "alert_date": "2024-10-09T11:00:00Z"
+      },
+      {
+        "alert_id": 9002,
+        "shipment_id": 5001,
+        "alert_type": "damage",
+        "alert_message": "Minor container damage detected at Port of Marseille.",
+        "alert_date": "2024-10-20T10:00:00Z"
+      }
+    ],
+    "ShipmentDocument": [
+      {
+        "document_id": 10001,
+        "shipment_id": 5001,
+        "document_type": "Bill of Lading",
+        "document_path": "https://docs.example.com/bill_lading_ship20241001.pdf",
+        "upload_date": "2024-10-01T07:00:00Z"
+      },
+      {
+        "document_id": 10002,
+        "shipment_id": 5001,
+        "document_type": "Invoice",
+        "document_path": "https://docs.example.com/invoice_ship20241001.pdf",
+        "upload_date": "2024-10-01T08:00:00Z"
+      }
+    ],
+    "ShipmentPlanning": [
+      {
+        "planning_id": 11001,
+        "shipment_id": 5001,
+        "planned_route_id": 101,
+        "planner_notes": "Ocean voyage from Shanghai to Port Said confirmed; monitor weather near Suez.",
+        "planning_date": "2024-09-28T14:00:00Z"
+      },
+      {
+        "planning_id": 11002,
+        "shipment_id": 5001,
+        "planned_route_id": 103,
+        "planner_notes": "Road segment from Marseille to Munich via Highway A1 planned. Check traffic conditions in Germany.",
+        "planning_date": "2024-10-19T10:00:00Z"
+      }
+    ],
+    "ShipmentContainer": [
+      {
+        "container_id": 12001,
+        "shipment_id": 5001,
+        "container_number": "CONT-20241001-A",
+        "container_type": "40ft",
+        "seal_number": "SEAL-2024A1"
+      },
+      {
+        "container_id": 12002,
+        "shipment_id": 5002,
+        "container_number": "CONT-20241115-B",
+        "container_type": "20ft",
+        "seal_number": "SEAL-2024B2"
+      }
+    ],
+    "LocationHoliday": [
+      {
+        "holiday_id": 13001,
+        "location_id": 1,
+        "holiday_date": "2024-10-01",
+        "description": "Port holiday in Shanghai"
+      },
+      {
+        "holiday_id": 13002,
+        "location_id": 4,
+        "holiday_date": "2024-12-25",
+        "description": "Christmas at Munich Logistics Center"
+      }
+    ],
+    "ShipmentSailingScheduleStop": [
+      {
+        "sailing_schedule_stop_id": 14001,
+        "shipment_id": 5001,
+        "port_location_id": 2,
+        "arrival_date": "2024-10-10T12:00:00Z",
+        "departure_date": "2024-10-10T14:00:00Z"
+      },
+      {
+        "sailing_schedule_stop_id": 14002,
+        "shipment_id": 5001,
+        "port_location_id": 3,
+        "arrival_date": "2024-10-20T09:00:00Z",
+        "departure_date": "2024-10-20T11:00:00Z"
+      }
+    ],
+    "Suppliers": [
+      {
+        "supplier_id": 1,
+        "name": "DHL Global Forwarding",
+        "contact_name": "Sandra Miller",
+        "contact_title": "Regional Manager",
+        "phone": "+49 30 1234567",
+        "email": "sandra.miller@dhl.com",
+        "website": "https://www.dhl.com",
+        "status": "Active",
+        "rating": 4.8,
+        "notes": "Excellent for international ocean and road shipments."
+      },
+      {
+        "supplier_id": 2,
+        "name": "Kuehne + Nagel",
+        "contact_name": "Markus Hoffmann",
+        "contact_title": "Logistics Director",
+        "phone": "+41 44 9876543",
+        "email": "markus.hoffmann@kuehne-nagel.com",
+        "website": "https://www.kuehne-nagel.com",
+        "status": "Active",
+        "rating": 4.6,
+        "notes": "Reliable and cost-effective service."
+      },
+      {
+        "supplier_id": 3,
+        "name": "DB Schenker",
+        "contact_name": "Claudia Weber",
+        "contact_title": "Supply Chain Manager",
+        "phone": "+49 69 7654321",
+        "email": "claudia.weber@dbschenker.com",
+        "website": "https://www.dbschenker.com",
+        "status": "Active",
+        "rating": 4.7,
+        "notes": "Strong network across Europe and globally."
+      }
+    ],
+    "Supplier_Address": [
+      {
+        "address_id": 2101,
+        "supplier_id": 1,
+        "address_line1": "1000 International Way",
+        "address_line2": "Suite 150",
+        "city": "Frankfurt",
+        "state": "Hesse",
+        "postal_code": "60313",
+        "country": "Germany"
+      },
+      {
+        "address_id": 2102,
+        "supplier_id": 2,
+        "address_line1": "200 Logistics Park",
+        "address_line2": "",
+        "city": "Zurich",
+        "state": "Zurich",
+        "postal_code": "8005",
+        "country": "Switzerland"
+      },
+      {
+        "address_id": 2103,
+        "supplier_id": 3,
+        "address_line1": "300 Enterprise Blvd",
+        "address_line2": "Building 3",
+        "city": "Cologne",
+        "state": "North Rhine-Westphalia",
+        "postal_code": "50667",
+        "country": "Germany"
+      }
+    ],
+    "Supplier_Contacts": [
+      {
+        "contact_id": 2201,
+        "supplier_id": 1,
+        "name": "David Kim",
+        "title": "Customer Service Lead",
+        "phone": "+49 30 1234568",
+        "email": "david.kim@dhl.com"
+      },
+      {
+        "contact_id": 2202,
+        "supplier_id": 2,
+        "name": "Elena Rossi",
+        "title": "Operations Coordinator",
+        "phone": "+41 44 9876544",
+        "email": "elena.rossi@kuehne-nagel.com"
+      },
+      {
+        "contact_id": 2203,
+        "supplier_id": 3,
+        "name": "Thomas Müller",
+        "title": "Quality Assurance Lead",
+        "phone": "+49 69 7654322",
+        "email": "thomas.mueller@dbschenker.com"
+      }
+    ],
+    "Supplier_Certifications": [
+      {
+        "certification_id": 2301,
+        "supplier_id": 1,
+        "certification_name": "ISO 9001",
+        "certification_body": "ISO",
+        "issue_date": "2021-03-01",
+        "expiry_date": "2024-03-01"
+      },
+      {
+        "certification_id": 2302,
+        "supplier_id": 3,
+        "certification_name": "ISO 14001",
+        "certification_body": "ISO",
+        "issue_date": "2020-07-15",
+        "expiry_date": "2023-07-15"
+      }
+    ],
+    "Supplier_Performance": [
+      {
+        "performance_id": 2401,
+        "supplier_id": 1,
+        "evaluation_date": "2024-09-15",
+        "score": 4.8,
+        "comments": "On schedule and very reliable."
+      },
+      {
+        "performance_id": 2402,
+        "supplier_id": 2,
+        "evaluation_date": "2024-09-20",
+        "score": 4.6,
+        "comments": "Good service with minor delays."
+      }
+    ],
+    "Part_Categories": [
+      {
+        "category_id": 1,
+        "category_name": "Electrical",
+        "description": "Components for electrical circuits and devices."
+      },
+      {
+        "category_id": 2,
+        "category_name": "Mechanical",
+        "description": "Mechanical parts and assemblies."
+      },
+      {
+        "category_id": 3,
+        "category_name": "Hydraulic",
+        "description": "Components for hydraulic systems."
+      },
+      {
+        "category_id": 4,
+        "category_name": "Pneumatic",
+        "description": "Parts for pneumatic systems."
+      },
+      {
+        "category_id": 5,
+        "category_name": "Packaging",
+        "description": "Materials and supplies for packaging."
+      }
+    ],
+    "Parts": [
+      {
+        "part_id": 1,
+        "name": "Resistor 220Ω",
+        "part_number": "ELEC-220R-001",
+        "description": "Carbon film resistor, 220Ω, 1/4 watt",
+        "category_id": 1,
+        "unit_price": 0.10,
+        "currency": "USD",
+        "weight": 0.005,
+        "dimensions": "1x0.5x0.3 cm",
+        "color": "Blue",
+        "material": "Ceramic",
+        "status": "Active",
+        "notes": "Used on circuit boards."
+      },
+      {
+        "part_id": 2,
+        "name": "Capacitor 10µF",
+        "part_number": "ELEC-10UF-002",
+        "description": "Electrolytic capacitor, 10µF, 25V",
+        "category_id": 1,
+        "unit_price": 0.15,
+        "currency": "USD",
+        "weight": 0.007,
+        "dimensions": "1.2x0.8x0.5 cm",
+        "color": "Black",
+        "material": "Plastic",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 3,
+        "name": "Microcontroller ATmega328",
+        "part_number": "ELEC-MCU-003",
+        "description": "8-bit microcontroller used in Arduino boards",
+        "category_id": 1,
+        "unit_price": 2.50,
+        "currency": "USD",
+        "weight": 0.02,
+        "dimensions": "3x3x0.8 cm",
+        "color": "Green",
+        "material": "Silicon",
+        "status": "Active",
+        "notes": "Ideal for prototyping."
+      },
+      {
+        "part_id": 4,
+        "name": "Servo Motor",
+        "part_number": "MECH-SERVO-004",
+        "description": "Standard servo motor for robotics",
+        "category_id": 2,
+        "unit_price": 8.00,
+        "currency": "USD",
+        "weight": 0.15,
+        "dimensions": "5x4x3 cm",
+        "color": "Gray",
+        "material": "Metal/Plastic",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 5,
+        "name": "Gear Assembly",
+        "part_number": "MECH-GEAR-005",
+        "description": "Assembly of precision gears for transmissions",
+        "category_id": 2,
+        "unit_price": 5.00,
+        "currency": "USD",
+        "weight": 0.1,
+        "dimensions": "4x4x1 cm",
+        "color": "Silver",
+        "material": "Steel",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 6,
+        "name": "Hydraulic Pump",
+        "part_number": "HYDRO-PUMP-006",
+        "description": "Small hydraulic pump for fluid transfer",
+        "category_id": 3,
+        "unit_price": 50.00,
+        "currency": "USD",
+        "weight": 2.0,
+        "dimensions": "15x10x8 cm",
+        "color": "Red",
+        "material": "Metal",
+        "status": "Active",
+        "notes": "For heavy equipment."
+      },
+      {
+        "part_id": 7,
+        "name": "Pneumatic Cylinder",
+        "part_number": "PNEUM-CYL-007",
+        "description": "Double-acting pneumatic cylinder",
+        "category_id": 4,
+        "unit_price": 25.00,
+        "currency": "USD",
+        "weight": 1.5,
+        "dimensions": "20x5x5 cm",
+        "color": "Black",
+        "material": "Aluminum",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 8,
+        "name": "Medium Cardboard Box",
+        "part_number": "PACK-BOX-M-008",
+        "description": "Standard medium-sized cardboard shipping box",
+        "category_id": 5,
+        "unit_price": 0.50,
+        "currency": "USD",
+        "weight": 0.3,
+        "dimensions": "30x20x20 cm",
+        "color": "Brown",
+        "material": "Cardboard",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 9,
+        "name": "LED Light Strip",
+        "part_number": "ELEC-LED-009",
+        "description": "Flexible LED light strip, 5m length",
+        "category_id": 1,
+        "unit_price": 10.00,
+        "currency": "USD",
+        "weight": 0.5,
+        "dimensions": "5m x 0.05m",
+        "color": "Multicolor",
+        "material": "Plastic",
+        "status": "Active",
+        "notes": "Energy efficient."
+      },
+      {
+        "part_id": 10,
+        "name": "Solenoid Valve",
+        "part_number": "MECH-SOL-010",
+        "description": "Electrically controlled solenoid valve",
+        "category_id": 2,
+        "unit_price": 12.00,
+        "currency": "USD",
+        "weight": 0.3,
+        "dimensions": "4x4x4 cm",
+        "color": "Black",
+        "material": "Brass",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 11,
+        "name": "Temperature Sensor",
+        "part_number": "ELEC-TS-011",
+        "description": "Digital temperature sensor with high accuracy",
+        "category_id": 1,
+        "unit_price": 1.20,
+        "currency": "USD",
+        "weight": 0.01,
+        "dimensions": "1.5x1.5x0.5 cm",
+        "color": "White",
+        "material": "Plastic",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 12,
+        "name": "Stepper Motor",
+        "part_number": "MECH-STEP-012",
+        "description": "High-torque stepper motor for precision control",
+        "category_id": 2,
+        "unit_price": 15.00,
+        "currency": "USD",
+        "weight": 0.4,
+        "dimensions": "6x6x6 cm",
+        "color": "Blue",
+        "material": "Aluminum",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 13,
+        "name": "Pressure Sensor",
+        "part_number": "ELEC-PS-013",
+        "description": "Sensor for measuring fluid pressure",
+        "category_id": 1,
+        "unit_price": 2.00,
+        "currency": "USD",
+        "weight": 0.015,
+        "dimensions": "2x2x1 cm",
+        "color": "Black",
+        "material": "Metal",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 14,
+        "name": "Chain Drive Belt",
+        "part_number": "MECH-CHAIN-014",
+        "description": "Chain drive belt for industrial machinery",
+        "category_id": 2,
+        "unit_price": 7.50,
+        "currency": "USD",
+        "weight": 0.2,
+        "dimensions": "100x2x0.5 cm",
+        "color": "Silver",
+        "material": "Steel",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 15,
+        "name": "Hydraulic Hose",
+        "part_number": "HYDRO-HOSE-015",
+        "description": "Flexible hydraulic hose for high-pressure systems",
+        "category_id": 3,
+        "unit_price": 20.00,
+        "currency": "USD",
+        "weight": 0.5,
+        "dimensions": "150x1x1 cm",
+        "color": "Black",
+        "material": "Rubber",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 16,
+        "name": "Pneumatic Fitting",
+        "part_number": "PNEUM-FIT-016",
+        "description": "Connector fitting for pneumatic systems",
+        "category_id": 4,
+        "unit_price": 3.00,
+        "currency": "USD",
+        "weight": 0.02,
+        "dimensions": "2x2x2 cm",
+        "color": "Gray",
+        "material": "Plastic",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 17,
+        "name": "Corrugated Cardboard Sheet",
+        "part_number": "PACK-CARD-017",
+        "description": "Standard corrugated cardboard for packaging",
+        "category_id": 5,
+        "unit_price": 0.25,
+        "currency": "USD",
+        "weight": 0.1,
+        "dimensions": "100x50x0.5 cm",
+        "color": "Brown",
+        "material": "Paper",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 18,
+        "name": "Printed Circuit Board",
+        "part_number": "ELEC-PCB-018",
+        "description": "Single-layer PCB for prototypes",
+        "category_id": 1,
+        "unit_price": 4.00,
+        "currency": "USD",
+        "weight": 0.05,
+        "dimensions": "10x10x0.2 cm",
+        "color": "Green",
+        "material": "Fiberglass",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 19,
+        "name": "Ball Bearing",
+        "part_number": "MECH-BEAR-019",
+        "description": "Precision ball bearing for high-speed applications",
+        "category_id": 2,
+        "unit_price": 0.75,
+        "currency": "USD",
+        "weight": 0.02,
+        "dimensions": "2x2x1 cm",
+        "color": "Silver",
+        "material": "Steel",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 20,
+        "name": "Hydraulic Filter",
+        "part_number": "HYDRO-FILT-020",
+        "description": "Filter element for hydraulic systems",
+        "category_id": 3,
+        "unit_price": 6.00,
+        "currency": "USD",
+        "weight": 0.3,
+        "dimensions": "5x5x1 cm",
+        "color": "Black",
+        "material": "Paper/Plastic",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 21,
+        "name": "Pneumatic Cylinder Seal",
+        "part_number": "PNEUM-SEAL-021",
+        "description": "Seal for pneumatic cylinders",
+        "category_id": 4,
+        "unit_price": 1.50,
+        "currency": "USD",
+        "weight": 0.01,
+        "dimensions": "1x1x0.2 cm",
+        "color": "Black",
+        "material": "Rubber",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 22,
+        "name": "LED Driver Circuit",
+        "part_number": "ELEC-LEDDRV-022",
+        "description": "Circuit board for driving LED strips",
+        "category_id": 1,
+        "unit_price": 3.50,
+        "currency": "USD",
+        "weight": 0.03,
+        "dimensions": "3x2x0.5 cm",
+        "color": "Blue",
+        "material": "Plastic",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 23,
+        "name": "Gearbox Assembly",
+        "part_number": "MECH-GBOX-023",
+        "description": "Compact gearbox for small machines",
+        "category_id": 2,
+        "unit_price": 30.00,
+        "currency": "USD",
+        "weight": 1.0,
+        "dimensions": "10x10x10 cm",
+        "color": "Gray",
+        "material": "Steel",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 24,
+        "name": "Hydraulic Cylinder Rod",
+        "part_number": "HYDRO-ROD-024",
+        "description": "Reinforced rod for hydraulic cylinders",
+        "category_id": 3,
+        "unit_price": 12.00,
+        "currency": "USD",
+        "weight": 0.8,
+        "dimensions": "50x3x3 cm",
+        "color": "Silver",
+        "material": "Steel",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 25,
+        "name": "Pneumatic Air Filter",
+        "part_number": "PNEUM-AFILT-025",
+        "description": "Air filter for pneumatic systems",
+        "category_id": 4,
+        "unit_price": 2.50,
+        "currency": "USD",
+        "weight": 0.1,
+        "dimensions": "4x4x2 cm",
+        "color": "White",
+        "material": "Foam",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 26,
+        "name": "Corrugated Pallet",
+        "part_number": "PACK-PALLET-026",
+        "description": "Lightweight corrugated cardboard pallet",
+        "category_id": 5,
+        "unit_price": 8.00,
+        "currency": "USD",
+        "weight": 2.5,
+        "dimensions": "120x100x15 cm",
+        "color": "Brown",
+        "material": "Cardboard",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 27,
+        "name": "Circuit Board Connector",
+        "part_number": "ELEC-CONN-027",
+        "description": "High-speed board-to-board connector",
+        "category_id": 1,
+        "unit_price": 0.80,
+        "currency": "USD",
+        "weight": 0.01,
+        "dimensions": "1.2x0.8x0.2 cm",
+        "color": "Black",
+        "material": "Plastic",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 28,
+        "name": "Spindle Bearing",
+        "part_number": "MECH-SPINDLE-028",
+        "description": "Precision spindle bearing for industrial machinery",
+        "category_id": 2,
+        "unit_price": 4.50,
+        "currency": "USD",
+        "weight": 0.05,
+        "dimensions": "2x2x2 cm",
+        "color": "Silver",
+        "material": "Steel",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 29,
+        "name": "Hydraulic Accumulator",
+        "part_number": "HYDRO-ACC-029",
+        "description": "Accumulator for hydraulic system stabilization",
+        "category_id": 3,
+        "unit_price": 35.00,
+        "currency": "USD",
+        "weight": 3.0,
+        "dimensions": "20x15x15 cm",
+        "color": "Black",
+        "material": "Steel",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 30,
+        "name": "Pneumatic Solenoid",
+        "part_number": "PNEUM-SOL-030",
+        "description": "Solenoid valve for pneumatic systems",
+        "category_id": 4,
+        "unit_price": 6.00,
+        "currency": "USD",
+        "weight": 0.07,
+        "dimensions": "3x3x2 cm",
+        "color": "Gray",
+        "material": "Brass",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 31,
+        "name": "Shrink Wrap Film",
+        "part_number": "PACK-SHRINK-031",
+        "description": "Clear shrink wrap film roll",
+        "category_id": 5,
+        "unit_price": 4.00,
+        "currency": "USD",
+        "weight": 0.3,
+        "dimensions": "100x50x0.2 cm",
+        "color": "Transparent",
+        "material": "Plastic",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 32,
+        "name": "LED Display Module",
+        "part_number": "ELEC-LEDMOD-032",
+        "description": "Module for LED digital displays",
+        "category_id": 1,
+        "unit_price": 15.00,
+        "currency": "USD",
+        "weight": 0.2,
+        "dimensions": "8x4x1 cm",
+        "color": "Red",
+        "material": "Plastic",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 33,
+        "name": "Mechanical Seal",
+        "part_number": "MECH-SEAL-033",
+        "description": "High-performance seal for rotating equipment",
+        "category_id": 2,
+        "unit_price": 9.00,
+        "currency": "USD",
+        "weight": 0.05,
+        "dimensions": "2.5x2.5x0.5 cm",
+        "color": "Black",
+        "material": "Rubber",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 34,
+        "name": "Hydraulic Cylinder Mount",
+        "part_number": "HYDRO-MOUNT-034",
+        "description": "Mounting bracket for hydraulic cylinders",
+        "category_id": 3,
+        "unit_price": 18.00,
+        "currency": "USD",
+        "weight": 0.7,
+        "dimensions": "12x8x4 cm",
+        "color": "Silver",
+        "material": "Steel",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 35,
+        "name": "Pneumatic Pressure Regulator",
+        "part_number": "PNEUM-REG-035",
+        "description": "Regulator for maintaining consistent air pressure",
+        "category_id": 4,
+        "unit_price": 5.50,
+        "currency": "USD",
+        "weight": 0.12,
+        "dimensions": "3x3x2 cm",
+        "color": "Black",
+        "material": "Aluminum",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 36,
+        "name": "Foam Packaging Cushion",
+        "part_number": "PACK-FOAM-036",
+        "description": "Protective foam cushion for fragile parts",
+        "category_id": 5,
+        "unit_price": 0.80,
+        "currency": "USD",
+        "weight": 0.05,
+        "dimensions": "10x10x1 cm",
+        "color": "White",
+        "material": "Foam",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 37,
+        "name": "Variable Resistor",
+        "part_number": "ELEC-VARRES-037",
+        "description": "Adjustable resistor for tuning circuits",
+        "category_id": 1,
+        "unit_price": 0.90,
+        "currency": "USD",
+        "weight": 0.008,
+        "dimensions": "1.5x0.7x0.3 cm",
+        "color": "Brown",
+        "material": "Carbon film",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 38,
+        "name": "Mechanical Coupling",
+        "part_number": "MECH-COUPLE-038",
+        "description": "Coupling for connecting shafts in machinery",
+        "category_id": 2,
+        "unit_price": 11.00,
+        "currency": "USD",
+        "weight": 0.3,
+        "dimensions": "4x4x3 cm",
+        "color": "Gray",
+        "material": "Aluminum",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 39,
+        "name": "Hydraulic Pressure Gauge",
+        "part_number": "HYDRO-PG-039",
+        "description": "Gauge to measure hydraulic pressure",
+        "category_id": 3,
+        "unit_price": 7.00,
+        "currency": "USD",
+        "weight": 0.1,
+        "dimensions": "3x3x2 cm",
+        "color": "Black",
+        "material": "Metal",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 40,
+        "name": "Pneumatic Compressor Filter",
+        "part_number": "PNEUM-COMPFLT-040",
+        "description": "Filter for air compressors in pneumatic systems",
+        "category_id": 4,
+        "unit_price": 4.00,
+        "currency": "USD",
+        "weight": 0.15,
+        "dimensions": "4x4x2 cm",
+        "color": "White",
+        "material": "Foam/Plastic",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 41,
+        "name": "Corrugated Shipping Tube",
+        "part_number": "PACK-TUBE-041",
+        "description": "Tube for shipping, made of corrugated cardboard",
+        "category_id": 5,
+        "unit_price": 1.20,
+        "currency": "USD",
+        "weight": 0.4,
+        "dimensions": "50x10x10 cm",
+        "color": "Brown",
+        "material": "Cardboard",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 42,
+        "name": "LED Indicator Module",
+        "part_number": "ELEC-LEDIND-042",
+        "description": "Module with LED indicators for status display",
+        "category_id": 1,
+        "unit_price": 2.00,
+        "currency": "USD",
+        "weight": 0.02,
+        "dimensions": "3x2x0.5 cm",
+        "color": "Red",
+        "material": "Plastic",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 43,
+        "name": "Mechanical Spring",
+        "part_number": "MECH-SPRING-043",
+        "description": "Compression spring for mechanical assemblies",
+        "category_id": 2,
+        "unit_price": 0.50,
+        "currency": "USD",
+        "weight": 0.01,
+        "dimensions": "5x0.5x0.5 cm",
+        "color": "Silver",
+        "material": "Steel",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 44,
+        "name": "Hydraulic Pressure Transducer",
+        "part_number": "HYDRO-TRANS-044",
+        "description": "Transducer for measuring hydraulic pressure",
+        "category_id": 3,
+        "unit_price": 18.00,
+        "currency": "USD",
+        "weight": 0.25,
+        "dimensions": "4x4x1.5 cm",
+        "color": "Black",
+        "material": "Metal",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 45,
+        "name": "Pneumatic Cylinder Mounting Bracket",
+        "part_number": "PNEUM-MB-045",
+        "description": "Bracket for mounting pneumatic cylinders",
+        "category_id": 4,
+        "unit_price": 3.50,
+        "currency": "USD",
+        "weight": 0.2,
+        "dimensions": "6x4x0.8 cm",
+        "color": "Blue",
+        "material": "Aluminum",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 46,
+        "name": "Flexible Packaging Film",
+        "part_number": "PACK-FLM-046",
+        "description": "Clear flexible film for packaging",
+        "category_id": 5,
+        "unit_price": 2.00,
+        "currency": "USD",
+        "weight": 0.25,
+        "dimensions": "100x50x0.1 cm",
+        "color": "Transparent",
+        "material": "Polyethylene",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 47,
+        "name": "Resistor 1KΩ",
+        "part_number": "ELEC-1K-047",
+        "description": "Carbon film resistor, 1K ohm, 1/4 watt",
+        "category_id": 1,
+        "unit_price": 0.12,
+        "currency": "USD",
+        "weight": 0.005,
+        "dimensions": "1x0.5x0.3 cm",
+        "color": "Green",
+        "material": "Ceramic",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 48,
+        "name": "Stepper Motor Driver",
+        "part_number": "ELEC-STEPDRV-048",
+        "description": "Driver for stepper motors in robotics applications",
+        "category_id": 1,
+        "unit_price": 5.00,
+        "currency": "USD",
+        "weight": 0.1,
+        "dimensions": "4x3x1 cm",
+        "color": "Black",
+        "material": "Plastic",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 49,
+        "name": "Mechanical Coupling Set",
+        "part_number": "MECH-COUPSET-049",
+        "description": "Set of couplings for aligning shafts",
+        "category_id": 2,
+        "unit_price": 12.00,
+        "currency": "USD",
+        "weight": 0.3,
+        "dimensions": "5x5x2 cm",
+        "color": "Silver",
+        "material": "Steel",
+        "status": "Active",
+        "notes": ""
+      },
+      {
+        "part_id": 50,
+        "name": "Packaging Tape",
+        "part_number": "PACK-TAPE-050",
+        "description": "Industrial strength clear packaging tape",
+        "category_id": 5,
+        "unit_price": 1.00,
+        "currency": "USD",
+        "weight": 0.05,
+        "dimensions": "50x2x0.2 cm",
+        "color": "Clear",
+        "material": "Plastic",
+        "status": "Active",
+        "notes": ""
+      }
+    ],
+    "Part_Suppliers": [
+      {
+        "part_supplier_id": 1,
+        "part_id": 1,
+        "supplier_id": 1,
+        "lead_time_days": 5,
+        "minimum_order_quantity": 100,
+        "supply_status": "Active"
+      },
+      {
+        "part_supplier_id": 2,
+        "part_id": 2,
+        "supplier_id": 1,
+        "lead_time_days": 5,
+        "minimum_order_quantity": 200,
+        "supply_status": "Active"
+      },
+      {
+        "part_supplier_id": 3,
+        "part_id": 3,
+        "supplier_id": 2,
+        "lead_time_days": 7,
+        "minimum_order_quantity": 50,
+        "supply_status": "Active"
+      },
+      {
+        "part_supplier_id": 4,
+        "part_id": 4,
+        "supplier_id": 2,
+        "lead_time_days": 10,
+        "minimum_order_quantity": 20,
+        "supply_status": "Active"
+      },
+      {
+        "part_supplier_id": 5,
+        "part_id": 5,
+        "supplier_id": 3,
+        "lead_time_days": 8,
+        "minimum_order_quantity": 10,
+        "supply_status": "Active"
+      }
+      // For parts 6 to 50, assign suppliers in a round-robin or realistic random fashion.
+    ],
+    "Part_Inventory": [
+      {
+        "inventory_id": 1,
+        "part_id": 1,
+        "quantity_on_hand": 1000,
+        "reorder_level": 200,
+        "location_id": 1
+      },
+      {
+        "inventory_id": 2,
+        "part_id": 2,
+        "quantity_on_hand": 800,
+        "reorder_level": 150,
+        "location_id": 1
+      },
+      {
+        "inventory_id": 3,
+        "part_id": 3,
+        "quantity_on_hand": 500,
+        "reorder_level": 100,
+        "location_id": 2
+      },
+      {
+        "inventory_id": 4,
+        "part_id": 4,
+        "quantity_on_hand": 250,
+        "reorder_level": 50,
+        "location_id": 2
+      },
+      {
+        "inventory_id": 5,
+        "part_id": 5,
+        "quantity_on_hand": 600,
+        "reorder_level": 80,
+        "location_id": 3
+      },
+      {
+        "inventory_id": 6,
+        "part_id": 6,
+        "quantity_on_hand": 50,
+        "reorder_level": 10,
+        "location_id": 1
+      },
+      {
+        "inventory_id": 7,
+        "part_id": 7,
+        "quantity_on_hand": 120,
+        "reorder_level": 20,
+        "location_id": 2
+      },
+      {
+        "inventory_id": 8,
+        "part_id": 8,
+        "quantity_on_hand": 1500,
+        "reorder_level": 300,
+        "location_id": 3
+      },
+      {
+        "inventory_id": 9,
+        "part_id": 9,
+        "quantity_on_hand": 200,
+        "reorder_level": 40,
+        "location_id": 1
+      },
+      {
+        "inventory_id": 10,
+        "part_id": 10,
+        "quantity_on_hand": 400,
+        "reorder_level": 60,
+        "location_id": 2
+      }
+      // Generate inventory records for parts 11 through 50 similarly.
+    ]
+  }
+  
