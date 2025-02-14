@@ -1,0 +1,31 @@
+Segment_From,Segment_To,Overall_Distance,Overall_Duration,Important_Roads
+"China, Shang Hai Shi, Pu Dong Xin Qu, Lujiazui, Dongfang Rd","Port of Shanghai, China",100 km,1 hour 27 mins,A20; A1; A2
+"121 Woodlands Ave 5, Singapore","Port of Singapore, Singapore",11.2 km,17 mins,No important ways extracted
+"Adnan Kahveci, Alemdağ Cd. No:3, 34520 Beylikdüzü/İstanbul, Türkiye","Port of Ambarlı, Turkey",9.7 km,15 mins,No important ways extracted
+"Port of Ambarlı, Turkey","Krauss-Maffei-Straße 2, 80997 Munich, Germany","1,886 km",19 hours 11 mins,A6; A3; A2; A10; A1; A8
+"12357 Riata Trace Pkwy, Suite A-130, Austin, TX 78727, USA","Port of Houston, USA",176 mi,2 hours 41 mins,No important ways extracted
+"One Analog Way, Wilmington, MA 01887, USA","Port of Boston, USA",16.4 mi,24 mins,No important ways extracted
+"Rohrdamm 85, 13629 Berlin, Germany","Port of Hamburg, Germany",286 km,3 hours 0 mins,A111; A10; A24; A19; A24 toward Hamburg/Schwerin; A1 toward Bremen/Hannover/Hamburg-Zentrum/Hamburg-
+"Port of Hamburg, Germany","Krauss-Maffei-Straße 2, 80997 Munich, Germany",788 km,8 hours 9 mins,A1 toward Bremen/Hannover; A7; A2 toward Berlin; A14 toward Leipzig/Dresden/Halle/Salzwedel/Haldensleben; A14; A9; A92 toward Deggendorf/Eching-Ost; A92; A99
+"R. Adelino Cardana, 293 - Centro, Barueri - SP, 06401-147, Brazil","Port of Santos, Brazil",103 km,1 hour 40 mins,No important ways extracted
+"25 Nishinaka, Kowata, Uji-shi, Kyoto 611-8585, JAPAN","Port of Osaka, Japan",48.9 km,51 mins,No important ways extracted
+"Telco Road, Pimpri, Near KSB Chowk, Pimpri Chinchwad, Maharashtra, 411018, India","Jawaharlal Nehru Port, India",127 km,2 hours 19 mins,No important ways extracted
+"Post box No.981, Nandambakkam, Chennai, India","Port of Chennai, India",18.3 km,44 mins,No important ways extracted
+"Block K, Unit 3, Monavalley Business Park, Monavalley, Ireland","Port of Cork, Ireland",144 km,1 hour 56 mins,No important ways extracted
+"Port of Cork, Ireland","Krauss-Maffei-Straße 2, 80997 Munich, Germany","1,839 km",22 hours 36 mins,A4139; A477; A40; A48; A4051; A4042 toward Cwmbran/Chepstow/Caerleon/M4 E; A4042; A16; A26; A4; A35; A5 toward Karlsruhe; A8
+"Carrer del Cotó, 1, 9, 08830 Sant Boi de Llobregat, Barcelona, Spain","Port of Barcelona, Spain",21.9 km,29 mins,No important ways extracted
+"Port of Barcelona, Spain","Krauss-Maffei-Straße 2, 80997 Munich, Germany","1,368 km",13 hours 35 mins,A43; A41; A1 toward A9/Bern/; A1; A2; A4 toward Flughafen/Nordring-; A4; A14; A96; A99
+"Via Camillo Olivetti, 2, 20864 Agrate Brianza MB, Italy","Port of Genoa, Italy",189 km,2 hours 11 mins,A4; A51 toward Tangenziale Est/A1/Bologna/E62/A7/Genova/Milano Centro/Aeroporto LinateToll road; A1; A50; A7; A26
+"Port of Genoa, Italy","Krauss-Maffei-Straße 2, 80997 Munich, Germany",626 km,6 hours 52 mins,A50; A8; A9; A13 toward Chur/San Bernardino/Bellinzona NordToll road; A13; A13 toward St; A14; A96; A99
+"738 Av. Roumanille, 06410 Biot, France","Port of Nice, France",26.2 km,36 mins,No important ways extracted
+"Port of Nice, France","Krauss-Maffei-Straße 2, 80997 Munich, Germany",806 km,9 hours 4 mins,A8; A7; A50; A9; A13 toward Chur/San Bernardino/Bellinzona NordToll road; A13; A13 toward St; A14; A96; A99
+"Sma House Home Park Industrial Estate, Kings Langley WD4 8LZ, United Kingdom","Port of London, UK",50.9 km,1 hour 0 mins,A4251; A40; A501; A5204
+"Port of London, UK","Krauss-Maffei-Straße 2, 80997 Munich, Germany","1,120 km",12 hours 12 mins,A3212; A3202; A201; A2; A229; A16; A26; A4; A35; A5 toward Karlsruhe; A8
+"1900-5140 Yonge St, North York, ON M2N 6L7, Canada","Port of Toronto, Canada",25.8 km,28 mins,No important ways extracted
+"Walentego Roździeńskiego 12, 41-303 Dąbrowa Górnicza, Poland","Port of Gdańsk, Poland",523 km,5 hours 0 mins,A1
+"Port of Gdańsk, Poland","Krauss-Maffei-Straße 2, 80997 Munich, Germany","1,132 km",11 hours 24 mins,A1; A2; A12; A10; A9; A92 toward Deggendorf/Eching-Ost; A92; A99
+"Route Jedidi Sidi Hammed, BP 80 8032, Hammamet, Tunisia","Port of Tunis, Tunisia",64.0 km,48 mins,No important ways extracted
+"Port of Tunis, Tunisia","Krauss-Maffei-Straße 2, 80997 Munich, Germany","2,168 km",1 day 5 hours,A29; A19; A20; A2; A30; A16; A1; A22; A13; A12; A95
+"107 Carnarvon St, Silverwater, Australia","Port Botany, Sydney",30.2 km,33 mins,A6
+"Bd des Müriers, 101 P3013, Bouskoura 20180, Morocco","Port of Casablanca, Morocco",29.9 km,37 mins,A3; A101
+"Port of Casablanca, Morocco","Krauss-Maffei-Straße 2, 80997 Munich, Germany","2,850 km",1 day 5 hours,A101; A5; A501; A43; A41; A1 toward A9/Bern/; A1; A2; A4 toward Flughafen/Nordring-; A4; A14; A96; A99

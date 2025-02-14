@@ -1,0 +1,110 @@
+part_id,name,part_number,description,partsystem,partsubsystem,buyer,product
+
+1,High-Precision Resistor,HPR-1001,A resistor with tight tolerance for precise voltage regulation.,Power Management Unit,Voltage Regulation,Alice Johnson,Solar Inverter System
+
+2,Ultra-Low Power Microcontroller,ULP-MCU-202,A microcontroller optimized for minimal power consumption.,Control System,Main Controller,Bob Smith,Smart Thermostat
+
+3,Advanced Capacitor Array,ACA-3305,An array of capacitors providing enhanced filtering capabilities.,Signal Processing Unit,Filter Module,Carol Davis,Audio Amplifier
+
+4,Custom PCB Assembly,PCB-CUST-450,A tailored printed circuit board designed for specific application needs.,Embedded System,Main Board,David Lee,Wearable Health Monitor
+
+5,Precision Servo Motor,PSM-5002,A servo motor offering high accuracy for precise movement control.,Actuation System,Motor Control,Eva Green,Robotic Arm
+
+6,Robust Hydraulic Pump,RHP-6003,A durable pump designed for high-pressure hydraulic applications.,Fluid Power System,Hydraulic Circuit,Frank Harris,Industrial Press
+
+7,Eco-Friendly LED Module,EFL-7004,An energy-efficient LED module with reduced environmental impact.,Lighting System,LED Array,Grace Kim,Smart Lighting Fixture
+
+8,Smart Sensor Module,SSM-8005,A sensor module with integrated processing for intelligent data acquisition.,Monitoring System,Environmental Sensors,Henry Adams,Air Quality Monitor
+
+9,Industrial Ethernet Switch,IES-9006,A rugged Ethernet switch suitable for industrial network applications.,Communication Network,Network Infrastructure,Irene Clark,Factory Automation System
+
+10,Modular Power Supply Unit,MPSU-1007,A power supply unit with modular design for flexible configurations.,Power Distribution,Power Modules,Jack Wilson,Data Center Equipment
+
+11,High-Speed Motor Controller,HSMC-1108,A controller designed for managing high-speed motor operations.,Motion Control System,Speed Regulation,Karen Thompson,Electric Vehicle Drive
+
+12,Wireless Transceiver,WT-1209,A device capable of transmitting and receiving wireless signals.,Communication System,RF Module,Larry Martinez,Remote Monitoring Device
+
+13,Digital Signal Processor Board,DSPB-1310,A board equipped with a processor for real-time signal processing tasks.,Signal Processing Unit,DSP Module,Maria Rodriguez,Audio Processing Unit
+
+14,Automated Conveyor Motor,ACM-1411,A motor designed for use in automated conveyor systems.,Material Handling,Conveyor Drive,Nathan Scott,Packaging Line
+
+15,Thermal Imaging Sensor,TIS-1512,A sensor that detects infrared radiation to create thermal images.,Imaging System,IR Sensor Array,Olivia Turner,Surveillance Drone
+
+16,RFID Tracking Module,RFID-1613,A module for reading and writing RFID tags for tracking purposes.,Tracking System,RFID Reader,Paul Edwards,Inventory Management
+
+17,Ultra-Durable Cable Assembly,UDCA-1714,A cable assembly designed to withstand harsh environmental conditions.,Connectivity Solutions,Cable Harness,Quinn Foster,Outdoor Networking Gear
+
+18,Optical Fiber Connector,OFC-1815,A connector designed for joining optical fibers with minimal signal loss.,Communication Network,Fiber Optic Links,Rachel Simmons,High-Speed Data Router
+
+19,Heavy-Duty Pneumatic Cylinder,HDPC-1916,A pneumatic cylinder built for high-force industrial applications.,Actuation System,Pneumatic Actuators,Samuel Brooks,Automated Assembly Line
+
+20,Miniaturized GPS Module,GPSM-2017,A compact module for receiving global positioning signals.,Navigation System,GPS Receiver,Tina Evans,Handheld GPS Device
+
+21,High-Efficiency Solar Panel Array,HESPA-2118,A solar panel array designed for maximum energy conversion efficiency.,Energy Generation,Solar Modules,Uma Patel,Solar Charging Station
+
+22,Next-Gen Battery Pack,NGBP-2219,An advanced battery pack offering improved energy density and safety.,Energy Storage,Battery Management,Victor Nguyen,Electric Scooter
+
+23,Robust Industrial Valve,RIV-2320,A valve engineered for reliable operation in industrial processes.,Fluid Control System,Valve Assembly,Wendy Parker,Chemical Processing Unit
+
+24,Smart HVAC Controller,SHC-2421,A controller that optimizes heating, ventilation, and air conditioning systems.,Climate Control,HVAC Management,Xavier Reed,Smart Building System
+
+25,Precision Robotic Actuator,PRA-2522,An actuator providing precise movement for robotic applications.,Robotics System,Joint Actuation,Yvonne Sanders,Surgical Robot
+
+26,Multifunctional PLC Unit,MFPLC-2623,A programmable logic controller with multiple integrated functions.,Automation Control,PLC Module,Zachary Bennett,Industrial Control Panel
+
+27,3D-Printed Gear Assembly,3DPGA-2724,A gear assembly manufactured using 3D printing technology.,Mechanical System,Gear Train,Amanda Collins,Prototype Machinery
+
+28,High-Frequency Oscillator,HFO-2825,An oscillator that generates signals at high frequencies for various applications.,Signal Generation,Oscillator Circuit,Brian Foster,RF Signal Generator
+
+29,Ultra-Sonic Sensor Array,USA-2926,A sensor array utilizing ultrasonic waves for distance measurement.,Sensing Technology,Proximity Sensors,Christine Hall,Autonomous Navigation System
+
+30,Automotive ECU Module,AEM-3027,An electronic control unit for managing automotive subsystems.,Vehicle Electronics,Engine Control Unit,Derek Young,Hybrid Car Engine
+
+31,Advanced Brake Control System,ABCS-3128,A system designed to enhance braking performance through electronic control.,Safety Systems,Brake Management,Emily King,Electric Bicycle
+
+32,Dynamic Load Cell Sensor,DLCS-3229,A sensor that measures force or weight in dynamic applications.,Measurement System,Force Sensing,Felix Wright,Weighing Scale
+
+33,Multi-Port USB Hub,MPUH-3330,A hub that expands a single USB port into multiple ports.,Peripheral Devices,USB Expansion,Gina Torres,Laptop Docking Station
+
+34,Digital Temperature Controller,DTC-3431,A device that regulates temperature with digital precision.,Thermal Management,Temperature Regulation,Hank Morris,Industrial Oven
+
+35,Robust Industrial Relay,RIR-3532,A relay designed for reliable switching in industrial environments.,Electrical Components,Switching Devices,Ivy Scott,Power Distribution Panel
+
+36,Wireless Charging Pad,WCP-3633,A pad that wirelessly charges compatible devices.,Charging Solutions,Inductive Charging,Jason Lee,Smartphone Accessories
+
+37,High-Resolution Touchscreen Panel,HRTP-3734,A touchscreen display with high pixel density for clear visuals.,Display Technology,Touch Interface,Kelly Brown,Medical Diagnostic Equipment
+
+38,Intelligent Energy Meter,IEM-3835,A meter that provides real-time monitoring of energy consumption.,Energy Monitoring,
+
+&#x20;
+
+39,Precision CNC Controller,PCC-3939,A controller providing high-precision control for CNC machines.,Manufacturing Automation,CNC Control Unit,Oscar Hughes,CNC Milling Machine
+\
+40,Smart Lighting Controller,SLC-4040,A controller that manages smart lighting systems for energy efficiency.,Building Automation,Lighting Management,Paula Jenkins,Smart Home System
+\
+41,High-Power LED Driver,HPLD-4141,A driver designed to supply stable current to high-power LEDs.,Lighting System,LED Power Supply,Quincy Foster,Outdoor LED Display
+\
+42,Modular Data Acquisition System,MDAS-4242,A system for collecting and processing data from various sensors.,Data Acquisition,Sensor Interface,Rachel Simmons,Industrial Monitoring System
+43,Industrial Pressure Sensor,IPS-4343,A sensor that measures pressure in industrial processes.,Instrumentation,Pressure Measurement,Steven Clark,Hydraulic Press
+\
+44,Dynamic Vibration Analyzer,DVA-4444,A device that analyzes and monitors vibration patterns in machinery.,Condition Monitoring,Vibration Analysis,Tina Evans,Rotating Equipment Monitor
+\
+45,Robotic Gripper Assembly,RGA-4545,A gripper mechanism for robotic arms to handle objects.,Robotics System,End Effector,Uma Patel,Automated Packaging Robot
+\
+46,Smart Motor Driver,SMD-4646,A driver that provides intelligent control of motor operations.,Motion Control,Motor Interface,Victor Nguyen,Electric Skateboard
+\
+47,Advanced Frequency Converter,AFC-4747,A device that converts electrical power to a different frequency.,Power Conversion,Frequency Adjustment,Wendy Parker,HVAC System
+\
+48,Multi-Axis Servo Drive,MSD-4848,A drive that controls multiple servo motors simultaneously.,Motion Control,Servo Management,Xavier Reed,Robotic Welding System
+
+49,Digital Signal Interface Board,DSIB-4949,A board facilitating digital signal communication between devices.,Communication Interface,Signal Routing,Yvonne Sanders,Telecommunication Equipment
+\
+50,Compact Thermal Printer,CTP-5050,A small printer that uses heat to produce images on paper.,Printing Solutions,Thermal Printing,Zachary Bennett,Portable Receipt Printer
+\
+51,High-Speed Data Router,HSDR-5151,A router designed for rapid data transmission across networks.,Networking Equipment,Data Routing,Amanda Collins,Enterprise Network Infrastructure
+\
+52,Next-Generation IoT Gateway,NGIG-5252,A gateway that connects IoT devices to the internet with advanced features.,IoT Infrastructure,Device Connectivity,Brian Foster,Smart Agriculture System
+53,Industrial Safety Sensor,ISS-5353,A sensor ensuring safety by detecting hazardous conditions in industrial settings.,Safety Systems,Hazard Detection,Christine Hall,Manufacturing Safety System
+54,Precision Optical Encoder,POE-5454,A device that converts rotational position into precise digital signals.,Measurement Devices,Position Sensing,Derek Young,CNC Lathe
+\
+55,Robust Wireless Router,RWR-5555,A durable router providing reliable wireless connectivity in challenging environments.,Networking Equipment,Wireless Communication,Emily King,Outdoor Wireless Network

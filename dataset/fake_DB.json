@@ -1320,7 +1320,6 @@
         "minimum_order_quantity": 10,
         "supply_status": "Active"
       }
-      // For parts 6 to 50, assign suppliers in a round-robin or realistic random fashion.
     ],
     "Part_Inventory": [
       {
@@ -1393,7 +1392,6 @@
         "reorder_level": 60,
         "location_id": 2
       }
-      // Generate inventory records for parts 11 through 50 similarly.
     ]
   }
   
