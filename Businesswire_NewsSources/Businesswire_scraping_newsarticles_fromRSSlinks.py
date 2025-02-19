@@ -2,14 +2,11 @@ import json
 import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime
+import os
 
 
 # Input and output file paths
-input_file = "Businesswire_NewsSources/businesswire_rss_links.json"  # The file with RSS links
-
-current_date = datetime.now().strftime("%Y-%m-%d")
-output_file = f"Businesswire_NewsSources/Businesswire_scraped_articles_{current_date}.json"  # The output JSON file
-
+input_file = "Businesswire_NewsSources/businesswire_rss_links.json"  
 
 def parse_rss_feed(rss_url, category):
     """Fetch and parse RSS feed, extracting articles."""
@@ -59,8 +56,27 @@ for source in rss_sources:
         articles = parse_rss_feed(rss_link, category)
         all_articles.extend(articles)
 
-# Save the scraped articles to a JSON file
+# Assume all_articles is already defined from your code
+output_dir = "All_sources_Links"
+os.makedirs(output_dir, exist_ok=True)
+today = datetime.now()
+formatted_date = today.strftime("%Y%m%d")  # format to avoid invalid filename characters
+output_file = os.path.join(output_dir, f"consolidated_data_from_RSS_links_files_{formatted_date}.json")
+
+# Read existing consolidated data if the file exists.
+if os.path.exists(output_file):
+    with open(output_file, "r", encoding="utf-8") as file:
+        consolidated_data = json.load(file)
+else:
+    consolidated_data = {}
+
+# Add the scraped articles under the key "scraped_articles".
+consolidated_data["Businesswire_scraped_articles_links"] = all_articles
+
+# Write the updated consolidated data back to the file.
 with open(output_file, "w", encoding="utf-8") as file:
-    json.dump(all_articles, file, indent=4, ensure_ascii=False)
+    json.dump(consolidated_data, file, indent=4, ensure_ascii=False)
+
+print(f"Scraped {len(all_articles)} articles to {output_file}")
 
 print(f"Scraped articles saved to {output_file}")
