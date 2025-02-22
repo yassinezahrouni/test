@@ -3,8 +3,9 @@ import json
 import datetime
 import os
 import requests
-from bs4 import BeautifulSoup
 import time
+from bs4 import BeautifulSoup
+from datetime import datetime
 
 def get_article_text(link):
     """
@@ -64,7 +65,7 @@ def scrape_rss_feed(url):
         # Process publication time into separate date and hour strings.
         published_parsed = entry.get("published_parsed")
         if published_parsed:
-            dt = datetime.datetime(*published_parsed[:6])
+            dt = datetime(*published_parsed[:6])
             date_str = dt.strftime("%Y-%m-%d")
             hour_str = dt.strftime("%H:%M:%S")
         else:
@@ -86,23 +87,28 @@ def scrape_rss_feed(url):
     return data
 
 def save_to_json(data, output_file):
-    """
-    Saves the given data to a JSON file at the specified output file path.
-    
-    Args:
-        data (list): The list of dictionaries to save.
-        output_file (str): The output file path.
-    """
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
+    # Read existing data if the file exists; otherwise, start with an empty dictionary.
+    if os.path.exists(output_file):
+        with open(output_file, "r", encoding="utf-8") as f:
+            consolidated_data = json.load(f)
+    else:
+        consolidated_data = {}
+
+    # Add/Update the weather alerts in the consolidated data.
+    consolidated_data["Webwire_news"] = data
+
+    # Write the updated data back to the consolidated file.
     with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=4)
-    print(f"Data saved to {output_file}")
+        json.dump(consolidated_data, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
     rss_url = "http://rssfeeds.webwire.com/webwire-recentheadlines"
-    # Append the current date to the filename (e.g., webwire_recent_headlines_2025-02-09.json)
-    today_date = datetime.datetime.now().strftime("%Y-%m-%d")
-    output_file = os.path.join("webwire", f"webwire_recent_headlines_{today_date}.json")
+    #  Create the output directory if it doesn't exist.
+    output_dir = "All_sources_Links"
+    os.makedirs(output_dir, exist_ok=True)
+    today = datetime.now()
+    formatted_date = today.strftime("%Y%m%d")  # format to avoid invalid filename characters
+    output_file = os.path.join(output_dir, f"consolidated_data_from_RSS_links_files_{formatted_date}.json")
     
     print("Scraping RSS feed...")
     rss_data = scrape_rss_feed(rss_url)
