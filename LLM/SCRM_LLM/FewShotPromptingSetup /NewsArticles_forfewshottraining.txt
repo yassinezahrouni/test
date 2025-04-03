@@ -1,0 +1,926 @@
+
+
+Headline: How Baltimore’s Key Bridge collapse will affect supply chains and the economy
+publication date and place:Nation Mar 28, 2024 5:22 PM EDT
+article text: The Francis Scott Key Bridge, once the second-longest continuous truss bridge in the U.S., now lies partially submerged in the Patapsco River after a catastrophic cargo ship collision this week. Two people were injured, and six others presumed dead. The ship and mangled debris from the bridge have formed a wall in the water, indefinitely blocking access in and out of the Port of Baltimore, the top domestic port for cars and a major hub for other goods, such as forest products, farm equipment and sugar. 
+Among the questions around what happens now is what the accident means for shipping and the economy. 
+The port handled a record amount of cargo last year. While President Joe Biden has said he intends for the federal government to rebuild the bridge, and called on Congress to support that effort, the port is directly responsible for about 15,000 jobs and generated $4.7 billion in economic value to the state of Maryland. 
+The bridge’s collapse stranded at least 10 vessels in the water and ships outside the blockage have had to reroute to other East Coast ports, such as Norfolk and New Jersey. For global shipping, this comes at a time when companies are contending with route disruptions along the Suez and Panama canals. Here’s how the Key Bridge collapse may affect the port’s operation, the local economy and international supply chains. 
+What role does the Port of Baltimore play? Along with being the top U.S. port for autos, Baltimore is also the nation’s furthest inland port, said Houston Mason, adjunct professor of supply chain management at Loyola and Georgetown universities. Companies may have to spend an extra day traveling up the Chesapeake Bay and into Baltimore’s harbor, but once their product is unloaded, it’s closer to the Midwest than it would be at any other East Coast port. 
+In the last decade, after increasing the depth of berths at its primary cargo terminal, Baltimore has been able to handle substantially larger ships than other East Coast ports, Mason said. 
+The port is also a major source of employment across the region. 
+A 2018 report found that along with 15,000 direct jobs there were nearly 22,000 other jobs either supported by or indirectly related to activities at the port How long will shipping be suspended? Though the port remains open to ground vehicles, it is largely impassable for water vessels. Work can still be done at the port, but ships can’t enter or leave and new cargo cannot be loaded or unloaded. At the moment, experts predict it will take at least a couple of months to clear wreckage from the crashed cargo ship and the bridge from the harbor, effectively preventing all maritime traffic from coming or going during that period. 
+Will supply chains be interrupted? For cars, it would make sense to expect some degree of disruption with the No. 1 port out of commission, at least along the East Coast, said Mason, who is also a director of logistics for a large manufacturing firm. To the extent that the average American notices supply chains, interruptions will be minimal to nonexistent, experts interviewed for this story said. There will be added costs and delays in diverting traffic to other ports, but logistics professionals are likely scrambling to minimize the impacts. 
+In the near future, ships are likely to be diverted to other major ports on the East Coast, all of which are larger than Baltimore’s and have the capacity to handle an increase in traffic, Emily Stausboll, an analyst at international shipping analytics platform Xeneta, told the NewsHour. READ MORE: Key Bridge is not the first bridge collapse in the U.S. from a ship collision The Port Authority of New York and New Jersey “stand[s] ready to assist with emergency resources and any other assistance that may be needed,” its director, Bethann Rooney, said in a statement. 
+“The Port of New York and New Jersey is proactively working with our industry partners to respond as needed and ensure supply chain continuity along the East Coast.” Rooney noted that in 2021, New York and New Jersey’s ports handled about 20 percent more cargo than they’re currently seeing. Those ports likely wouldn’t have been able to operate at that level pre-pandemic, Mason said, but as supply chains were battered, they ramped up capacity and can now handle increased traffic. The pandemic also changed how many companies handle supply chains. Pre-pandemic, “just-in-time” deliveries were the norm, which reduced inventory and shipping costs, said Lisa Anderson, president of LMA Consulting Group. But when that created massive shortages and disruptions during lockdowns, companies began to stock up on inventory slightly more. 
+Now, Anderson said, inventories have broadly been brought back down, so kinks in the supply chain could cause additional delays. Smaller companies are more susceptible to complications than larger companies, which often have cushions. What are potential long-term effects? The Key Bridge collapse comes at a time when other international routes are under pressure, Anderson said. Extreme drought has forced the Panama Canal to limit the number of ships passing through and snarled agricultural exports along the Mississippi River. Meanwhile, Houthi rebels have been attacking ships crossing the Red Sea, so many companies are choosing to avoid that route, instead traveling around the southern tip of Africa — often adding 10 or more days to the trip. “Will this Baltimore situation add a bunch of cost to the global supply chain? Well, no,” Anderson said. But with additional global complications, costs could compound. 
+“People who are in supply chain are good at being resilient, or they’ve become good at being resilient since the pandemic, at least. So they’ll continue to move it around until they find a way to go without a problem. However, each of these steps is going to add cost. And so it is one more disruption,” Anderson said. 
+Capacity at ports nationwide dropped precipitously during the pandemic, and companies — especially those in northeast Asia — might prefer to ship across the Pacific Ocean to the U.S. West Coast, which has the ability to handle significantly more volume as post-pandemic operations have ramped back up, Anderson added. For Baltimore, it’s possible that being out of commission for a while might have a long-term effect on the port’s use and traffic, with former customers preferring to stick to workarounds they develop during the effective closure. 
+It may turn out that companies find shipping to the West Coast to be more effective in the long run, Anderson said. What about local and regional effects The Key Bridge was an important link along Interstate 95, the major overland shipping corridor that runs the length of the East Coast. It was also one of three links connecting the south side of Baltimore to the north. The remaining two are tunnels, which have height, width and material restrictions; hazardous materials are prohibited. Now, Mason said, companies can still traverse the coast, but their options will likely add time, traffic and money, and may require travel along smaller roads. All of those factors are likely to cause additional bottlenecks and chokepoints, leading to shipping delays. Anderson said she believes that the effects will be particularly felt regionally, as well as along the East Coast, where trucking will be most affected. 
+“For sure it’s going to affect the region, specifically the smaller businesses because it’ll be harder to get things,” Anderson said. “Any business, even a large business, can be affected if you have some critical item that’s not going to come.” Amazon, Under Armour and Home Depot are among companies with distribution centers right near the ports; there are also local shops that serve employees of the port and warehouse district. All of those businesses could feel indirect impacts, Mason said. “If you have a downturn in activity, you can just see the ripple effect of not having as many transactions and work,” he said. 
+
+---------------------------
+
+Headline: Agreement reached to end US port strike – but supply chains will take weeks to recover
+publication date and place: OSLO, Norway – 4 October 2024  
+article text: Strike action at ports on the US East and Gulf Coast ended last night, Thursday, after a new wage agreement was reached – but a backlog of more than 40 ships waiting to offload billions of dollars of cargo means the pain is not yet over.  The International Longshoremen’s Association and the United States Maritime Alliance reached a tentative agreement on wages while also extending the Master Contract until 15 January 2025 to allow further negotiations, in particular around automation at ports.  The strike lasted three days and at 5am (Eastern Time) today, Friday, there were 44 ships queuing to enter affected ports (source: Xeneta and Kuehne+Nagel) and more than 120 en route (source: Xeneta and Marine Benchmark).  Peter Sand, Xeneta Chief Analyst, said: “A prolonged crisis on this scale would have been toxic for global supply chains so the market is breathing a sigh of relief.  
+“Closing all ports on the US East Coast and Gulf Coast – even for just three days – comes with severe consequences. We must now wait to see how quickly the returning workers are able and willing to deal with the huge backlog of ships waiting to offload thousands of containers carrying billions of dollars of goods.”  Sand believes the ripple effect of the strike will spread across global supply chains in the weeks to come.  He said: “The dozens of ships delayed on the US East Coast and Gulf Coast will also be late arriving back in the Far East. This will impact schedules towards the end of this year and possibly into 2025 in the run-up to Lunar New Year at the end of January, which traditionally sees an increase in goods shipped out of the Far East.  “You cannot miss a scheduled weekly sailing for a ship carrying 15 000 containers and not expect repercussions for carriers and importers.”
+
+---------------------------
+
+
+
+headline: Red Sea crisis: supply chain issues set to continue despite Gaza ceasefire
+Publication time and place: January 30, 2025 6.05pm CET
+text: The world’s major shipping companies say they won’t be sending vessels back to the Red Sea any time soon despite a pledge by Iran-backed Houthi militants in Yemen not to attack them as long as the ceasefire in Gaza holds.
+French shipping and logistics company CMA CGM said in a statement on January 25 that the improved stability was “a positive but fragile sign” for the industry, and that it would continue to prioritise alternative routes.
+Since November 2023, one month after the war in Gaza began, the Houthis have launched missile and drone attacks against roughly 190 commercial and naval ships in the Red Sea’s Bab al-Mandab Strait. The group claims to have carried out attacks on vessels connected with Israel, or heading to its ports, in solidarity with Palestinians in the Gaza Strip. Though this has not always been the case.
+These attacks have prompted many shipping companies to stop using the Red Sea – a route that around 12% of global trade usually passes through – and divert around the southern tip of Africa. This route adds more than 7,000 nautical miles on to a typical round-trip voyage. The number of commercial ships using the Suez Canal to pass between the Mediterranean and the Red Sea plummeted from over 26,000 in 2023 to 13,200 in 2024.
+Supply chains have had to deal with higher shipping costs, product delivery delays, and increased carbon emissions as a result of this diversion. The Gaza ceasefire gave some hope that the disruption would finally end. But shipping lines will not hurry back to the region until long-term security is guaranteed.
+During the early stages of the crisis, moving a container from Shanghai in China to Europe cost approximately 250% more than before the war in Gaza began. This was largely due to increased fuel costs and higher insurance premiums. Freight rates (the price companies pay to transport goods) remained high throughout 2024, despite some fluctuations.
+The cost of moving a 40-foot container from Shanghai to Rotterdam in the Netherlands, for example, surged from around US$4,400 on average in January to above US$8,000 by August. This had dropped to US$4,900 at the end of the year.
+It is too early to say whether these costs will be passed on to consumers in the form of higher prices – full transmission through the supply chain to consumer prices can take upwards of 12 months. But some estimates suggest global consumer prices could rise by 0.6% on average in 2025 as these increased shipping costs filter through the supply chain.
+Diverting around southern Africa also resulted in delays in the delivery of many goods and components. The proportion of container ships that arrived on schedule dropped from 60% on average worldwide in 2023 to about 50% throughout 2024. This created congestion at ports because ships often arrived at their destination later than planned, resulting in further delivery delays.
+Unreliable transit times are a significant issue for supply chains because they make it difficult for businesses to plan inventory and coordinate production schedules. Indeed, several vehicle manufacturers, including Tesla and Volvo, temporarily suspended manufacturing in early 2024 due to a lack of components. And food supply chains, including those for avocados, tea and coffee, were also affected by delays.
+The longer route around southern Africa requires that ships travelling between Europe and Asia use around 33% more fuel on average than they would use by travelling through the Red Sea at the same speed.
+Over the past decade, most shipping companies have employed a “slow steaming” policy to economise on fuel use and minimise their carbon emissions. But diverted ships have been travelling around 5% faster than usual in an attempt to minimise delays. The increased vessel speeds will have caused the associated emissions toll to rise – large container vessels require 2.2% more fuel for every 1% increase in speed.
+More data is required to determine the precise amount of additional emissions caused by diverting shipping away from the Red Sea. But estimates suggest that approximately 13.6 million tonnes of CO₂ were emitted by ships rerouted from the Red Sea between December 2023 and April 2024 – equivalent to the carbon emissions of nine million cars over the same period. If ships continue to avoid the region, the increased emissions could amount to 41 million extra tonnes of CO₂ per year.
+Some cargo has also shifted from sea transport to air freight, which has a far greater environmental footprint. Shipping a kilogram of product by long-haul air freight generates at least 50 times more CO₂ emissions on average than container shipping.
+Since then, many companies have adapted by increasing their safety stock levels and transporting cargo using alternative modes of transport like air and rail. Some European firms have also adopted a strategy called “nearshoring”, where they source products from regions closer to home such as Turkey and Morocco instead of relying on suppliers in Asia.
+
+----------------------------
+headline: Houthi Red Sea Attacks Have Global Economic Repercussions
+publication date and place: Apr 5, 2024
+article text: The Houthi attacks on Red Sea shipping present a new phenomenon in geo-economic conflict: a non-state actor using asymmetric warfare not just to fight conventional armed forces, but to also impose targeted economic sanctions by selectively attacking international shipping. The Houthis have made this leap by combining two factors: inexpensive and high-tech weaponry that can threaten—even sink—oceangoing ships and control over strategic coastal territory overlooking one of the world’s busiest maritime chokepoints: the Bab al-Mandab Strait. Scores of incidents have damaged three dozen ships as of late March, a result that the Iran-friendly Houthis describe as retaliation for the Israeli bombardment and blockade of Gaza starting last October. The Iran-backed group says it aims to increase international pressure on Israel to halt its Gaza offensive.
+The siege on Red Sea shipping has re-oriented trade between Asia and Europe in an uneven way. Shipping firms based in countries where governments have spoken out against the Israeli offensive in Gaza have received exemptions from Houthi attacks, resulting in cost advantages and higher profits. Conversely, shippers based in countries supporting Israel, along with those carrying Europe- or US-bound cargoes, have lost access to the Red Sea shortcut between Asia and Europe. As a result, cost and voyage duration have increased together with demand for vessels, which helped push up cargo fees, including on routes that do not travel via the Red Sea.
+The skewed disruption to global shipping suggests that the Houthis have succeeded in meeting their objective of imposing costs on supporters of Israel, although the anti-ship campaign has not had a noticeable effect on Israel’s offensive in Gaza. Houthi leaders have reportedly cemented competitive advantages for Chinese and Russian shippers by providing free Red Sea passage with guarantees against attack in exchange for yet-unspecified diplomatic support. The selective strategy employed by the Houthis is imposing economic penalties resembling economic sanctions that disproportionately affect EU-based firms as well as Egypt, which is losing Suez Canal transit fees due to shipping detours around the southern tip of Africa.  Indeed, the added supply chain costs are weighing heavily on already pessimistic economic forecasts for the European Union and Egypt. The longer the attacks continue, the greater the residual impact, dampening the prospects for growth.
+
+----------------------------
+
+headline: Germanium and gallium supply chain disruption escalates for U.S.
+article text: Last November, the U.S. Geological Survey (USGS) estimated we could see a $3.4B decrease in U.S. gross domestic product (GDP) if China decided to implement a total ban on exports of critical materials gallium and germanium (in response to U.S. bans of exports of semiconductor manufacturing equipment and technologies), which are critical materials for optics, photonics, semiconductors, and electronics.
+On December 3, China’s Commerce Ministry did indeed ban exports of gallium, germanium, antimony, and “superhard” (think diamond, cubic boron nitride) materials to the U.S. Since China happens to be the world’s leading producer and exporter of both gallium (90% since 2014) and germanium—and there isn’t much production capacity elsewhere—it’s a serious challenge.
+Gallium (in the form of gallium nitride or gallium arsenide) is commonly used to create products ranging from semiconductors/electronic devices to laser diodes and solar cells. And germanium is used in infrared optics, solar cells, and fiber optics. Both are used for numerous military applications.
+The U.S. semiconductor device manufacturing industry is expected to be ones of the hardest hit by this move (with a predicted 40% of the net loss), and the USGS predicts prices of gallium could increase more than 150%, while germanium costs could rise by 26% with a total ban. Losing access to these materials that contribute to the value of products like semiconductors can quickly add up to billions in losses across the economy, according to the USGS.
+What now? While a National Defense Stockpile exists, and deposits of gallium and germanium can be found within the U.S., the quest is now on to find substitutes or develop alternative materials. New efforts are underway to recover gallium and germanium from active and legacy mine waste, and there’s also a push to explore postconsumer recycling e-waste to recover gallium and germanium from discarded products.
+This is an area we’ll be watching closely this year, and we’d like to hear from you about any impacts the ban’s causing and how you’re dealing with it.
+
+----------------------------
+
+headline: US-Panama Canal tensions escalate as US threatens action, raising fears of disruption for automotive logistics
+publication date and place: 07 February 2025
+text: Tensions between the US and Panama over the use of its major logistics waterway have continued to boil, with the US secretary of state making accusations that the Panama Canal is controlled by the Chinese Communist Party.The latest accusation by the US that the Chinese Communist Party operates the Panama Canal and Donald Trump’s threats to “take back control” of the canal, if acted on, could spell disruption for automotive supply chains across the globe.
+The US Department of State issued a release about a meeting with Panama’s president José Raúl Mulino and the US secretary of state Marco Rubio. According to release, Rubio told the Panamanian president that Trump believes “the current position of influence and control of the Chinese Communist Party over the Panama Canal area is a threat to the canal” and that it represents a violation of the Panama Canal Treaty.
+As Automotive Logistics previously reported, it is not accurate that China operates the canal, although Chinese-owned companies are involved in port operations.
+
+
+
+-----------------------
+headline: Semiconductor Supply Chain Disruption: Unpacking the US-China Trade Conflict
+article text: After decades of being treated as another commodity, semiconductors have moved to the forefront of automotive industry discussions in the past decade.
+But an increasing reliance on chip technology has led to a growing trade war between the US and mainland China. The United States is working to restrict mainland China from buying advanced semiconductor technology — particularly equipment for manufacturing, inspecting, and testing cutting-edge chips of 7nm and below —all while bolstering its own domestic chip industry.
+Yet, new restrictions by the US have not deterred mainland China's ambitions. The country is said to be capable of producing 5nm chips as early as this year for use in smartphones. Additionally, mainland China has continued to develop most advanced automotive technologies. They are the most advanced country in terms of autonomous driving adoption and Chinese OEMs are leading in the development of cars with central computer and advanced technology, right behind Tesla.
+The US' actions, as well as mainland China's response and that of other countries aligned on either side, could have a major impact on the global semiconductor landscape. As a result, companies will need to build diversification and supply chain resilience strategies to deal with the shifting political headwinds.
+
+-----------------------
+
+
+headline: Back-to-Back Hurricanes Wreak Havoc on Supply Chains
+publication date and place: Two weeks after Hurricane Helene slammed the East Coast, resulting in at least 230 deaths, Hurricane Milton is expected to reach landfall Wednesday near Tampa, Florida, en route to the Atlantic Ocean, causing more damage in its wake.
+“If Hurricane Milton hits Florida as forecast, major ports in Florida could experience severe damage, affecting imports and exports,” says Sara Saberi, Ph.D., associate professor of operations and industrial engineering at Worcester Polytechnic Institute in Worcester, Massachusetts. “This will likely delay shipments of key materials and consumer goods, impacting national supply chains.”
+Supply chains have already been heavily impacted by the damage done by Hurricane Helene, equated by some to that of Hurricane Katrina, which devastated New Orleans in 2005.
+“The hurricanes/storms are hitting many different areas of the country, which will likely impact many different categories,” says Robert Handfield, Ph.D., Bank of America Distinguished university professor of supply chain management and executive director of the Poole College of Management Supply Chain Resource Cooperative at North Carolina State University in Raleigh, North Carolina. “One of the biggest concerns is health-care supplies for the hospitals, which typically do not have a lot of inventory, in Hurricane Helene’s path.”
+According to AccuWeather, Helene, the second-deadliest U.S. hurricane in 50 years, has wreaked “catastrophic infrastructure damage, loss of life, business disruptions and other economic impacts” and losses amounting to as much as US$250 billion.
+Handfield and Saberi, through email interviews, and Joel N. Myers, AccuWeather’s founder and executive chair, through press release comments, offer thoughts on how supply chains are being impacted by the hurricanes and adverse weather, what long-term effects could be and how supply management organizations can become more resilient and strategic in reducing the risk caused by them.
+
+-----------------------
+
+
+headline: Aston Martin bleeding £1m a day as supply chain issues and China demand slump hit targets
+publication date and place: 31 October 2024
+text: Aston Martin Lagonda, Britain’s only carmaker listed on the London Stock Exchange, is grappling with substantial financial setbacks, missing all 2024 targets as production cuts, supply chain issues, and a steep drop in Chinese demand impact performance. The luxury automaker, led by new CEO Adrian Hallmark, is burning through cash at over £1 million a day, with net debt climbing to £1.21 billion—nearly 50% higher than a year ago.  
+The company, controlled by executive chairman Lawrence Stroll alongside Saudi Arabia’s PIF and Chinese carmaker Geely, has faced ongoing challenges. After a disappointing third quarter, in which Aston Martin reported a £12 million loss despite an 8% revenue rise to £391 million, it revised its outlook. Hallmark, formerly with Bentley, cut production targets by 14% to 6,000 vehicles annually and has recalibrated growth expectations.  One of the biggest blows to Aston Martin has been the plummet in demand for the DBX 4×4, particularly in China—the world’s largest auto market—where sales of the model have dropped by 54%. Previously Aston’s best-seller, the DBX now accounts for only 30% of sales. 
+The company’s overall volumes remain down 17% this year, with revenues slipping 4% to £994 million.  In response to these setbacks, Aston Martin has abandoned its goal of achieving cashflow break-even by the end of 2024. Hallmark remains optimistic about the company’s “diverse, dynamic, and desirable portfolio,” asserting that a steady supply chain and stabilised markets could restore momentum. 
+“We are on track to meet our revised full-year guidance,” he said, underscoring a renewed focus on adjusting production volumes to align with market conditions and supply limitations.  Aston Martin’s stock rose slightly following the announcement, closing at 111p, but shares remain far from the £4.3 billion valuation the company boasted when it floated six years ago. As the carmaker faces increasing competition in the luxury electric segment, all eyes will be on its ability to stabilise operations and capture market share amid mounting challenges.
+
+
+-----------------------
+
+headline: How Hackers Are Hitting Healthcare via Their Supply Chain
+publication date and place: October 15, 2024
+article text: Cyberattacks in healthcare rise, with supply chain breaches most damaging, affecting patient care and increasing mortality rates.
+Healthcare organisations are increasingly under siege by cyber threats, with attacks on supply chains causing the greatest havoc on patient care.
+A startling report from Proofpoint and Ponemon Institute unveils that a whopping 92% of US healthcare bodies have been hit by cyberattacks within the last year, pinpointing supply chain intrusions as extremely detrimental.
+These intrusions, caused by hackers targeting third-party vendors, significantly interrupt the provisioning of key services and supplies, leading to extensive disruptions throughout the healthcare landscape.
+An alarming 82% of those who suffered from these attacks reported severe interferences to patient services, marking an increase from 77% in the preceding year.
+The fallout from these disruptions includes postponed surgeries, unattended medical examinations, and, often, deterioration in patient outcomes.
+Dire Consequences for Patient Wellness
+The impact of supply chain attacks is acutely borne by patients, where delays can swiftly swing from recoverable to critical.
+In grim instances, such attacks have direct correlations with patient fatalities. About 28% of impacted healthcare entities noticed a hike in patient deaths, a terrifying increase of 5% over the prior year.
+This dire statistic underscores the critical necessity for healthcare entities to fortify their defences, focusing keenly on safeguarding their supply chains.
+Additionally, attacks through cloud breaches, ransomware, and business email compromises (BEC) are rampant but do not wield the same dire consequences on patient care as supply chain attacks do.
+Compromises on the supplier's side can leave medical facilities scrambling, devoid of crucial products or services essential for timely healthcare delivery.
+
+
+-----------------------
+
+
+headline: DR Congo takes Apple to court over alleged use of conflict minerals
+text: The Democratic Republic of Congo has lodged criminal complaints against Apple subsidiaries in France and Belgium, accusing the tech giant of utilizing conflict minerals in its supply chain, Reuters reported.
+The Congo is a key supplier of tin, tantalum, and tungsten, known as 3T minerals, which are essential for the production of computers and mobile phones.
+However, some artisanal mines in the region are controlled by armed groups linked to severe human rights violations, including massacres, mass rapes, and looting, as reported by U.N. experts and human rights organizations. 
+Apple has been addressing allegations concerning conflict minerals for years. In 2016, the company said it had commenced full audits of its suppliers to ensure compliance regarding minerals associated with violent militia groups.
+Apple, alongside Tesla, and Microsoft, has also faced accusations of child labour in Africa's cobalt mines.
+Apple maintains that it does not directly source primary minerals and emphasizes its commitment to responsible practices by auditing suppliers, publishing findings, and funding initiatives aimed at improving mineral traceability. In its 2023 conflict minerals filing to the U.S.
+Securities and Exchange Commission, Apple stated that none of the smelters or refiners of 3T minerals or gold in its supply chain were found to have financed or supported armed groups in Congo or its neighbouring countries.
+However, international lawyers representing the Democratic Republic of Congo contend that Apple indirectly uses minerals looted from Congo and laundered through complex international supply chains.
+They argue that this involvement makes Apple complicit in the ongoing crimes, including violence and exploitation, taking place in the region.
+
+-----------------------
+
+
+
+headline: Amnesty reports child labor behind batteries
+article text: "I would spend 24 hours down in the tunnels. I arrived in the morning and would leave the following morning ... I had to relieve myself down in the tunnels … My foster mother planned to send me to school, but my foster father was against it, he exploited me by making me work in the mine."
+These are the words of Paul, a 14-year-old orphan who started mining at the age of 12, speaking to researchers from Amnesty International (AI) about the hazardous working conditions faced by cobalt miners in southern Democratic Republic of Congo (DRC).
+In a new report released by the London-based, global human rights campaign group on January 19 and titled,"This is what we die for: Human rights abuses in the Democratic Republic of the Congo power the global trade in cobalt," Amnesty International (AI) documented the perilous conditions under which children - some as young as seven years old - and adults are working to extract cobalt from the mines.
+Cobalt global supply chain
+Cobalt is a key mineral in rechargeable lithium-ion batteries used for smart phones, laptops and electric cars. It is estimated that over half of the world's total supply of cobalt comes from the DRC.
+By tracing down how the mineral is traded, the report reveals that miners in the southern region of the DRC sell their ore to independent traders, who then sell it to larger companies for processing and exporting.
+One of the biggest buyers of cobalt in the region is Congo Dongfang Mining International (CDM), AI researchers claimed in the report. CDM is a subsidiary of the China-based Zhejiang Huayou Cobalt Company Limited - one of the world's largest manufacturers of cobalt products.
+"CDM is a smelter and therefore processes the ore before exporting it to Huayou Cobalt in China, which then processes it further," said the AI report. The cobalt products produced in Huayou Cobalt are then sold to battery component manufacturers in China and South Korea. "They, in turn, sell to battery makers who claim to supply technology and car companies, including Apple, Microsoft, Samsung, Sony, Daimler and Volkswagen," said the rights group.
+
+
+
+
+-----------------------
+
+headline: Eskom: 'Procurement Fraud' Uncovered at Kusile Power Station
+publication date: March 17, 2025
+article text: Eskom’s investigation with the NATJOINTS Energy Safety and Security Priority Committee uncovers procurement fraud and corruption at Kusile Power Station
+Corruption and mismanagement within Eskom’s supply chain are under the microscope following the arrest of six individuals alleged to be involved in procurement fraud at its Kusile Power Station in South Africa.
+The fraudulent scheme, uncovered during a joint investigation by Eskom and the NATJOINTS Energy Safety and Security Priority Committee, highlights the ongoing challenge of procurement fraud in high-value transactions.
+Weak oversight, insider collusion and complex supply chain structures said to have enabled inflated contracts and financial mismanagement across the organisation.
+On 14-15 March, authorities arrested six individuals, including a former Kusile Procurement Officer and a Procurement Manager, as part of broad efforts to combat corruption within Eskom’s procurement operations.
+
+
+
+-----------------------
+
+
+
+
+headline: Strike in a French port: Disruption expected
+article text: Dock workers at the port of Dunkirk will stop work for 48 hours. The CNTPA-CFDT union will begin strike action on Thursday at 6 a.m., ending on Saturday (15 March) at 6 a.m.
+
+
+-----------------------
+
+headline: Non-EU drivers strike against Lithuanian haulier over unpaid wages
+article text: The drivers of the Lithuanian haulier Rosteka initiated their protest in late December. They are demanding unpaid wages and have raised numerous complaints against their employer, which provides transportation services for major companies like Amazon and Tesla. Rosteka is based in Kaunas, Lithuania, about 100 kilometres from the capital, Vilnius. The company also operates an office in Sejny, Poland, near the Lithuanian and Belarusian borders.
+The case was brought to public attention by Edwin Atema of the Dutch trade union FNV, who previously assisted truck drivers protesting in Grafenhausen, Germany, in 2023
+The drivers have reported labour rights violations to the union and claim to be victims of exploitation. Some allege they were coerced into signing documents they did not understand and were threatened with dismissal when they voiced complaints. In response, several workers chose to immobilize the trucks, effectively disrupting deliveries to Tesla and Amazon.
+Rosteka did not address the drivers’ grievances, instead accusing them of stealing the trucks and goods. The company attempted to recover the vehicles by sending other lorries to the parking area, accompanied by police officers who had been briefed by the protesting drivers about their work conditions. The authorities seized a truck loaded with goods destined for Amazon and, after assessing the situation, classified it as a “labour conflict” rather than theft.
+Edwin Atema shared an open letter on his Facebook page addressing Rosteka’s clients, including Amazon and Tesla, highlighting the plight of the drivers. 
+Finally, Atema called on Tesla and Amazon to act urgently.
+“Dear Amazon and Tesla, according to your human rights policy, a company like Rosteka should not even be part of your supply chain. Take immediate action to ensure justice for the drivers suffering through Rosteka,” he urged.
+
+
+
+
+------------------------
+
+
+headline: Understanding the greatest risks and the impacts to the supply chains of critical raw materials including battery raw materials, green metals and rare earths
+publication date and place: August 8, 2024
+article text: What are critical minerals?
+Critical minerals play a pivotal role in shaping the modern world, particularly in the context of decarbonization. These minerals, including rare earth elements like neodymium and dysprosium, as well as lithium, cobalt and nickel, are essential components in various high-tech and green technologies. Rare earth magnets are used in wind turbines, while lithium-ion batteries are used to power electric vehicles (EVs). Steel and base metals such as aluminium and copper have strategic importance because of their use in infrastructure.  
+As demand for these raw materials is expected to soar, they have been deemed ‘critical’ by the US Department of Energy. Here, we look at the risks of supply chain disruption to these raw materials, including political, regulatory and social factors as well as supply and production availability.  
+
+------------------------
+
+
+headline: The U.S. Military and NATO Face Serious Risks of Mineral Shortages. NATO militaries could face shortages of critical minerals, especially if U.S.-China tensions escalate. Stockpiling could prepare NATO for a crisis.
+article text: Yet, the importance of these minerals also makes them a dangerous vulnerability if their supply chains are not secure—and unfortunately, the U.S. and other NATO militaries rely on defense industrial bases with vulnerable mineral supply chains. Given their limited domestic mineral production, both the United States and Europe depend heavily on mineral imports, including from rival powers like China, which supplies minerals such as graphite, rare earth elements, and other battery minerals, and Russia, which provides aluminum, nickel, and titanium. In June 2023, NATO Secretary General Jens Stoltenberg warned the alliance to avoid becoming overdependent on Chinese minerals, just as many NATO countries previously became overdependent on Russian gas. Additionally, the U.S. government holds limited mineral inventories in its National Defense Stockpile, while the European Union (EU) has walked back its plans to develop a centralized mineral stockpile.
+Mineral supply chain risks are rising as the adoption of renewable energy technology increases mineral demand and as the rearmament efforts of the U.S. and allied militaries in support of Ukraine use more minerals. Coupled with limited production and stockpiles, the U.S. and other NATO militaries face three serious risks that could lead to mineral shortages: foreign export controls; rising military demand amid great power competition, including the possibility of a U.S.-China conflict; and disrupted sea-lanes. The United States and other NATO countries must act now to address these supply chain risks.
+
+------------------------
+
+
+
+headline: Aluminum prices surge amid Guinea bauxite export suspension
+article text: Aluminum prices jumped over 2% on the London Metal Exchange Friday after a key supplier, Emirates Global Aluminium (EGA), announced a suspension of bauxite exports from its Guinea Alumina Corporation (GAC) subsidiary.
+The disruption, caused by customs actions, impacts the raw material essential for producing alumina, the primary ingredient in aluminum.
+EGA said it is working to resolve the issue swiftly, though production at its Al Taweelah refinery remains unaffected.
+Aluminum prices rose as high as 2.7%, reaching $2,655 per tonne, while alumina futures in Shanghai surged 4.2% to 4,553 yuan ($644) per tonne — the highest since their launch in June 2023.
+This suspension adds to a year of supply constraints in the alumina market. Earlier disruptions included Alcoa’s closure of its Kwinana refinery in Australia and Rio Tinto’s declaration of force majeure at its Queensland refineries due to gas shortages. China has also faced alumina supply limitations from bauxite shortages amid environmental inspections.
+Chinese alumina producers have ramped up output to capitalize on the high prices, with 6.4 million tonnes of new capacity expected in 2024. However, this additional supply could temper the price rally.
+“Alumina prices have support in the short term from shortage of domestic Chinese bauxite supply, high price of imported bauxite and strong demand,” said Chen Xinlin, managing consultant at Wood Mackenzie.
+Trafigura Group highlighted the strain these price surges are placing on aluminum smelters, calling it the most significant factor influencing the market outlook.
+
+------------------------
+
+
+category: Supplier financial issues
+headline: Aerospace supplier bankruptcy sends warning signal to manufacturers
+article text: Aerospace specialist Incora’s bankruptcy, filed earlier this month, serves as a stark reminder of how closely supply chains are tied to financial fates throughout an ecosystem.
+Incora plays a key role in the supply chains of manufacturers and maintenance providers by supplying, storing and distributing everything from paint to lubricants to fasteners and machined parts, and more, according to CFO Ray Carney.
+The company has its own supply chain as well, from which it sources from more than 7,000 suppliers to meet demand for its 8,400-plus customers, Carney noted in court papers.
+Over the past year, the dollar value of late shipments from Incora’s suppliers has increased by ninefold, with on-time deliveries at around 50%, according to Carney. Average lead time for shipments of parts has doubled to 18 months from nine months.
+That caused a major problem for Incora, “because its role in the aerospace industry (and some of its contracts) require it to maintain substantial inventory that manufacturers and maintenance service providers can call upon at any time,” Carney noted.
+Those supply chain disruptions have been “one of the most significant drags on Incora’s financial performance over the past year,” Carney said.
+Spiraling costs, falling profits
+Incora was created in 2020 when private equity firm Platinum Equity combined Wesco, an aerospace hardware and service company started in California in 1953, and Pattonair, an aerospace and parts supplier founded in 1970 in England.
+The combined business gets over 40% of its revenue from the U.S. military and large defense contractors, a business that has stayed stable through the pandemic, Carney noted.
+But disruptions to airlines and commercial aircraft makers led to an 18.3% drop in total revenue between 2019 and 2021, and also caused a dip in margins and profits. A stoppage of Boeing’s 787 deliveries also hit the company, for which Boeing is “one of Incora’s largest sources of customer activity,” Carney said.
+Supply chain turbulence in the aerospace industry — which mirrored that of other sectors, as capacity struggled to keep up with rebounding industry demand — has more recently taken a financial toll on the company.
+
+------------------------
+
+category: Supplier financial issues
+headline:What happens if the supplier goes bankrupt?
+article text: Supply chain managers should devise strategies to collect information on their suppliers’ financial risk in order to avoid sudden large scale disruptions due to a supplier’s liquidity problem, according to a recent article on Procurement Leader Magazine.
+Businesses can fail for a variety of reasons — from long-term loss of market share to increasing costs and late payments by customers — so it is not uncommon for one-of-hundreds of suppliers to cease production due to business failure. In fact, 25% of 450 respondents in an Achilles consultancy survey claimed they had suffered a related disruption, according to the article.
+Procurement employees should maintain consistent communication with suppliers or collect data based on Z scores, when possible, to track their supply chain’s financial risk and prepare buffers against disruptions. Stocking up on inventory, diversifying suppliers, switching suppliers, installing pre-pay options to provide suppliers liquid assets on demand, and even considering investing in suppliers are good potential solutions, according to the article. 
+
+------------------------
+
+category: Supplier financial issues
+headline:The risk of financial defaults in supplier networks is among the top risks facing supply chains in 2023
+article text: Founded in 1989, Mitchell Gold Co, was attempting to restructure after suffering from supply chain delays in the furniture industry during the pandemic era, among other financial issues.
+The company represents only a small part of RH’s business. But its bankruptcy was enough to prompt a question about the “financial health of some of your key suppliers” from an analyst on the company’s earnings call. 
+In responding, Friedman pointed to Mitchell Gold’s particulars — including private equity ownership, management issues and its venture into retailing — rather than any broader distress in the bankrupt company’s supplier network. If RH anticipated more risk from failing suppliers, “we would have talked about it in [the company’s] disclosure,” he added.The risk of financial defaults in supplier networks is among the top risks facing supply chains in 2023, according to an earlier report from risk management software and intelligence firm Everstream Analytics. Falling demand and high interest rates could trigger more insolvencies, Everstream noted, pointing not only to the risk of supply shortfalls but also the operational costs of replacing suppliers. 
+
+
+-----------------------
+
+category: Natural Disasters
+event: Earthquakes
+headline: Fukushima earthquake hits automotive and semiconductor supply chains
+article text: An earthquake has struck the the north-east coast of Japan, near Fukushima Prefecture, almost ten years since the area was devastated by a much stronger earthquake and tsunami that took 19,000 lives and led to global supply chain disruption.
+The latest earthquake, which registered a 7.3 magnitude, has been reported as an aftershock to the original incident and struck the same area on February 13, though thankfully with nothing like the devastation caused in 2011. One million homes lost power and the earthquake also cased landslides. However, while the quake was felt strongly in Tokyo, no tsunami warning was issued. The area saw a similar aftershock in 2016.
+The automotive sector has taken precautions to review the safety of facilities but manufacturing facilities have escaped damage. Toyota said that its all of its plants in the Tohoku area were operating as usual as of the first shift on Monday (February 15). Toyota Motor East Japan has three plants in the area: Miyagi Ohira, Miyagi Taiwa and Iwate.
+
+
+---------------------
+
+category: Natural Disasters
+event: Huriccane
+headline: The Effects of Hurricane Helene and Milton on the Semiconductor Industry
+article text: One of the most significant impacts of Hurricane Helene is the threat the storm has presented to the supply of high-purity quartz, an essential material in the production of semiconductors. This ultra-pure quartz is a critical element of microchip production because it’s indispensable in the production of silicon ingots — the raw material from which silicon wafers and microchips are made.
+High-purity quartz is the material used to fabricate fused quartz crucibles, which are containers that can withstand the incredibly high temperatures of molten silicon. To make a silicon ingot, a fused quartz crucible is filled with melted silicon, then a silicon seed crystal is repeatedly dipped into the crucible until it grows to over 500 kilograms. From there, the silicon ingot is sliced into wafers and those wafers are transformed into microchips using photolithography.
+Hurricane Helene hit Spruce Pine, North Carolina — which is home to one the world’s purest quartz mines — particularly hard. While Spruce Pine is a small town of only 2,000 people, the town’s mines are the biggest producer of the quartz used in semiconductor manufacturing in the world, so the global supply chain depends heavily on this region. The purity of quartz from Spruce Pine is unmatched, and any disruption in its availability could lead to lower yields and reduced performance in semiconductor devices.
+When Hurricane Helene made landfall, the region received over 2 feet of rain, which caused severe flooding and extensive damage to the regions power grid and infrastructure. Both of the companies that mine quartz in Spruce Pine had to be shut down temporarily due to flooding and structural damage, which has led to immediate concerns over a potential shortage of the material.
+The damage to the infrastructure is a particularly big issue, because repairing the roads will take time, especially with the ongoing threat of landslides. And, fixing and replacing damaged mining equipment and transport vehicles will ensure that production won’t return to pre-Helene levels for awhile.
+
+----------------------
+
+category: Natural Disasters
+event: Floods
+headline: The worst floods in five decades have devastated one third of Thailand´s provinces since July and have killed almost 400 people.
+article text: Since July, Thailand has suffered the worst floods in five decades.
+One third of the country’s provinces has been devastated, nearly 400 people have been killed and around nine million people affected.
+The Prime Minister, Yingluck Shinawatra has spoken out, saying: “The amount of water is extraordinary and beyond any expectation”.The Thai flood of 2011 began in July of that year and inundated 9.1% of the total land area of the country, affecting close to 13 million people, with 728 deaths. Damages were estimated at $46.5 billion, dispersed across 69 provinces in every region of the country, and Bangkok and its vicinity were paralysed for two months (Poapongsakorn and Meethom 2013)
+The flood hit the manufacturing sector especially hard. METI (2012) report, for instance, production losses of 84% in transport machinery, 77% in office equipment, and 73% in information and communication equipment. The time to recover differed between sectors, but also among individual firms depending on their location. In the automotive industry Toyota required 42 days to partly resume operations, while Honda required 174 days. Thailand produced approximately 43% of the world's hard disk drives in 2011, and recovery was somewhat slower than in the automobile sector. Many companies had facilities in Ayutthaya, where industrial parks were heavily inundated (Haraguchi and Lall 2015). Overall, however, Thai industry recovered within months and had made important progress within six months. Production in March 2012 was 10% lower than that in March 2011, which may be compared to the maximal loss of 77% in November 2011 (METI 2012).
+
+----------------------
+
+category:
+event: earthquake and tsunami
+headline:Japan's earthquake and tsunami: International trade and global supply chain impacts
+article text: The Tohoku earthquake and tsunami that struck the northeast coast of Japan on 11 March has created an enormous human and ecological disaster. In addition to its direct economic cost to Japan, the disaster could potentially have important implications for the rest of the world, not only because of the sheer size of the Japanese economy, but also as a result of the country's pivotal role in the global supply chains that form the back-bone of today's international trade in manufactures (Altomonte and Ottaviano 2009).
+What are the foreseeable consequences of the catastrophe for international trade? There are two complementary approaches to tackling this question.
+The first uses a gravity approach to determine the macro-level impact on Japan's total merchandise trade flows;
+The second employs a measure of the intersectoral connections between Japanese industries and other economies to assess cross-country supply-side effects.
+Impact on Japanese trade at the macro level
+Research on the economic consequences of natural and man-made disasters mainly focuses on the growth impacts of such events (see for example Cavallo et al. 2010). Only a very small subset of this literature deals specifically with the trade impact of disasters. An example of the latter can be found in a recent paper by Gassebner et al. (2010), which examines data on disasters in 170 countries between 1962 and 2004 using a gravity model.
+In this column we use the same methodology to assess the impact of March’s disaster on Japanese and world trade. It is expected that the recent disaster in Japan will:
+reduce the volume of Japanese exports by between 0.5% and 1.6%; and
+increase the volume of imports by between 0.4% and 1.3%.
+These estimates are relative to a baseline in which the disaster did not occur. For example, if we use the OECD's pre-disaster forecast of 6.7% growth in the volume of Japanese exports for 2011 as a starting point, then this study suggests that export growth should fall to between 5.1% and 6.2%.
+The reduction in exports can be attributed to a number of factors, including injuries and loss of life (which affect companies’ human resources) as well as the destruction of physical capital related to the export sector. Damage to public infrastructure such as roads, bridges, railways, telecommunications networks and the electricity system may also disrupt supply chains and limit production and exports, as well as hindering production in other countries.
+
+---------------------
+
+category:
+event: Port congestion and transportation delays
+headline: Continuing Port Disruptions Cause ‘Bullwhip’ Concerns
+article text: 
+As consumer demand continues unabated and cargo cannot move fast enough, port congestion and transportation delays have raised chatter of a “bullwhip effect” on inventories. In recent weeks, as COVID-19 has wreaked more havoc on vital Chinese ports, which will be felt throughout supply chains — just in time for what, under normal business conditions, is considered traditional peak retail season.
+“The record volume of cargo is driven by a surge in imports,” Mario Cordero, executive director of the Port of Long Beach, said during a press conference on August 5. “Consumer spending started increasing in 2020, and lately it has slowed down a bit. Still, home exercise equipment, new appliances and other goods are in high demand even as spending on services starts to increase. We (expect) shippers will need to move high volumes to accommodate consumer demand for imports.”
+A record number of containers were handled at the Port of Long Beach in July; the 784,845 20-foot equivalent units (TEUs) processed were a 4.2-percent increase over the same month a year ago. Imports accounted for 382,940 TEUs, up 1.6 percent year over year.
+The July container traffic at nearby Port of Los Angeles had not been announced as of Monday, but the June figure of 876,430 TEUs was a record for that month and a year-over-year increase of 27 percent. “Fall fashion, back-to-school items and Halloween goods are arriving on our docks, and some retailers are shipping year-end holiday products early,” Port of Los Angeles executive director Gene Seroka said in a press release.
+Seroka added, “All signs point to a robust second half (of the year).” For evidence, all Seroka had to do was point to the water, where a line of ships awaited berth — a traffic jam that has been a daily occurrence in recent months. According to the Marine Exchange of Southern California, 37 container ships drifted offshore at the ports of Los Angeles and Long Beach on Saturday, just three below the high in February.
+
+
+---------------------
+
+
+event: virus spread and health crisis
+headline: Partial closure of China’s Yantian port, following reports of a nearby COVID-19 outbreak.
+article text: Some of the summer backlog — a disruption called “worse” than the Suez Canal blockage in March — was due to ships delayed by the partial closure of China’s Yantian port in June, following reports of a nearby COVID-19 outbreak. Last week, the Ningbo-Zhoushan port, the world’s third largest, partially closed after a worker at the terminal servicing shipments to the U.S. and Europe contracted the virus.
+“Any disruption of ports of origin (in Asia) has a domino effect,” Cordero said. “I wish we could say this is over, but it’s not.”
+Which fuels fears of a bullwhip effect, which Institute for Supply Management®’s (ISM®) Glossary of Key Supply Management Terms defines as the “increase in the variability of orders upstream from retailer to wholesaler to distributor to factory, even when the actual customer demand is fairly stable.” Such order variability can have a bullwhip effect on supply chains in the form of longer lead times, price increases and inventory uncertainty.
+Yossi Sheffi, Ph.D., Elisha Gray II professor of engineering systems at the Massachusetts Institute of Technology in Cambridge, Massachusetts, wrote in his book The New (Ab)Normal: Reshaping Business and Supply Chain Strategy Beyond Covid-19: “During the pandemic many industries reduced their orders and suppliers reduced their orders and capacity even further,” due to an expected reduction in future orders.
+He continued, “When the economy came back, there was no capacity to snap right back. On top of it, ports got congested and we have transportation problems.”
+
+
+
+
+---------------------
+
+category: changes in regulation
+event: New Safety Criteria
+headline: Regulatory Costs for U.S. Companies
+article text: The EU Data Act makes clear that if Europe intends to impose regulations that slow down U.S.-based tech companies through targeted “gatekeeper” designations and asymmetric data sharing requirements and limitations so that European firms have space to catch up, it will do so.
+Europe’s General Data Protection Regulation (GDPR) law, implemented in 2018, is shaping data protection laws beyond Europe in countries such as India, Indonesia, and Colombia, which are emulating Europe as the first mover in regulation. The GDPR has caused an 8.1 percent decline in business profits and a 2.2 percent drop in sales, according to a new estimate by researchers at the Oxford Martin School, which is consistent with estimates made before the implementation of the GDPR.
+
+
+
+
+---------------------
+
+category: changes in regulation
+event: New Environmental Rules
+headline:IMO 2020: How the Low-Sulfur Mandate Will Affect Worldwide Shipping—and Your Business
+article text:
+On January 1, 2020, a set of emission standards created by the International Maritime Organization (IMO) will take effect. These regulations, which limit sulphur oxide (SOx) emissions from all ships, aim to create global health and environmental benefits, especially for populations who live in proximity to ports and coastal areas. 
+In order to meet these new standards, steamship lines will need to make changes to 1) the fuels they use and/or 2) the equipment they operate. The global consulting firm AlixPartners estimates that these changes could cost the shipping industry as much as $10 billion. Furthermore, they estimate that this could result in fuel surcharges ranging from 33-40%.
+How will IMO 2020 affect your business? There are still several unknowns, so it’s impossible to predict with full certainty at this time.  
+However, to prepare for the coming changes, we’ll walk you through what we know right now. We’ll start with a few top-line impacts: 
+Although many questions remain, it’s likely that the demand for low-sulfur fuel will rise and the market will tighten, resulting in additional fuel surcharges in the coming year. As a result, the overall costs associated with ocean freight will likely rise.  
+As part of their effort to control costs through fuel usage, steamship lines may use techniques like slow steaming—running ships at lower speeds to use fuel more efficiently. This could result in longer transit times, which would affect supply chains globally. 
+Ultimately, the best thing you can do right now is to understand the coming changes and talk with your freight forwarder about how to plan for them in 2020.  
+By taking these simple actions, you’ll stay ahead of the curve. In fact, many organizations haven’t yet taken these steps. A recent study by Logistics Management revealed that 90% of their readership, mainly composed of logistics professionals, had “little to no awareness” of IMO 2020. 80% have done little to no planning or analysis of the potential ripple effects for domestic transportation.
+In this article, we’ll walk you through the major issues so you can understand what “IMO 2020” means—and how you can start to think about your planning process for 2020. 
+Let’s start from the beginning. 
+
+---------------------
+
+category: changes in regulation
+event: Tariffs and Trade Restrictions
+headline: US-China Trade War 2018: background, economic impact, market reactions
+article text:
+During US President Donald Trump’s first term in the White House (January 2017 through January 2021), there were a range of economic and financially divisive policies pursued that meaningfully diverged from his predecessors’ initiatives. Among the most potent global macro policies employed in that four-year term was the application of hefty tariffs against key trade partners aimed at addressing perceived inequity in global trade practices.
+In particular, China would engage in a ‘trade war’ of retaliatory tariffs with the United States over a period that cause significant uncertainty in the markets.
+What is a trade war?
+A trade war occurs when countries impose tariffs or other trade barriers on each other in response to economic or political disputes. These can include import tariffs, export restrictions and other protectionist policies to shelter domestic industries from foreign competition. Trade wars can result in higher costs for businesses and consumers, disrupt supply chains and slow down global economic growth.
+How do trade wars affect the economy?
+Trade wars affect the economy in many ways:
+Higher costs: higher tariffs mean higher costs for imported goods, higher prices for consumers and businesses.
+Disrupted supply chains: companies that rely on global supply chains may struggle to source materials or find alternatives, resulting in delays and higher production costs.
+Less trade: countries imposing tariffs will see a reduction in both imports and exports, slower economic growth.
+Market volatility: trade conflicts create uncertainty in financial markets, stock prices, currencies and commodities.
+Economic slowdowns: if prolonged trade wars can lead to economic slowdowns, reduced consumer spending and lower business investment.
+What triggered the US-China trade war?
+The US-China trade war started in 2018 when President Donald Trump imposed tariffs on Chinese imports citing unfair trade practices, forced technology transfer and national security concerns. The Trump administration accused the Chinese government of intellectual property theft, currency manipulation and providing unfair subsidies to Chinese companies. The conflict escalated as both countries imposed tariffs on hundreds of billions of dollars’ worth of each other's goods.
+Key events that escalated the trade conflict:
+January 2018: the US imposed tariffs on solar panels and washing machines.
+March 2018: additional tariffs on steel and aluminum imports raised.
+April 2018: China retaliated with tariffs on 128 US products, including agricultural machinery and auto imports.
+June 2018: the Trump administration tariffs expanded to $50 billion of Chinese exports.
+July 2018: China retaliated with tariffs on an equal amount of US goods, targeting key industries such as crude oil, liquefied natural gas and medical equipment. The tit-for-tat continued through 2018 and into 2019 affecting many industries and markets.
+What is the US trade deficit with China?
+The US has historically had a large trade deficit with China meaning it imports more from China than it exports. In 2018 the US deficit with China was around $419 billion. President Trump argued this was due to unfair trade practices and wanted to reduce it through new tariffs and export controls.
+What would happen if China stopped trading with the US?
+If China stopped trading with the US, the impact would be severe for both economies and the global market:
+US companies would suffer: many American companies, especially in technology and manufacturing, rely on Chinese suppliers for production.
+Higher consumer prices: the US imports cheap Chinese goods, including electronics, clothing and household products. A sudden stop in trade would drive up costs for US consumers.
+China’s economy would slow: the US is one of China’s largest export markets and overall exports accounted for approximately 20% of Chinese GDP in 2024 according to China’s National Bureau of Statistics. China’s GDP growth would slow and Chinese companies that rely on American buyers would face financial difficulties.
+Global trade disruptions: other economies, including Canada, Mexico and the European Union, would feel the ripple effects of supply chain disruptions.
+How the Technology and manufacturing sectors was affected?
+US tech companies like Huawei and ZTE were directly impacted by export controls and national security reasons.
+Supply chains for American and Chinese tech firms were disrupted, affecting global production.
+
+
+
+
+---------------------
+
+category: Labor Shortages
+event: Lack of skilled workers / Lack of incentives for employees
+headline: RISING WAGES AND SCARCITY OF SKILLED WORKERS
+article text:The global pandemic triggered a wave of labor shortages that continues to impact supply chains worldwide. Sectors such as trucking, warehousing, and manufacturing are grappling with a need for more skilled workers, leading to increased wages and operational costs. The “Great Resignation” and changing worker expectations have exacerbated this challenge as individuals seek better pay, benefits, and work-life balance.
+“Employee wages and benefits are one of business’s biggest costs. Wage increases put pressure on a company to maintain margins potentially by increasing prices,” says a 2022 McKinsey report on navigating inflation. “At the same time, wages and benefits are one of the most important levers employers have to attract and retain employees and help them ensure that they can provide for themselves and their families in a higher-inflation environment.”
+The labor crunch has far-reaching consequences for supply chains. In the trucking industry, a shortage of drivers is causing delays and bottlenecks, hindering the efficient movement of goods. In manufacturing, companies struggle to meet surging demand due to a need for more available workers. These disruptions contribute to inflationary pressures and create logistical headaches for businesses and consumers alike.
+“The labor market is incredibly tight right now,” said Bob Costello, chief economist for the American Trucking Associations. “Based on our estimates, the trucking industry is short, roughly 78,000 drivers. […] We’re seeing record-high turnover rates and significant wage pressures, which are adding to the challenges facing the trucking industry and the broader supply chain.”
+impact on supply chain: Delays in supply chain processes, Increased labor costs
+
+
+---------------------
+
+category: Financial Risk
+event: late payments
+headline: A FINANCIAL CHAIN REACTION AS LATE PAYMENTS RISE
+article text:Recent data from Taulia, a financial technology company, paints a worrying picture of late payments in global supply chains. The proportion of suppliers affected by late payments has surged, with a growing number reporting delays of more than 45 days. This financial strain is particularly acute for small and medium-sized enterprises (SMEs), which often lack the financial reserves to withstand extended payment cycles.
+“In the current landscape of supply chain disruptions and a challenging inflationary environment, it is unfortunate to see late payments on the rise. Now more than ever, access to working capital solutions is crucial,” said Bob Glotfelty, chief growth officer at Taulia. “Not only does it provide businesses with much-needed liquidity and payment flexibility, it also supports them in their day-to-day operations.”
+Recently, the European Union, to support SMEs, the most affected by late payments, announced plans to enforce 30-day payment terms for businesses. However, some large groups selling to EU companies are fighting back, naming higher costs that could force them to raise prices. “It does not come for free. It puts the cost somewhere else in the value chain,” said Nick Lakin, head of corporate affairs at Kingfisher, owner of European DIY stores Castorama and Brico Dépôt, which generates more than half its sales in the EU. “This would ultimately have consequences for consumers regarding product availability, choice and price.”
+
+
+---------------------
+
+
+category: Financial Risk
+event: INFLATION
+headline: INFLATION AND THE RISING COST OF DOING BUSINESS
+article text:Inflation has emerged as a formidable challenge for supply chains, driving up the cost of raw materials, energy, and transportation. The intricate interplay of factors such as supply chain disruptions, labor shortages, and geopolitical tensions has created a volatile economic environment where prices are rising across the board.
+The impact of inflation on supply chains is profound. Companies are grappling with escalating costs for everything from steel and lumber to semiconductors and shipping containers. These increased costs are often passed on to consumers, leading to higher prices for a wide range of products. In some cases, businesses may absorb some of the cost increases to maintain competitiveness, but this can erode profit margins and hinder investment in growth.
+Rising inflation is obviously one of the root causes of the rise in late payments. Many businesses use supplier credit to avoid paying high interest rates on loans.
+“Someone, somewhere, pays for every uptick in inflation. Customers pay at the end of the supply chain in higher prices,” said the McKinsey report. “Suppliers pay when their customers derisk production by seeking alternatives to their products. Shareholders pay higher costs as the ante for competing and maintaining a viable business.”
+
+
+
+---------------------
+
+category: Technology breakdown
+event: hardware and software failures 
+headline: Microsoft, CrowdStrike IT outage hits global supply chain, with air freight facing days or weeks to recover
+article text:The CrowdStrike software-triggered global IT outage had varying levels of impact across Union Pacific’s freight network, but most major rails in the U.S. were operating normally and UP returned to full operations by Friday afternoon.
+Ports from New York to Houston and Los Angeles reported temporary container terminals shut down overnight, but were mostly operational by early morning.
+Rotterdam, the largest port in Europe, said some companies operating at its terminal were impacted.
+Air freight was hit the hardest, with many global airlines grounding flights, and the complex air cargo system is facing a recovery period that could last days or weeks, but UPS said its airline continues to operate normally.
+
+
+
+
+
+---------------------
+
+
+category: Technology Breakdown
+event: cyberattacks 
+headline: Recent supply chain attacks have exposed critical weaknesses in organisations' management of their digital ecosystems.
+article text: NotPetya was a devastating cyberattack in 2017. It masqueraded as ransomware but effectively functioned as destructive malware (better known as a wiper) that paralysed computer systems globally, causing widespread damage and financial losses.
+Masquerading as ransomware, NotPetya was specifically designed for data destruction rather than theft. It infiltrated popular accounting software M.E. Doc, initially targeting Ukrainian businesses with malicious code injection. However, due to the interconnected nature of the global economy, the attack rapidly spread beyond its intended target, affecting thousands of organisations worldwide. The resulting chaos, damage and disruption was estimated in excess of U$10 billion, underlining the far-reaching impact and the pressing need for comprehensive security measures throughout supply chains.
+This chilling reminder of the devastating consequences of supply chain attacks not only underscores the critical need for software integrity and robust security measures throughout the supply chain. More importantly, it also revealed the lack of appropriate insurance coverage against cyber-induced physical damage and disruption. Insurers had to quickly address the potential risk aggregation and respond to the issue of "silent cyber"– where non-cyber insurance policies might unintentionally cover a cyber event because of outdated wording that had not kept up with the evolving nature of cyber attacks.
+
+
+
+
+
+---------------------
+
+category: 
+event: Public holiday
+headline: Chinese New Year 2024: how will it affect supply chains?
+article text:When is the Chinese New Year?
+The Chinese New Year celebrations will begin on February 9th and conclude on February 24th.
+According to Maersk, the Lunar New Year is also celebrated in several East Asian countries, including China, Vietnam, Singapore, Malaysia, Philippines, Indonesia, and North & South Korea.
+How will supply chains be affected?
+As is traditionally the case, production begins to slow down in Chinese factories at this time of the year ahead of the festivities.
+Dachser warns that Chinese suppliers begin closing their operations “one to two weeks before the holiday,” and adds that although the official celebration only lasts a week, most factories “remain closed for a whole month, some even longer”.
+Danish logistics giant DSV also explains that the situation has knock-on effects on ports and transportation. In its advisory article on the Chinese New Year, DSV states that restrictions on freight arriving and leaving Chinese ports are to be expected.
+DSV advises that ships will “depart late and miss ports”. Moreover, it says that “restrictions may also affect storage capacity at ports”. The company adds that the situation in the Red Sea will also reduce freight capacities and exacerbate the already-extended transit times.
+When it comes to air freight, DSV says it expects short-term flight cancellations both before and during Chinese New Year. This, in turn, will naturally reduce air freight capacity.
+Container shortages can also be an issue in the opinion of Maersk. The shipping line states that a “shortage of empty containers continues to be a key source of disruption during the Chinese New Year”. Maersk believes the shortages are caused by “a ripple effect” of factors, including rising global demand and operational challenges.
+Finally, both DSV and Dachser stress that it will take time for market conditions to normalise even after the conclusion of the holiday period.
+As Maersk explains, “increased demand and low supply lead to inflated rates”. The shipping giant adds that this means “exorbitant freight rates and additional peak season surcharges”.
+
+
+
+
+---------------------
+
+category: Natural disasters
+cause: Drought
+event: Drought causing limited vessel movement
+headline: Droughts are creating new supply chain problems.
+article text:Water is vital to global trade with 90% of products moving around the world via oceans and waterways.
+But recent summers have illustrated just how sensitive some key waterways are to droughts. A major Brazilian port in Manaus hit its lowest level since records began in October 2023. And in 2022, the Mississippi, Yangtze and Rhine rivers all experienced serious bottlenecks.
+Brazil's prolonged drought is expected to continue for several months more, and the prognosis for the future is for more extreme droughts worldwide, and not just in arid areas. By 2050, drought could affect 75% of the global population, the United Nations (UN) says.
+This has potentially alarming consequences for global trade – when water levels are too low to facilitate the movement of vessels, the supply chain breaks down. And that can be expensive. Economic damage from droughts jumped by 63% in 2021 compared with the 20-year average, according to the World Meteorological Organization.
+
+
+
+
+
+---------------------
+
+category: Transportation Issues
+cause: Low transportation capacity
+event: port shutdown
+headline:Baltimore bridge collapse to cause logistics headaches, not supply chain crisis
+article text:WASHINGTON, March 27 (Reuters) - The catastrophic bridge collapse that closed the Port of Baltimore to ship traffic on Tuesday is causing some logistics headaches, but is unlikely to trigger a major new U.S. supply chain crisis as competing East Coast ports are poised to handle more cargo, economists and logistics experts say.
+With six people presumed dead after a container ship collision destroyed the Francis Scott Key Bridge, it remained unclear how long the span's twisted superstructure would block the harbor's mouth.One area of concern is higher shipment costs for imported cars and trucks and for exports of farm tractors and construction equipment as Baltimore is the largest U.S. port for "roll-on, roll-off" vehicle shipments, with over 750,000 cars and light trucks handled by state-owned terminals in 2023, according to Maryland Port Administration data.
+Ford Motor Co (F.N), opens new tab and General Motors (GM.N), opens new tab said they would reroute some affected shipments but the impact would be minimal, while Volkswagen (VOWG_p.DE), opens new tab is unaffected because its new Sparrows Point vehicles terminal is located at a former steel mill site on the bridge's Chesapeake Bay side.
+The risk of car price spikes is further dampened by a recovery in automotive inventories to their highest level since May 2020, after being drawn down sharply during the pandemic. The industry's inventory-to-sales ratio is near its 32-year-average of 1.96 to 1 according to Census Bureau data, and sales incentives have risen in recent months as high interest rates dampen demand.
+
+
+
+
+
+---------------------
+
+category: raw material shortage & transportation issues
+cause: raw material shortages, logistics challenges, and delays
+event: raw material shortages, logistics challenges, and delays
+headline:Rolls-Royce Supply Chain Issues Strike Again
+article text:Rolls-Royce is struggling with persistent supply chain issues that are impacting its engine production and maintenance schedules, forcing British Airways (BA) to cancel flights on one of its most popular transatlantic routes. Starting December 12th, British Airways will suspend all flights between London Gatwick and New York’s JFK Airport until March 25, 2025, in response to the engine shortages. The airline cites logistical bottlenecks within Rolls-Royce’s supply chain as a key factor driving this decision.
+The supply chain issues stem from a combination of raw material shortages, logistics challenges, and delays in the global delivery of engine components. Rolls-Royce, which supplies engines for BA’s long-haul aircraft, has been unable to meet rising demand due to constraints in sourcing critical materials like titanium and specialized electronic components. The company’s supply chain delays are affecting its ability to deliver new engines and complete necessary maintenance on existing ones, forcing BA to make operational adjustments.
+British Airways expressed regret over the cancellation of flights, acknowledging the disruption this will cause for passengers, particularly during the busy holiday season. In a statement, the airline said, “We understand the inconvenience this decision will bring to our customers, but we are committed to minimizing any potential disruptions in our wider network as Rolls-Royce works to resolve the engine supply constraints.”
+The logistical issues at Rolls-Royce extend beyond production to affect global transportation networks. Transportation of engine parts from manufacturing centers has been impacted by delays at major ports, compounded by a global shortage of freight space and skilled logistics personnel. This is causing a ripple effect that has slowed the assembly and distribution of engines for critical routes. The logistical logjam has hindered Rolls-Royce’s ability to meet the maintenance schedules BA requires to operate its transatlantic fleet, particularly affecting the Boeing 787 Dreamliners, which rely on Rolls-Royce’s fuel-efficient engines.
+
+
+
+
+
+---------------------
+
+category: technology breakdown
+cause: cyberattacks
+event: ransomattack on supply chain software provider
+headline: Ransomware Attack on Supply Chain Provider Causes Disruption
+article text:Major grocery store chains, Starbucks and other large organizations are experiencing disruptions following a ransomware attack against a key supply chain management software provider.
+The affected service provider, Blue Yonder, first warned customers about the attack on Friday, reporting that the prior day it began experiencing "disruptions to its managed services-hosted environment, which was determined to be the result of a ransomware incident."
+Blue Yonder is an independently operated software supplier and consultancy based in Scottsdale, Arizona, that provides supply chain management products and services to businesses. The company's offerings include inventory management and distribution systems, as well as generative artificial intelligence tools designed to streamline existing supply chains.
+In a series of breach updates, the company said its response team "is working around the clock to respond to this incident and continues to make progress" but offered no timeline for when services might be restored.
+"Since learning of the incident, the Blue Yonder team has been working diligently along with external cybersecurity firms to make progress in their recovery process. We have implemented several defensive and forensic protocols," it said. "The experts, along with the Blue Yonder team, are working on multiple recovery strategies and the investigation is ongoing. At this point in time, we do not have a timeline for restoration."
+A Blue Yonder spokeswoman told Information Security Media Group: "We have notified relevant customers and will continue to communicate as appropriate."
+The company said its investigation to date has found that the Blue Yonder's Azure public cloud environment didn't appear to have been breached by attackers.
+One of the organizations affected by the outage is Starbucks, which said it complicates tracking the hours worked by its baristas across its 11,000 North American stores, as The Wall Street Journal first reported.
+A Starbucks spokeswoman told ISMG the outage hasn't affected the company's ability to serve customers, but has disrupted access to the backend system employees use to view and manage their schedules, as well as record hours, and said stores are using backup processes in the interim. She said the company will need to reconcile the actual hours baristas have worked, and will ensure employees receive the correct pay as quickly as possible.
+Two of Britain's "big four" grocery retail chains, Morrisons and Sainsbury's, also have reported their operations being affected by the Blue Yonder service outage.
+
+
+
+
+---------------------
+
+category: political instability
+event: political coup
+headline: Bangladesh coup disrupts global fashion supply chains
+article text:Although not widely reported in the global media, the south east Asian country of Bangladesh is undergoing a period of national unrest with student-led demonstrations forcing out long term Prime Minister Sheikh Hasina who has been forced to resign and flee to India. The trigger for what has been called by many a ‘coup’ was the imposition of a quota-system for government jobs, although discontent over increased autocratic government has been simmering for many years.
+Hasina was widely credited with turning Bangladesh into a global textile manufacturing hub although rising oil prices – caused by Russia’s invasion of Ukraine –led to a financial crisis which resulted in a $4.7bn bail out from the International Monetary Fund.
+The combination of the political and economic crisis has major implications for a range of supply chains, especially those related to the fashion industry. The chaos has caused severe security issues which have prevented the export of goods due to the closure of factories and the unwillingness of business to dispatch boxes to ports and airports. Inland distribution of containers has also been disrupted and many imports remain in port yards leading to high levels of congestion. Chittagong, Bangladesh’s main port was shut for five days and the main rail link with the capital Dhaka was also closed.
+In an update to customers, shipping line Maersk commented that, several weeks after the violent clashes started and a week after Hasina had fled the country, some factories had started to open up with limited staffing and truck movements were gradually increasing.
+It is not only the export of clothing which has been affected. It has been reported that there is a major shortage of foreign currency which is impacting on imports of capital goods from India such as machinery used in the textile sector. On top of this, many Indian manufacturers use Bangladeshi companies as vital components of regional value chains, out-sourcing production processes to the country. High inflation has also depressed the Bangladeshi consumer goods market impact on Indian exporters, limiting consumers’ ability to purchase foreign goods.
+The crisis has been developing for some time. In the summer of 2023, a union official was beaten to death when trying to negotiate a wage settlement at a garment factory. This raised ethical issues for global manufacturers sourcing goods from the country, raising a red flag for investors.
+The upheaval which has gripped Bangladesh indicates many of the problems involved in doing business with emerging markets. Political instability, caused by or resulting from financial volatility, is a consistent source of supply chain risk. This will be evident in Western markets over the coming weeks as shipments from Bangladesh are delayed causing headaches to retail sourcing managers. Having said that, although there will be significant effects on the textile sector, the contagion should be contained. Bangladesh is not as embedded in global value chains as many other countries across Asia, such as Vietnam. Bangladesh’s dependence on the export of low value finished products has held back the development of the economy but at the same time will limit the impact of the disruption to wider supply chain networks.
+
+
+
+
+
+---------------------
+
+category:
+event:
+headline: How the war in Ukraine impacts global supply chains
+article text: The Russian invasion of Ukraine has not only created a humanitarian crisis but led to extensive economic impacts. Ukraine’s economy is in disarray as the supply chains providing food, textiles, and other goods, along with the equipment and materials that support the country’s industrial and agricultural sectors, are either stressed or broken.
+At the same time, Western sanctions are also significantly impacting the Russian economy. Over 750 firms — mainly North American and European — have suspended or stopped operations in Russia. The Ruble has lost significant value, and economists expect a 25 per cent to 30 per cent decline in economic activity adjusted for inflation this year. Although Russia and Ukraine only accounted for about 4 per cent of global GDP in 2021, the inter-connectedness of the global supply chains has caused this conflict to have rippling effects on industrial supply chains.
+Nowhere is this more illustrative than in semiconductors or ‘chips’, an essential component in electronic devices that enable everything from iPhones to cars and future applications like artificial intelligence and quantum computing. Unanticipated rising demand for chips during the pandemic, lockdowns, disruptions due to recent fires in fabricating plants, and extreme weather events like the cold snap in Texas, have strained the chip supply chain and has created a worldwide shortage for chips.
+The Ukraine conflict has the potential to deepen this crisis further. Ukrainian companies, Ingas and Cryoin, account for about half the world’s neon production, which is critical for lasers used in chipmaking. Both Ingas, based in the beleaguered town of Mariupol, and Cryoin, based in the port town of Odesa, have shuttered operations due to the conflict.
+Under JIT systems, supply shortages and transportation disruptions can quickly stop production lines at tier 1 suppliers. For instance, production at Leoni AG and Japan’s Fujikura Ltd was stopped, directly impacting European car manufacturers. Volkswagen (VW) stopped production in its Zwickau plant in Germany, which makes ID.4 electric vehicles for both the European and American markets. VW’s plant in Wolfsburg also faces disruptions due to a lack of parts. BMW's Dingolfing plant, where their sedans are built, will also be idled due to missing parts.
+The conflict has also disrupted the China-Europe rail link that uses the corridor through Russia and Central Asia to carry automotive parts and finished cars. Alternate supply sources and transport routes take time to scale up to required levels in production. The semiconductor shortage is already crippling the automotive industry — the added disruption due to the war in Ukraine will lower global output by 1.5 million units.
+Ukraine also has a thriving cars-parts industry. It is a supplier of wiring harnesses — a critical component in automotive electrical systems. War-related production stoppages of this component have had a cascading effect throughout automotive supply chains. They are testing long-held efficiency measures like just-in-time (JIT) production systems that rely on getting parts delivered directly to the manufacturing floor as needed.
+
+
+
+---------------------
+
+category:political instability
+event: Terrorism
+headline:Houthis respond to Trump's airstrikes with ballistic missile attacks on US aircraft carrier
+article text:The attacks come just one day after US President Donald Trump ordered airstrikes on the group's stronghold territories in Yemen.
+The Houthis announced that they launched an attack comprising of 18 ballistic and cruise missiles, along with drones, targeting the USS Harry S Truman aircraft carrier and its accompanying warships in the northern Red Sea on Sunday.
+Houthi military spokesman Brigadier General Yahya Saree stated that the attack was a response to more than 47 US airstrikes - ordered by US President Donald Trump - on rebel-controlled areas in Yemen, including the capital Sanaa and the province of Saada, which borders Saudi Arabia.
+“The Yemeni Armed Forces will not hesitate to target all American warships in the Red Sea and the Arabian Sea in retaliation for the aggression against our country,” Saree declared.
+Both Washington and the Houthis have warned of further escalation following the US airstrikes, which aimed to deter the rebels from attacking military and commercial vessels in one of the world’s busiest shipping lanes.
+Recent attacks by Yemen’s Houthi rebels in the Red Sea and the Gulf of Aden are forcing marine cargo carriers to avoid these shipping lanes and instead sail all the way around the Cape of Good Hope. But the spillover from Israel’s war in Gaza is causing havoc around the world, not just for shipping companies but for the entirety of global trade, resulting in port congestion, delays in goods reaching their final destinations and soaring shipping costs. The Freightos and Drewry global shipping cost indices have risen by 150% and 180%, respectively, since December, and Goldman Sachs has forecast that crude oil could potentially reach $100 a barrel due to ongoing disruption. 
+These factors are squeezing the bottom line at many global companies this year, forcing CFOs to redouble their supply chain management efforts.
+
+
+
+
+
+---------------------
+
+category: Natural Disasters
+event: Heat stress
+headline: Probable Supply Chain Disruption due to heat stress and climate change in India
+article text:supply chain disruptions due to climate change could cause a projected net economic loss of between $3.75-24.7 trillion by 2060. India, in particular, due to close links with countries severely impacted by heat stress, is likely to be significantly affected. For instance, Indonesia and Malaysia – from where India sources raw material such as palm oil – are among those most affected by climate change. The entire value chain of India’s food sector contributes 13 percent of its GDP and the impact could be hugely disruptive.
+
+
+
+
+
+---------------------
+
+category: political instability
+event: political unrest
+headline: South Korea’s political unrest threatens the stability of global tech supply chains
+article text: As a major producer of memory chips, displays, and other critical tech components, South Korea plays an essential role in global supply chains.South Korea’s sudden political upheaval has raised fresh concerns for its economy and global supply chains, with analysts warning of potential disruptions to its critical technology exports.
+As a major producer of memory chips, displays, and other critical tech components, South Korea plays an essential role in global supply chains for products ranging from smartphones to data centers.
+Earlier this week, South Korea’s President Yoon Suk Yeol briefly declared a state of martial law, citing threats from North Korea and the need to counter domestic “anti-state forces.”
+The declaration, seen by many as a response to growing internal pressures, was swiftly overturned after lawmakers staged an unprecedented intervention in the National Assembly, unanimously voting to block the move.
+The reversal calmed immediate fears of an extended crisis, but the political instability sent ripples through financial markets and heightened uncertainty for South Korea’s role as a global technology hub.
+Tech supply chain risks
+South Korea’s semiconductor ecosystem, driven by industry leaders like Samsung and SK Hynix, is a cornerstone of global technology supply chains. Its dominance in critical areas like memory chips makes it indispensable to industries worldwide.
+“South Korea is a semiconductor superpower, especially in memory chips and camera sensor chips, accounting recently for some 18% of the world’s total semiconductor production capacity,” said Sujai Shivakumar, an expert at the Center for Strategic and International Studies (CSIS). “It accounts for 60.5% of the global memory semiconductor market, with a DRAM market share of 70.5% and a NAND market share of 52.6%.  The recent turmoil in South Korea only emphasizes the fragility of this network.” 
+This highlights broader concerns about the vulnerability of global supply chains, exacerbated in recent years by China’s assertive geopolitical actions and the disruptions caused by the COVID-19 pandemic.
+“CIOs, drawing from recent black swan events, should proactively prepare for such shifts,” said Prabhu Ram, VP of the industry research group at Cybermedia Research. “This would include measures such as fostering greater flexibility in IT infrastructure, equipping teams to respond swiftly to market developments, and leveraging advanced analytics tools for real-time supply chain insights to proactively anticipate and mitigate potential disruptions effectively.”
+Potential escalation concerns
+If current political challenges escalate, they could lead to further disruptions in operations and supply chains, Ram said. The stalemate is far from over, with uncertainty prevailing amid growing calls for the president’s impeachment.
+“Meanwhile, other countries are advancing their semiconductor capabilities, intensifying global competition in the tech sector,” Ram added.
+The US has been working to address the inherent fragility of supply chains by building stronger, trusted networks among allies and strategic partners. However, this strategy relies heavily on the political and economic stability of those nations.
+This approach also involves mitigating risks associated with single points of failure, and the political instability in South Korea underscores this need.
+“With the Chips and Science Act, the US has sought to lower dependence on Taiwan and South Korea, which currently collectively account for roughly half of global semiconductor fabrication capacity,” Shivakumar said. “The news from South Korea underlines the importance of this strategy of building more capacity in the US.”
+
+
+
+
+---------------------
+
+category: Political Instability
+event: bribery 
+headline: China says Foxconn employees probed for bribery, embezzlement
+article text:BEIJING, Oct 11 (Reuters) - China's government said on Friday that employees of Taiwan's Foxconn (2317.TW), opens new tab, the world's largest iPhone assembler, are being investigated for suspected taking of bribes and embezzlement, after Taiwan reported their detention.
+Taiwan's government said this week that four Foxconn employees had been detained in China under "quite strange" circumstances in Zhengzhou, home to a major Foxconn plant assembling Apple's (AAPL.O), opens new tab iPhones, on suspicion of the equivalent of "breach of trust".China's Taiwan Affairs Office, in a statement to Reuters, said the Foxconn employees are suspected of crimes including taking bribes and embezzlement and the investigation is ongoing. It did not state how many employees were being investigated.
+"The relevant departments are handling the case strictly in accordance with the law and are protecting their legal rights in accordance with the law," it added, without elaborating.
+Foxconn, formally known as Hon Hai Precision Industry, declined to comment.Taiwan's China policymaking Mainland Affairs Council said this week that Foxconn had stated the company had "suffered no losses and that the four employees had done nothing to harm the company's interests".
+The case may be connected to corruption and abuse of power by a small number of Chinese security officials, the council added, without giving details.
+Democratically governed Taiwan, which China claims as its own territory, has repeatedly warned its citizens to be aware of the potential dangers of visiting the country.
+In June, Taiwan's government raised its travel warning for China, telling its citizens not to go unless absolutely necessary, following a threat from Beijing to execute those deemed "diehard" Taiwan independence supporters.
+
+
+
+
+
+---------------------
+
+category: political instability
+event: Sanctions
+headline:China ‘Disrupts’ U.S. Drone Supply Chain In Ukraine; Beijing’s Sanctions, Russian EW Sends Skydio In A Tizzy
+article text:In a major blow to the US drone manufacturing sector, Skydio, the country’s largest drone manufacturer and a key supplier to Ukraine’s military, is grappling with a critical supply chain crisis following recent sanctions by Beijing.
+The Chinese sanctions, imposed on October 11, prohibit Chinese entities from supplying vital components, including batteries. This development has prompted Skydio to urgently seek alternative suppliers to sustain its operations. 
+The Financial Times, citing sources, reported that the sanctions have left Skydio scrambling to find new partners while intensifying concerns among American officials regarding potential disruptions in US supply chains.
+The implications of this crisis are particularly severe given the ongoing support for Ukraine in its conflict with Russia, where Skydio’s drones have played a role in intelligence gathering and reconnaissance missions.
+The report added that in a bid to navigate this challenging landscape, Skydio’s CEO, Adam Bry, met US Deputy Secretary of State Kurt Campbell and engaged in discussions with senior White House officials. During these meetings, Bry underscored the urgency of the situation and the need for governmental support in countering the sanctions.
+According to Bry in a note to customers, “This is a clarifying moment for the drone industry.” The sanctions represent a strategic maneuver by China that could significantly undermine the competitive edge of US drone manufacturers and deepen global reliance on Chinese suppliers.Bry cautioned that this is an attempt to eliminate leading American drone companies, raising alarms within the US government regarding the implications for national security. 
+The crisis facing Skydio also highlights the vulnerabilities of US firms that depend on Chinese manufacturing and the increasing trepidation among foreign businesses about the potential repercussions of China’s security laws, which have been leveraged to detain local employees and execute corporate raids.  
+
+
+
+
+
+---------------------
+
+category: political instability
+cause: sanctions
+headline: Nornickel says new Western sanctions raise risk of metals market disruption
+article text:US and British sanctions imposed on Russian nickel, copper and aluminum will further increase price volatility and supply uncertainty, Russian metals-producing giant Norilsk Nickel said on Tuesday.
+In their latest round of Ukraine-related sanctions, Washington and London on Friday prohibited metal-trading exchanges from accepting new aluminum, copper and nickel produced by Russia and barred the import of the metals into the United States and Britain in order to disrupt Russian export revenue.
+The Kremlin on Monday said it considered the sanctions illegal and called them a double-edged sword that would hurt the interests of those imposing them.
+“Nornickel regrets this decision as it will further increase price volatility, supply uncertainty and lead to higher premiums, all of which will negatively affect consumers of these metals across the globe,” Nornickel said in a statement.
+It said the risk of market disruptions would rise, as liquidity would deteriorate and the cost of financing of critical industrial supply chains would increase.
+Russia is a major metals producer. Its share in global production is more than 5% of aluminum, 6% of refined nickel and 4% of copper. US and UK officials hope the latest sanctions will widen the discount for Russian metal not traded on exchanges.
+Nornickel intends to remain a “reliable supplier of products” and will continue to fulfil all its contractual obligations, said the company, which is a major supplier of copper and high-grade nickel. It is also the world’s largest producer of palladium.
+Russian aluminum producer Rusal, the world’s largest aluminum producer outside China, said on Monday the new sanctions would have no impact on its ability to supply aluminum to world markets.
+But Vedomosti newspaper on Tuesday quoted sources as saying that Rusal had asked the authorities for state support for the non-ferrous metals industry and reported risks to its production from the new sanctions.
+Some analysts did not expect an immediate supply shock as Nornickel and Rusal sell most of their metals under bilateral contracts and can continue to sell to other non-US or UK markets.
+Since February 2022, Nornickel and Rusal have shifted their focus to Asia, whose share in their revenues last year exceeded 50% and 38% respectively. The two companies are not subject to direct Western sanctions but some Western companies are avoiding dealings with them in what Moscow calls “voluntary self-sanctions”.
+
+
+
+
+
+---------------------
+
+category: political unrest
+event: political tension
+headline:The escalating tensions between Taiwan and China have the potential to impact not only the two nations but also the global economy and supply chains.
+article text:As tensions escalate between Taiwan and China, the Institute for Economics & Peace (IEP) has delved into the uncertainties surrounding the effects of this conflict on GDP and global supply chain demands in the recently published Global Peace Index (GPI). Taiwan, officially known as the Republic of China (ROC), remains an independent state, while China, referred to as the People’s Republic of China (PRC), seeks reunification, perceiving Taiwan as part of its territory. Although the PRC claims to pursue reunification through peaceful means, tensions persist on both sides, causing concern among the international community. China’s military prowess, which surpasses Taiwan’s capabilities has prompted scrutiny of its potential military strategies, raising doubts about peaceful intentions. 
+The power play and military build-up
+China’s display of military might and intimidation tactics has contributed to the rising tensions. Despite asserting a commitment to peaceful reunification, China’s military expenditure has been increasing, with significant investments in defence weapons and military growth. In contrast, Taiwan faces financial constraints and lacks comparable resources to counterbalance China’s power. The international community is closely monitoring China’s actions, as incidents like the recent Chinese military aircrafts that flew into the territorial area of Taiwan raise further concerns about potential conflicts. 
+Estimated economic impact
+According to the IEP, a Chinese blockade of Taiwan would result in a staggering estimated loss of USD 2.7 trillion within the first year. However, this figure is considered conservative, suggesting that the actual economic impact could be even more substantial. The blockade would have a profound effect on numerous Southeast Asian countries, causing significant disruptions across their economies. Specifically, IEP estimates a 2.8% decline in global economic output, almost double the loss experienced during the 2008 Global Financial Crisis. China’s economy would shrink by an estimated 7%, while Taiwan’s economy would face a devastating contraction of almost 40%. 
+Taiwan’s semiconductor industry and global supply chain
+Taiwan holds a prominent position in the global semiconductor industry, manufacturing chips that serve as vital components in various technologies, ranging from mobile phones to computers and even AI-powered weapons. In fact, Taiwan is a global leader in semiconductor production, boasting a 20% share of the total global capacity. Moreover, it holds a staggering 37% of the world’s logic semiconductors production capacity and an astonishing 92% of the world’s advanced logic semiconductors production capacity. This dominance makes Taiwan a crucial player in global trade for computers, electronics, and electrical equipment. China and several East Asian countries, including South Korea and Japan, heavily rely on imports of computer and electronic components from Taiwan. For example, the share of trade with Taiwan in this sector ranges from 10% for the Philippines to 21% for China. That is why a blockade on Taiwan would severely disrupt global supply chains, impacting industries that rely on complex electronics. 
+
+
+---------------------
+
+category: Political Instability
+event: Political tension
+headline:How South China Sea tensions threaten global trade
+article text:The post-COVID era has been punishing for global trade. Lockdowns and factory closures sparked supply chain delays worldwide and helped fuel decades-high inflation.
+The Suez Canal was closed for a week in 2021 after a container ship got stuck. Attacks on shipping by Yemen-based Houthis and Iran over the past 10 months have forced a rerouting of container vessels from the Red Sea via Africa
+And now China's military standoffs in the South China Sea could also impact the smooth flow of trade.
+How important is the South China Sea for world trade?
+Making up part of the western Pacific Ocean, the South China Sea sits between southern China, Taiwan, the Philippines, Indonesia, Vietnam, Thailand, Cambodia and Malaysia.
+About a third of global maritime trade passes through the 3.5 million square kilometer (1.4 million square mile) seaway annually, according to the United Nations Conference on Trade and Development (UNCTAD). 
+Around 40% of petroleum products traded globally are delivered via the sea every year.
+In 2016, an estimated $3.6 trillion (€3.29 trillion) worth of goods and commodities traveled the seaway, according to the Washington-based Center for Strategic and International Studies (CSIS). Another estimate put the figure as high as $5.3 trillion.
+Researchers at Duke University in North Carolina calculated that total trade through both the South China Sea and the East China Sea — which lies between China, the two Koreas and Japan — is worth $7.4 trillion per year.
+Tens of thousands of cargo vessels move through the South China Sea every year, carrying around 40% of China's, a third of India's and 20% of Japan's trade with the rest of the world, according to CSIS data. 
+Out of all of Asia, the three countries' economic security is most closely tied to the smooth running of the waterway. The South China Sea is a vital crossroads for both intra-Asian trade as well as for commerce with the rest of the world, especially Europe, the Middle East and Africa.
+
+
+
+
+
+---------------------
+
+category: Natural disaster
+event: Hurricane
+headline: Milton’s effects likely to ripple across global supply chains. Hurricane on track to upend movement of goods in Florida and far beyond
+article text:Milton is projected to make a direct hit on the Tampa Bay area, forcing the closure of major ports like Port Tampa Bay. Port Tampa Bay is a key hub for handling of imported goods such as petroleum products, steel, cement, aggregates, and food and beverages. Imports come from Brazil, Mexico, Canada, Colombia and Chile, as well as Germany, South Korea and China. The port also handles exports of phosphate, scrap metal, forest products, citrus products and a variety of manufactured goods including machinery, equipment and consumer products. The countries affected on the export side are China, India, Brazil, Japan, Mexico, Canada, the Netherlands and Belgium. The port is also a major cruise hub, contributing to the region’s tourism industry.
+The closure of the port will disrupt the flow of goods, leading to delays and congestion. With Tampa Bay out of commission, cargo ships will be diverted to other ports, potentially overwhelming their capacity and causing further delays along the Gulf and East coasts. This could exacerbate the congestion already present due to aftereffects of the International Longshoremen’s Association strike.
+Hurricane-force winds and flooding will likely lead to road and rail closures in affected areas, hindering the movement of goods inland. This will disrupt trucking and rail operations, further delaying deliveries and impacting supply chains. Even after the storm passes, damaged infrastructure and debris may limit access to ports, making it difficult for trucks and trains to pick up or deliver cargo.
+Strong winds and flooding could damage warehouses, distribution centers and other critical infrastructure, disrupting storage and fulfillment operations. This could lead to inventory losses and further delays in getting goods to consumers. Widespread power outages are expected, which could impact the operation of ports, transportation hubs and businesses involved in the supply chain.
+
+
+
+
+
+---------------------
+
+category: Infrastructure Issues
+event: Port congestion
+headline: Global ports grapple with congestion: A wake-up call for supply chains?
+article text: 76% of respondents in a recent LinkedIn poll cite port congestion as the primary issue disrupting global trade
+
+
+
+
+
+
+
+---------------------
+
+category: Infrastructure issues
+cause: Port closure
+headline: Ningbo Port Closure Triggers Global Supply Chain Disruptions
+article text:The global trade landscape has always been delicate, with recent incidents like the Red Sea crisis and the Baltimore bridge accident adding to the complexities. The sudden closure of China’s Ningbo Port due to a container explosion on the YM Mobility was initially perceived as a major disruption, but the swift reopening of the port within 80 hours has mitigated some of the expected consequences. While the closure of Ningbo Port, which handles nearly 29% of China’s total vessel traffic, initially appeared to be a seismic event in global trade, the quick resolution limited the implications. However, some impacts on supply chains were felt during the brief shutdown.
+The strategic importance of Ningbo Port
+Ningbo Port remains a key player in global logistics, facilitating the movement of goods between the Far East and major global markets like Europe and the United States. 
+Rising costs and delays: The immediate fallout
+Although the port was reopened within a short timeframe, the brief closure triggered disruptions across global trade routes. While the China-Europe corridor was initially expected to bear the brunt, trans-Pacific routes also experienced some variability in transit times. Notably, transit times from North America to China saw fluctuations during this period.
+West Coast transit times increased from 25 days in September 2023 to 33 days by July 2024. On the East Coast, transit times rose from 45 days in September 2023 to 48 days by July 2024.
+These delays, though relatively short-lived, highlight the vulnerabilities in global supply chains and underscore the importance of strategic planning to mitigate such disruptions.
+
+
+
+
+---------------------
+
+category:
+event:
+headline:Spirit Aerosystems plagued by parts shortages, supply chain instability
+article text:Spirit Aerosystems reported a 76% widening of its operating loss in Q4 as the manufacturer faced multiple supply chain challenges.
+Spirit and its suppliers experienced labor attrition, which fueled parts shortages and other disruptions last year, President and CEO Tom Gentile told analysts Tuesday. Expedited shipping of components to customers exacerbated the forward loss reported by the company.
+The company, a supplier to Boeing and other aerospace players, said its 737, 787 and Airbus 350 programs suffered various combinations of parts shortages, production disruptions, and increased freight, material and labor costs.
+
+
+
+
+
+---------------------
+
+category:
+event:
+headline:Germany: major motorway closure near Düsseldorf causes disruption
+article text:Drivers should expect disruptions in North Rhine-Westphalia, Germany, as the A59 motorway has been closed for several days.Due to urgent repairs, the Germany motorway towards Düsseldorf was closed to traffic yesterday. The A59 motorway towards Düsseldorf, on the section between Monheim and Düsseldorf-Garath, will remain closed until Saturday, 1 February, at 5 p.m. Roadworks are underway on this section, where cracked concrete slabs are being removed and replaced with an asphalt top layer.
+
+
+
+
+
+---------------------
+
+category:
+event:
+headline:Czech and Slovak motorway closures cause major disruption
+article text:Two key motorways in Central Europe are undergoing extensive renovations, leading to significant disruptions for motorists. The Czech D8 motorway and the Slovak D3 motorway will see tunnel closures, detours, and traffic restrictions in the coming weeks, impacting both domestic and international transport routes.
+
+
+
+
+
+---------------------
+
+category: Operational Risk
+event: Supplier employee misconduct
+headline:Thousands of euros fine for unfair competition in France
+article text:DREAL, the French regional authority responsible for road transport enforcement, has identified multiple violations and detained drivers from an Italian company that operates as a subcontractor for a well-known logistics provider.
+The detention of drivers from the Italian subcontractor by DREAL could cause delivery delays for companies awaiting these parts, as the immobilization of vehicles directly hampers the timely transportation of goods. ​
+
+
+
+
+---------------------
+
+category: Operational Risk
+event: cargo theft
+headline:Cargo theft in December: nearly €37m in losses reported
+article text:A total of 430 incidents of supply chain theft were reported to TAPA (the Transported Asset Protection Association) in December last year. While this is significantly lower than the 1,736 thefts reported in July, the value of stolen goods was more than twice as high in December.
+In July, cargo worth a total of €16.2 million was stolen in the EMEA region (Europe, the Middle East, and Africa). However, in December, the total value of stolen goods reached approximately €36.9 million.
+December’s total losses were the second-highest monthly total recorded by the TAPA EMEA Intelligence System (TIS) in 2024, with only November reporting a higher figure (€40.2 million). In comparison, October and September saw recorded losses of around €23.5 million and €19.3 million, respectively.
+High average loss
+The largest single incident involved the interception of a shipment of counterfeit goods by border guards in Durban, South Africa, on 19 December. The reported value of the seized goods exceeded €10.2 million, significantly increasing the average loss per incident recorded in December.
+Other major incidents included the violent theft of a vehicle on 20 December and the loss of 300 luxury handbags, collectively worth €1 million.
+
+
+
+
+
+---------------------
+
+category: Operational Risk
+event: Infrastructure hazard
+headline: Aerospace industry scrambles to deal with fallout from huge US factory fire
+article text:The fire, which caused no fatalities, is the latest in a string of supply setbacks in aerospace. This stadium-sized facility was crucial to the production of key parts, and some analysts warned that its loss could further strain the industry's ability to boost output.
+SPS products include titanium fasteners of the kind used to assemble carbon-fiber jets like the Boeing 787 and Airbus A350.
+Some fasteners produced at the factory are also highly specialized and not easily sourced by other manufacturers, analysts and industry executives said.Boeing and European rival Airbus (AIR.PA), opens new tab were already facing supply snags as they try to boost airplane output.
+"There's only so much inventory of this out there, and that something's going to have to change really fast to avoid potential (problems) that could affect production rates," said AeroDynamic Advisory Managing Director Kevin Michaels.
+In a letter sent to suppliers following the February 17 fire seen by Reuters, Boeing asked the companies whether they regularly used parts from the SPS factory, located in Jenkintown, and to explain the impact if SPS could not ship parts that were ordered.
+
+
+
+
+
+---------------------
+
+category: ESG
+event: unethical labor practices
+headline: Italian Court Reveals Dior’s Unethical Supply Chain And Puts Other Luxury Brands On Notice
+article text:A Milan court just placed LVMH’s Christian Dior brand under judicial administration for a year after an investigation found two of its Chinese-owned subcontractors based outside Milan had exploited their workers. This followed a similar judgment in April against Giorgio Armani for “culpably failing” to oversee its suppliers, according to Reuters.
+While Dior was not held criminally at fault, it found that Dior was negligent by failing to take “appropriate measures to check actual working conditions or technical capabilities of contracting companies.”
+The court’s investigation also alleged that such unethical manufacturing practices are systemic throughout Italy, where thousands of small foreign-owned manufacturers supply luxury brands with goods that can claim the prized “Made in Italy” label but are produced at “Made in China” prices.
+“It is not something sporadic that concerns single product lots, but a generalized and consolidated manufacturing method,” the filing stated, as luxury fashion brands seek to generate higher profits.
+Reuters also reported that the supply chains of some dozen other fashion brands are under investigation as Italian law requires companies outsourcing production to carry out adequate oversight of their suppliers.
+
+
+
+
+
+---------------------
+
+category:
+event:
+headline:Investor pressure on Nike builds over garment workers' rights
+article text:LONDON/NEW YORK, Sept 5 (Reuters) - Investor pressure on Nike (NKE.N), opens new tab is building ahead of Tuesday's annual shareholder meeting, with Norway's sovereign wealth fund pledging to back a resolution demanding the company consider ways it can improve working conditions at garment factories.
+Nike is struggling with sliding sales and also faces criticisms over its supply chain. Investment research firm MSCI downgraded its ESG (environmental, social and governance) rating for Nike in 2022 and 2023, and rates it as a "laggard" on supply chain labour standards.The resolution proposed by a group of investors including Domini Impact Equity Fund says current approaches in the industry "often fail to identify and remedy persistent rights abuses such as wage theft, inadequate health and safety or gender-based violence".
+Domini was among more than 60 investors last year to sign a joint letter to Nike urging it to pay $2.2 million in wages to workers at suppliers in Cambodia and Thailand whom rights groups said were denied severance pay owed to them after factory shutdowns during the pandemic. Reuters could not independently verify the allegations, and Nike has denied them.
+
+
+
+
+
+
+---------------------
+
+category: labor shortage 
+event: Lack of worker incentives
+headline: Supply Chains Disrupted as US East and Gulf Coast Ports Face Worker Strike
+article text: A large-scale dockworkers' strike has commenced at major ports along the East and Gulf coasts in the US, halting container traffic and disrupting a significant portion of the nation’s trade.
+The walkout, initiated by members of the International Longshoremen's Association (ILA) early on Tuesday (October 1), is expected to impact US imports and exports, and could send ripple effects through global supply chains.
+According to Bloomberg, ports from Maine to Texas have effectively ceased operations as a result of stalled negotiations between the ILA and the US Maritime Alliance (USMX) after months of discussions.
+The ILA, which represents approximately 45,000 dockworkers, is demanding better wages and a rollback of provisions on port automation. Primary points of contention between the parties center around the automation of port terminals, which the union argues threatens job security for its members.
+ILA President Harold Daggett has been vocal in opposing automation, stating that workers should not bear the burden of technological advancements that could lead to job losses.
+“We are prepared to fight as long as necessary, to stay out on strike for whatever period of time it takes,” he said.The union is also seeking higher wages and better working conditions in the face of inflation and rising living costs.
+The strike affects 14 major ports that handle roughly half of all US containerized trade, making it one of the largest recent disruptions to US port operations. Additionally, it's the first major strike of its kind in almost five decades.
+While the USMX has proposed wage increases and enhancements to worker benefits, including contributions to pension plans and healthcare options, the union has rejected these offers, calling for more substantial increases in pay and greater protections against the introduction of automated technologies in port operations.
+The strike follows months of warnings from the union, which had threatened to take action if no deal was reached by the Monday (September 30) deadline.
+
+
+
+
+
+
+
+---------------------
+
+category:
+event:
+headline:
+article text:
+
+
+
+
+
+---------------------
+
+category:
+event:
+headline:
+article text:
+
+
+
+
+
+---------------------
+
+category:
+event:
+headline:
+article text:
+
+
+
+
+
+
+

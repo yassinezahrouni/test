@@ -1,0 +1,1299 @@
+[
+        {
+          "input": "The Francis Scott Key Bridge, once the second-longest continuous truss bridge in the U.S., now lies partially submerged in the Patapsco River after a catastrophic cargo ship collision this week. Two people were injured, and six others presumed dead. The ship and mangled debris from the bridge have formed a wall in the water.",
+          "output": {
+            "event_type": "Environmental and Natural Risk",
+            "location": "Baltimore, Maryland, USA",
+            "severity": "High",
+            "potential_supply_chain_impact": 
+            [ {
+              "risk_type": "Logistics and Transportation Risk",
+               "description": "Complete blockage of maritime access can force rerouting and result in higher transportation costs and delays."
+              },
+              {
+                "risk_type": "Financial and Economic Risk", 
+               "description": "Disruptions at a major port may lead to significant economic losses for local and regional businesses."
+              },
+              {
+                "risk_type": "Operational and Labor Risk",
+               "description": "Damage to critical infrastructure can lead to inefficiencies and increased labor costs due to operational delays."
+               }
+              ],
+            "recommended_action": "Reroute shipments to alternative ports immediately, increase buffer stocks for critical goods, and develop contingency plans for prolonged disruptions.",
+            "rationale": "The collision resulted in severe structural damage and debris accumulation, creating hazardous conditions that can obstruct maritime access and disrupt port operations. This scenario raises risks across logistics, economic stability, and operational efficiency, necessitating immediate alternative routing and contingency measures to safeguard the supply chain."
+          }
+        },
+        { "input": "Strike action at ports on the US East and Gulf Coast ended last night, Thursday, after a new wage agreement was reached. The strike lasted three days and at 5am (Eastern Time) today, Friday, there were 44 ships queuing to enter affected ports and more than 120 en route.", 
+          "output": { 
+            "event_type": "Operational and Labor Risk", 
+            "location": "US East and Gulf Coast Ports", 
+            "severity": "Medium", 
+            "potential_supply_chain_impact": 
+              [ { "risk_type": "Logistics and Transportation Risk",
+                  "description": "Accumulated vessel queues can delay cargo processing and disrupt shipping schedules." 
+                }, 
+                { "risk_type": "Financial and Economic Risk", 
+                  "description": "Operational delays may lead to increased costs and potential financial losses." 
+                }, 
+                { "risk_type": "Operational and Labor Risk", 
+                  "description": "Residual operational pressures could strain port resources and result in inefficiencies." 
+                } ], 
+            "recommended_action": "Closely monitor port operations, reroute urgent cargo as necessary, communicate delays clearly to stakeholders, and plan for possible continued disruptions.", 
+            "rationale": "The strike, despite ending with a new wage agreement, left operational challenges as evidenced by significant vessel queues. These conditions can delay cargo processing, elevate costs, and strain port resources, making proactive monitoring and contingency measures essential to mitigate further disruptions." } 
+        },
+        {
+          "input": "The world’s major shipping companies say they won’t be sending vessels back to the Red Sea any time soon despite a pledge by Iran-backed Houthi militants in Yemen not to attack them as long as the ceasefire in Gaza holds. Since November 2023, the Houthis have launched missile and drone attacks against roughly 190 commercial and naval ships in the Red Sea’s Bab al-Mandab Strait.",
+          "output": {
+            "event_type": "Political and Regulatory Risk",
+            "location": "Red Sea, Bab al-Mandab Strait",
+            "severity": "High",
+            "potential_supply_chain_impact": [
+              {
+                "risk_type": "Logistics and Transportation Risk",
+                "description": "Extended shipping routes can cause significant delays, longer transit times, and congestion at alternative ports due to unpredictable scheduling."
+              },
+              {
+                "risk_type": "Financial and Economic Risk",
+                "description": "Longer voyages can lead to increased freight rates, higher fuel usage, and elevated insurance premiums, impacting overall operational costs."
+              },
+              {
+                "risk_type": "Environmental and Natural Risk",
+                "description": "Increased vessel speeds and longer distances may result in higher carbon emissions, challenging sustainability targets."
+              },
+              {
+                "risk_type": "Operational and Labor Risk",
+                "description": "Unpredictable shipping schedules may disrupt production timelines and supply chain planning, potentially leading to temporary shutdowns."
+              }
+            ],
+            "recommended_action": "Diversify transportation routes and methods, increase safety stocks, adopt nearshoring strategies, and closely monitor geopolitical developments for rapid response.",
+            "rationale": "The ongoing missile and drone attacks in the Bab al-Mandab Strait create an uncertain maritime environment that forces shipping companies to avoid traditional routes. This not only increases costs and transit times but also introduces financial, environmental, and operational risks, making proactive diversification and contingency planning essential."
+          }
+        },
+        {
+          "input": "The Houthi attacks on Red Sea shipping have selectively targeted international vessels. Shippers from certain countries have had to avoid the Red Sea route, altering their typical shipping paths.",
+          "output": {
+            "event_type": "Geopolitical and Security Risk",
+            "location": "Red Sea, Bab al-Mandab Strait",
+            "severity": "High",
+            "potential_supply_chain_impact": [
+              {
+                "risk_type": "Logistics and Transportation Risk",
+                "description": "Disruption of key maritime trade routes may necessitate rerouting around Africa, leading to increased shipping times and costs."
+              },
+              {
+                "risk_type": "Financial and Economic Risk",
+                "description": "Elevated operational expenses due to longer voyages and higher insurance premiums may strain budgets of exporters and importers."
+              },
+              {
+                "risk_type": "Competitive Imbalance",
+                "description": "Selective disruptions may create unequal shipping conditions for firms based in different countries, affecting global competition."
+              }
+            ],
+            "recommended_action": "Diversify transportation methods, secure alternative maritime routes, increase inventory buffers for critical goods, and monitor regional geopolitical developments to inform timely operational decisions.",
+            "rationale": "Targeted security threats in the Red Sea region compromise one of the world's busiest shipping lanes. As some carriers avoid the region, rerouting increases delivery times and costs, which can ripple across supply chains. Taking proactive measures such as route diversification and inventory management can reduce vulnerability to future disruptions."
+          }
+        },        
+        {
+          "input": "China’s Commerce Ministry banned exports of gallium, germanium, and other critical materials. China controls about 90% of the world's production of these critical materials.",
+          "output": {
+            "event_type": "Geopolitical and Trade Risk",
+            "location": "China",
+            "severity": "High",
+            "potential_supply_chain_impact": [
+              {
+                "risk_type": "Supply and Demand Risk",
+                "description": "A sudden halt in exports of critical materials can lead to global shortages, particularly in industries dependent on semiconductors and high-tech manufacturing."
+              },
+              {
+                "risk_type": "Financial and Economic Risk",
+                "description": "Reduced availability of key inputs may result in price volatility, increased production costs, and economic strain across affected sectors."
+              },
+              {
+                "risk_type": "Operational and Labor Risk",
+                "description": "Manufacturers may face delays or stoppages while searching for alternative sources or adapting production processes, impacting labor and productivity."
+              }
+            ],
+            "recommended_action": "Identify and engage with alternative international suppliers, increase investments in material recycling and recovery technologies, and develop strategic reserves to ensure continuity.",
+            "rationale": "The restriction on exports of critical materials by a dominant global supplier introduces substantial supply-side pressure. This creates vulnerabilities in downstream industries, especially those reliant on semiconductors. Diversifying sourcing strategies and building resilience through stockpiles and recycling can mitigate the risks stemming from such trade actions."
+          }
+        },
+        {
+          "input": "Tensions between the US and Panama have escalated over accusations by the US government that the Panama Canal is under significant influence from the Chinese Communist Party, with threats of intervention being considered.",
+          "output": {
+            "event_type": "Political and Regulatory Risk",
+            "location": "Panama Canal",
+            "severity": "Medium",
+            "potential_supply_chain_impact": [
+              {
+                "risk_type": "Logistics and Transportation Risk",
+                "description": "Geopolitical tensions could result in restricted or delayed access to the Panama Canal, a critical global shipping route."
+              },
+              {
+                "risk_type": "Political and Regulatory Risk",
+                "description": "Heightened political friction may introduce new regulations or intervention measures that complicate international trade flows."
+              },
+              {
+                "risk_type": "Operational and Labor Risk",
+                "description": "Sudden route changes or diplomatic escalations may lead to operational inefficiencies and disruptions for transport companies."
+              }
+            ],
+            "recommended_action": "Monitor diplomatic developments closely, assess and prepare alternative shipping routes, and build inventory buffers for time-sensitive goods.",
+            "rationale": "The Panama Canal is a major artery for global trade, especially for time-critical industries such as automotive. Political instability or regulatory intervention in this region could create chokepoints or require costly rerouting. Proactive route planning and inventory management can help mitigate these emerging risks."
+          }
+        },        
+        {
+          "input": "The United States is working to restrict mainland China from buying advanced semiconductor technology—particularly equipment for manufacturing, inspecting, and testing cutting-edge chips of 7nm and below—while simultaneously investing in its own domestic chip industry. Mainland China continues to make advancements in semiconductor and automotive technologies, including autonomous driving.",
+          "output": {
+            "event_type": "Political and Regulatory Risk",
+            "location": "United States and China",
+            "severity": "High",
+            "potential_supply_chain_impact": [
+              {
+                "risk_type": "Political and Regulatory Risk",
+                "description": "Heightened trade restrictions and policy measures may limit the availability of critical semiconductor technology and create regulatory hurdles for companies operating in affected regions."
+              },
+              {
+                "risk_type": "Supply and Demand Risk",
+                "description": "Potential imbalances in global chip supply due to restricted access to high-end manufacturing equipment."
+              },
+              {
+                "risk_type": "Financial and Economic Risk",
+                "description": "Market volatility and increased operational costs may arise due to geopolitical tensions and uncertainty around future regulations."
+              }
+            ],
+            "recommended_action": "Diversify the supplier base across geopolitical regions, invest in alternative chip technologies, and establish strategic reserves of critical components.",
+            "rationale": "Efforts by the U.S. to restrict China's access to semiconductor equipment could reshape global chip supply dynamics. As advanced chips are essential for numerous industries, any regulatory or geopolitical shift can result in sourcing difficulties and cost volatility. Mitigation strategies focused on diversification and resilience are essential to maintain supply chain stability."
+          }
+        },        
+        {
+          "input": "Two weeks after Hurricane Helene slammed the East Coast, resulting in at least 230 deaths and extensive infrastructure damage, Hurricane Milton is expected to reach landfall near Tampa, Florida.",
+          "output": {
+            "event_type": "Environmental and Natural Risk",
+            "location": "Florida, USA",
+            "severity": "High",
+            "potential_supply_chain_impact": [
+              {
+                "risk_type": "Logistics and Transportation Risk",
+                "description": "Severe weather conditions and possible port damage can disrupt transportation routes, delay shipments, and increase shipping costs."
+              },
+              {
+                "risk_type": "Operational and Labor Risk",
+                "description": "Infrastructure damage may result in production halts, reduced workforce availability, and delays in manufacturing schedules."
+              },
+              {
+                "risk_type": "Environmental and Natural Risk",
+                "description": "Ongoing hurricane activity can cause widespread flooding and destruction, affecting access to critical supply chain nodes."
+              },
+              {
+                "risk_type": "Financial and Economic Risk",
+                "description": "Damage to infrastructure and operational delays can lead to significant financial losses for regional businesses and service providers."
+              }
+            ],
+            "recommended_action": "Activate contingency logistics plans, identify and secure alternative transportation routes, pre-position emergency inventory buffers, and maintain close communication with suppliers in the affected region.",
+            "rationale": "The imminent landfall of Hurricane Milton shortly after a major hurricane event increases the risk of compounded infrastructure damage, particularly around major ports in Florida. This can lead to widespread disruptions in transport, labor, and operations. Implementing contingency measures, securing alternative routes, and ensuring buffer inventory are essential to minimize delays and financial losses."
+          }
+        },
+        {
+          "input": "Aston Martin Lagonda is experiencing substantial financial difficulties, missing all 2024 targets. The automaker is burning cash at over £1 million daily, with net debt reaching £1.21 billion. The company has seen a notable decline in demand for its DBX model in China.",
+          "output": {
+            "event_type": "Financial and Economic Risk",
+            "location": "United Kingdom (Global Impact)",
+            "severity": "High",
+            "potential_supply_chain_impact": [
+              {
+                "risk_type": "Supply and Demand Risk",
+                "description": "Decreased consumer demand in key markets can lead to overstocked inventory and underutilization of production capacity."
+              },
+              {
+                "risk_type": "Operational and Labor Risk",
+                "description": "Production adjustments in response to market shifts may result in workforce reductions or operational downtime."
+              },
+              {
+                "risk_type": "Financial and Economic Risk",
+                "description": "High cash burn and rising debt levels may constrain the company’s ability to invest in operations and supplier relationships."
+              }
+            ],
+            "recommended_action": "Adjust production volumes to match regional demand trends, diversify market exposure, strengthen supplier partnerships, and implement financial controls to reduce cash outflows.",
+            "rationale": "The company's financial instability, marked by significant cash losses and high debt, poses operational and strategic risks. Additionally, declining demand in key regions like China requires agile production and inventory strategies. These measures are essential to preserve business continuity and mitigate cascading supply chain disruptions."
+          }
+        },
+          {
+            "input": "The United States is working to restrict mainland China from buying advanced semiconductor technology—particularly equipment for manufacturing, inspecting, and testing cutting-edge chips of 7nm and below—while bolstering its own domestic chip industry. Mainland China continues advancing semiconductor technology, reportedly capable of producing 5nm chips and leading in automotive technology and autonomous driving developments.",
+            "output": {
+              "event_type": "Political and Regulatory Risk",
+              "location": "US-China",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Political and Regulatory Risk",
+                  "description": "Restrictions on technology exports can increase geopolitical tensions and create regulatory uncertainty for global supply chains."
+                },
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Limited access to advanced chip-making equipment may lead to production constraints and reduced availability of critical semiconductors."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Escalating tensions and restricted trade flows may lead to cost increases, reduced margins, and delayed investments in semiconductor-related sectors."
+                }
+              ],
+              "recommended_action": "Diversify semiconductor suppliers, invest in localized chip production capabilities, and establish risk monitoring systems for geopolitical developments.",
+              "rationale": "Export restrictions on semiconductor technologies are likely to disrupt global chip supply chains by limiting equipment access and increasing uncertainty. These restrictions may hinder production and create economic instability in tech-dependent industries. Diversification, localization, and proactive monitoring can help companies manage these risks and maintain operational continuity."
+            }
+          },          
+          {
+            "input": "The Democratic Republic of Congo has lodged criminal complaints against Apple subsidiaries in France and Belgium, accusing the company of involvement in sourcing minerals such as tin, tantalum, and tungsten from mines under investigation for human rights concerns. Apple has previously stated efforts to ensure responsible sourcing.",
+            "output": {
+              "event_type": "Political and Regulatory Risk",
+              "location": "Democratic Republic of Congo",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Political and Regulatory Risk",
+                  "description": "Ongoing legal proceedings and regulatory scrutiny can create compliance burdens and threaten relationships with key suppliers."
+                },
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Disruptions in the availability of critical minerals may arise if certain mining operations are restricted or de-certified."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Negative public attention and possible penalties may increase operational costs and damage brand reputation."
+                }
+              ],
+              "recommended_action": "Strengthen supplier due diligence, perform third-party audits of mineral sourcing, diversify sources of critical materials, and maintain open communication with stakeholders regarding responsible sourcing policies.",
+              "rationale": "The criminal complaints raise concerns about ethical sourcing practices and expose companies to reputational and regulatory risks. Strengthening due diligence and sourcing diversification reduces dependency on high-risk regions while helping ensure continued compliance with international standards and stakeholder expectations."
+            }
+          },
+          
+          {
+            "input": "Amnesty International reports severe human rights abuses, including child labor, in cobalt mines in the Democratic Republic of Congo. The report references complex supply chains involving major multinational corporations.",
+            "output": {
+              "event_type": "Operational and Labor Risk",
+              "location": "Democratic Republic of Congo",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Operational and Labor Risk",
+                  "description": "Allegations of labor abuses can disrupt mining operations and damage brand integrity, especially when linked to unethical practices such as child labor."
+                },
+                {
+                  "risk_type": "Political and Regulatory Risk",
+                  "description": "Such reports may trigger international regulatory scrutiny, leading to stricter compliance requirements and possible legal consequences."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Reputational damage, consumer backlash, and legal exposure can increase operational costs and reduce revenue for companies linked to unethical sourcing."
+                }
+              ],
+              "recommended_action": "Enforce robust ethical sourcing policies, conduct independent third-party audits of mineral supply chains, invest in traceability technologies, and engage with suppliers to ensure labor standards are met.",
+              "rationale": "The reported labor abuses present serious ethical, legal, and reputational risks for companies sourcing cobalt from the DRC. Proactive monitoring and enforcement of ethical sourcing standards are necessary to mitigate the risk of association with human rights violations and ensure long-term supply chain resilience."
+            }
+          },
+          
+          {
+            "input": "Eskom's investigation reveals procurement fraud and corruption at its Kusile Power Station in South Africa. Authorities have arrested six individuals in connection with insider collusion, inflated contracts, and weak oversight within the organization.",
+            "output": {
+              "event_type": "Financial and Economic Risk",
+              "location": "South Africa",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Mismanagement and fraudulent procurement can lead to financial inefficiencies, increased costs, and budget overruns."
+                },
+                {
+                  "risk_type": "Operational and Labor Risk",
+                  "description": "Corruption and lack of oversight may result in project delays, reduced performance, and decreased workforce morale."
+                },
+                {
+                  "risk_type": "Political and Regulatory Risk",
+                  "description": "Investigations and arrests can prompt stricter regulatory oversight and public sector scrutiny, potentially disrupting operations."
+                }
+              ],
+              "recommended_action": "Strengthen internal procurement controls, conduct regular audits, establish whistleblower protection channels, and enforce anti-corruption policies across the organization.",
+              "rationale": "The corruption investigation exposes systemic governance issues that can impact financial stability and operational continuity. Stronger oversight and accountability mechanisms are necessary to prevent recurrence, maintain project timelines, and ensure compliance with regulatory standards."
+            }
+          },
+          
+          {
+            "input": "Drivers for the Lithuanian haulier Rosteka initiated protests over unpaid wages, labor rights violations, and exploitation allegations. Authorities have categorized the situation as a labor conflict.",
+            "output": {
+              "event_type": "Operational and Labor Risk",
+              "location": "Kaunas, Lithuania",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Operational and Labor Risk",
+                  "description": "Labor unrest may lead to service interruptions, reduced workforce availability, and lower operational efficiency."
+                },
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Protests by transportation workers can result in delayed or canceled shipments and route disruptions."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Conflicts between workers and employers may lead to increased labor costs, fines, or reputational harm for partner companies."
+                }
+              ],
+              "recommended_action": "Establish clear labor standards for logistics partners, monitor working conditions through audits, engage in early conflict resolution, and diversify transport providers to maintain continuity.",
+              "rationale": "The labor protest indicates unresolved issues in employment practices that can directly impact the stability and reliability of transportation services. Ensuring ethical labor standards and having contingency plans for logistics disruptions are essential for maintaining consistent supply chain performance."
+            }
+          },
+          
+          {
+            "input": "Critical minerals such as rare earth elements, lithium, cobalt, and nickel are increasingly affected by rising global demand, evolving political and regulatory conditions, and constrained production capacity.",
+            "output": {
+              "event_type": "Supply and Demand Risk",
+              "location": "Global",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Rising demand for critical minerals alongside limited extraction and refining capacity may lead to raw material shortages."
+                },
+                {
+                  "risk_type": "Political and Regulatory Risk",
+                  "description": "Geopolitical tensions and evolving regulations could restrict access to mineral-rich regions or introduce new compliance requirements."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Market volatility and escalating prices for critical inputs can increase production costs and reduce profitability."
+                }
+              ],
+              "recommended_action": "Diversify supplier base across multiple geographies, build strategic reserves of key minerals, and establish long-term contracts with trusted suppliers to manage pricing and availability risks.",
+              "rationale": "The constrained global supply of critical minerals, when combined with increased demand from clean energy transitions, exposes supply chains to shortages, price shocks, and regulatory shifts. Proactive risk mitigation through diversification, stockpiling, and supplier agreements can reduce vulnerability and maintain production stability."
+            }
+          },
+          {
+            "input": "NATO and U.S. military forces are encountering increasing challenges in accessing critical minerals, driven by geopolitical tensions involving China and Russia, limited domestic production capacity, and rising demand linked to defense and renewable energy sectors.",
+            "output": {
+              "event_type": "Political and Regulatory Risk",
+              "location": "U.S. and NATO countries",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Heightened reliance on geopolitically sensitive regions for critical minerals can lead to supply bottlenecks and availability issues during times of conflict or diplomatic strain."
+                },
+                {
+                  "risk_type": "Political and Regulatory Risk",
+                  "description": "Export restrictions and international tensions may limit access to strategic resources, disrupting procurement planning and inventory security."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Scarcity of essential minerals can lead to inflationary pressures, elevated procurement costs, and financial uncertainty in defense and energy projects."
+                }
+              ],
+              "recommended_action": "Strengthen domestic and allied production capabilities, build and maintain strategic stockpiles of critical minerals, and establish long-term agreements with trusted international partners.",
+              "rationale": "The rising geopolitical tensions and limited domestic production capacity expose NATO and U.S. operations to the risk of mineral shortages. These minerals are essential for defense and renewable technologies. Strategic diversification, stockpiling, and diplomatic collaboration can reduce vulnerability and support continuity of critical programs."
+            }
+          },          
+          {
+            "input": "Aluminum prices rose after Emirates Global Aluminium temporarily halted bauxite exports from Guinea due to unresolved customs-related issues. The situation has drawn attention amid broader concerns around raw material availability.",
+            "output": {
+              "event_type": "Supply and Demand Risk",
+              "location": "Guinea (Global Impact)",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Interruptions in bauxite exports may constrain alumina production, reducing the supply of aluminum for downstream industries."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Disruptions and market uncertainty can drive price volatility, increasing procurement costs for aluminum-intensive manufacturers."
+                },
+                {
+                  "risk_type": "Political and Regulatory Risk",
+                  "description": "Export delays due to customs or regulatory complications can signal future trade risks and uncertainty in raw material flows."
+                }
+              ],
+              "recommended_action": "Diversify sourcing strategies for bauxite and alumina, maintain safety stock of critical raw materials, and engage with export country authorities to anticipate and navigate regulatory developments.",
+              "rationale": "The suspension of exports due to customs complications highlights the vulnerability of global supply chains to regulatory and logistical bottlenecks. Given the importance of bauxite for aluminum production, sourcing alternatives and regulatory awareness are essential to mitigate supply risks and avoid cost spikes."
+            }
+          },
+          
+          {
+            "input": "Aerospace supplier Incora has filed for bankruptcy following a period of financial difficulties. The company faced challenges related to delayed shipments and extended lead times within its operations.",
+            "output": {
+              "event_type": "Financial and Economic Risk",
+              "location": "Global Aerospace Industry",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Bankruptcy of a key supplier can disrupt financial flows and create cascading risks throughout interconnected aerospace supply chains."
+                },
+                {
+                  "risk_type": "Operational and Labor Risk",
+                  "description": "Extended lead times and missed deliveries can delay assembly lines and maintenance schedules, reducing operational efficiency."
+                },
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Unreliable supplier performance may lead to difficulty in meeting production targets and erode customer confidence."
+                }
+              ],
+              "recommended_action": "Conduct regular financial health assessments of critical suppliers, establish multi-sourcing strategies, and build inventory buffers for high-risk components.",
+              "rationale": "The bankruptcy of a major aerospace supplier underscores the importance of financial resilience and operational reliability. Supplier failure can severely impact production timelines and maintenance capabilities. Proactive risk management through diversification and financial monitoring reduces the chance of disruption."
+            }
+          },
+          
+          {
+            "input": "Supply chain managers are advised to develop strategies for evaluating the financial condition of their suppliers, particularly in relation to liquidity challenges. A survey found that a significant portion of participants had encountered issues stemming from financially unstable suppliers. Best practices suggest monitoring financial indicators, diversifying the supplier base, and considering pre-payment methods to reduce exposure.",
+            "output": {
+              "event_type": "Financial and Economic Risk",
+              "location": "Global",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Suppliers facing liquidity issues may become unable to fulfill orders, leading to disruptions in the supply chain."
+                },
+                {
+                  "risk_type": "Operational and Labor Risk",
+                  "description": "Unexpected supplier failures can halt operations, reduce efficiency, and require urgent procurement of alternative sources."
+                }
+              ],
+              "recommended_action": "Continuously monitor supplier financial health, diversify sourcing strategies, establish early warning systems, and maintain safety stock levels.",
+              "rationale": "Financial instability among suppliers can trigger cascading disruptions across supply chains. Early detection of risk, proactive diversification, and preparedness through buffer inventories can ensure continuity in the face of supplier insolvencies."
+            }
+          },
+          {
+            "input": "With declining demand and rising interest rates, concerns about financial instability in supplier networks are increasing. The bankruptcy of Mitchell Gold Co. is one recent example drawing attention to the vulnerabilities in supplier ecosystems. Analysts are highlighting broader risks of financial distress across the supply chain landscape.",
+            "output": {
+              "event_type": "Financial and Economic Risk",
+              "location": "Global",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Supplier bankruptcies driven by unfavorable economic conditions may lead to sudden disruptions and financial losses."
+                },
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "A shrinking supplier base due to insolvencies can impair the ability to meet demand and increase procurement costs."
+                }
+              ],
+              "recommended_action": "Conduct regular financial assessments of suppliers, build alternative supplier relationships, and implement contingency plans to manage supply continuity.",
+              "rationale": "The combination of macroeconomic stressors and supplier bankruptcies introduces systemic risk into the supply chain. Proactive financial monitoring, strategic supplier diversification, and resilience planning are critical to reducing exposure to cascading disruptions."
+            }
+          },
+          
+          {
+            "input": "A 7.3-magnitude earthquake struck Japan’s Fukushima Prefecture, resulting in power outages for one million homes and triggering landslides. Authorities reported no major structural damage to manufacturing facilities.",
+            "output": {
+              "event_type": "Environmental and Natural Risk",
+              "location": "Japan, Fukushima Prefecture",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Earthquake-related damage and landslides may affect roads and railways, disrupting transportation routes for goods and raw materials."
+                },
+                {
+                  "risk_type": "Operational and Labor Risk",
+                  "description": "Power outages and safety concerns can lead to temporary suspensions or slowdowns in facility operations pending assessments."
+                }
+              ],
+              "recommended_action": "Conduct structural integrity assessments, implement disaster response protocols, and strengthen supply chain flexibility through geographic diversification.",
+              "rationale": "Although major damage was avoided, the earthquake disrupted essential infrastructure and power supply. These factors can still impact operational continuity and logistics, especially in a manufacturing-intensive region like Fukushima."
+            }
+          },
+          {
+            "input": "Hurricane Helene caused severe flooding and structural damage in Spruce Pine, North Carolina, a region known for its high-purity quartz mines. Mining operations were halted due to the storm’s impact.",
+            "output": {
+              "event_type": "Environmental and Natural Risk",
+              "location": "North Carolina, USA",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Disruption of quartz mining operations may result in raw material shortages essential for semiconductor manufacturing."
+                },
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Flooded roads and damaged infrastructure can delay material transport and hinder recovery efforts."
+                }
+              ],
+              "recommended_action": "Develop alternative sourcing strategies, invest in stockpiling critical raw materials, and reinforce infrastructure against severe weather events.",
+              "rationale": "The shutdown of quartz mines due to flooding directly threatens semiconductor supply chains reliant on high-purity inputs. Resilience strategies are needed to prevent cascading disruptions."
+            }
+          },
+          {
+            "input": "Since July, widespread flooding has affected one-third of Thailand’s provinces, marking the worst in fifty years. The disaster has caused significant human and economic losses, especially in regions with concentrated industrial zones.",
+            "output": {
+              "event_type": "Environmental and Natural Risk",
+              "location": "Thailand",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Operational and Labor Risk",
+                  "description": "Flooded industrial parks may cause widespread production halts, particularly in electronics and automotive sectors."
+                },
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Severe damage to transportation infrastructure could delay deliveries and increase recovery time for affected supply routes."
+                }
+              ],
+              "recommended_action": "Relocate critical operations out of high-risk flood zones, establish emergency logistics plans, and increase supplier diversification.",
+              "rationale": "Flooding in industrial hubs severely affects production and transport. Diversification and mitigation strategies are crucial for maintaining supply chain stability during extreme weather events."
+            }
+          },
+          
+          {
+            "input": "The Tohoku earthquake and tsunami struck the northeast coast of Japan, causing massive destruction to infrastructure, including roads, electricity networks, and ports.",
+            "output": {
+              "event_type": "Environmental and Natural Risk",
+              "location": "Japan, Tohoku Region",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Severe disruptions in transportation networks can hinder the movement of goods and materials."
+                },
+                {
+                  "risk_type": "Operational and Labor Risk",
+                  "description": "Damage to infrastructure may lead to temporary closures of manufacturing facilities."
+                },
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Interruptions in production can reduce the availability of goods, affecting global trade."
+                }
+              ],
+              "recommended_action": "Develop contingency sourcing plans, strengthen supply chain redundancy, and establish emergency logistics networks.",
+              "rationale": "The earthquake and tsunami caused extensive infrastructure damage, which is critical for manufacturing and transportation. This damage can lead to operational halts and logistical challenges, thereby disrupting the supply chain. Implementing contingency plans and enhancing redundancy are essential to mitigate these risks."
+            }
+          },
+          {
+            "input": "Port congestion and transportation delays in major Chinese ports have increased due to a surge in cargo volume and ongoing COVID-19 precautions, creating logistical bottlenecks and longer shipping times.",
+            "output": {
+              "event_type": "Logistics and Transportation Risk",
+              "location": "China, Global Impact",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Severe port congestion can delay shipments, increase lead times, and escalate transportation costs."
+                },
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Slow movement of goods can result in stockouts, inventory uncertainty, and delayed order fulfillment."
+                }
+              ],
+              "recommended_action": "Optimize logistics networks, explore alternative shipping routes, and improve demand forecasting to mitigate congestion impact.",
+              "rationale": "High cargo volumes and COVID-19 protocols have strained port capacity, delaying the movement of goods and impacting inventory availability. Strengthening logistics planning and exploring alternative routes can improve supply chain reliability."
+            }
+          },
+          {
+            "input": "Partial closure of China’s Yantian port occurred following a nearby COVID-19 outbreak, prompting restrictions and creating operational delays in shipping activities.",
+            "output": {
+              "event_type": "Health and Safety Risk",
+              "location": "China, Yantian Port",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Restrictions and closures at the port can create shipping backlogs, increasing lead times and logistics costs."
+                },
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Delays in shipping can lead to shortages of goods, contributing to demand fluctuations and pricing instability."
+                }
+              ],
+              "recommended_action": "Diversify port usage, strengthen risk management protocols, and increase buffer inventory to absorb potential delays.",
+              "rationale": "Health-related restrictions at critical logistics hubs can quickly disrupt the global flow of goods. Diversifying entry points and building buffer inventory can help manage the impact of unexpected shutdowns."
+            }
+          },
+          
+          {
+            "input": "The EU Data Act and GDPR regulations have introduced stricter compliance requirements for U.S.-based tech companies operating in Europe. These policies are also influencing data protection laws in countries such as India, Indonesia, and Colombia.",
+            "output": {
+              "event_type": "Political and Regulatory Risk",
+              "location": "Europe, Global Impact",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Political and Regulatory Risk",
+                  "description": "Evolving international data regulations may impose new legal obligations, requiring firms to adapt their compliance practices."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Additional costs stemming from complex data-sharing rules and compliance infrastructure may impact profitability."
+                }
+              ],
+              "recommended_action": "Monitor global regulatory trends, enhance internal compliance systems, and align cross-border data practices with emerging legal standards.",
+              "rationale": "The implementation of stringent data governance frameworks across multiple jurisdictions can lead to operational complexities and financial burdens for tech firms. Staying proactive in compliance and monitoring regulatory developments globally can reduce exposure to legal and economic risks."
+            }
+          },
+          {
+            "input": "The IMO 2020 regulation, limiting sulfur oxide emissions in the maritime industry, has led shipping companies to adopt fuel upgrades and equipment modifications, including slower transit speeds to meet environmental compliance.",
+            "output": {
+              "event_type": "Environmental and Regulatory Risk",
+              "location": "Global Maritime Industry",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Changes in fuel types and vessel speed adjustments may result in longer transit times and increased freight charges."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Higher investment in compliance measures can elevate costs for logistics providers and downstream supply chain partners."
+                }
+              ],
+              "recommended_action": "Anticipate freight rate fluctuations, renegotiate shipping contracts, and evaluate multimodal alternatives to maintain delivery timelines and cost efficiency.",
+              "rationale": "The IMO 2020 regulation enforces stricter environmental standards that drive cost increases and operational changes across maritime logistics. Strategic planning around freight procurement and delivery models can help mitigate associated risks."
+            }
+          },
+          {
+            "input": "The US-China trade war introduced a series of tariffs and trade restrictions as tensions escalated between the two countries. Businesses engaged in cross-border trade have had to adjust to changing policy environments and economic uncertainty.",
+            "output": {
+              "event_type": "Political and Regulatory Risk",
+              "location": "US-China Trade Relations",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Increased tariffs and trade barriers may reduce the availability and affordability of essential goods and materials."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Policy volatility can lead to market uncertainty, investment hesitation, and unanticipated operational cost surges."
+                }
+              ],
+              "recommended_action": "Pursue supply chain localization or regional diversification, maintain awareness of policy shifts, and implement strategies such as duty drawback programs or supplier reallocation.",
+              "rationale": "Trade disputes between major economies can cause sudden shifts in cost structures, supply availability, and business confidence. Reducing dependence on vulnerable trade routes and maintaining strategic flexibility are essential to mitigate such risks."
+            }
+          },
+          
+          [
+            {
+              "input": "The global pandemic triggered a wave of labor shortages that continues to affect industries worldwide. Sectors such as trucking, warehousing, and manufacturing report persistent challenges in finding and retaining skilled workers.",
+              "output": {
+                "event_type": "Operational and Labor Risk",
+                "location": "Global",
+                "severity": "High",
+                "potential_supply_chain_impact": [
+                  {
+                    "risk_type": "Operational and Labor Risk",
+                    "description": "Shortage of skilled workers may result in production slowdowns, delays in order fulfillment, and reduced output capacity."
+                  },
+                  {
+                    "risk_type": "Financial and Economic Risk",
+                    "description": "Increased competition for labor may drive wage inflation and raise overall operating costs."
+                  }
+                ],
+                "recommended_action": "Invest in workforce development, enhance automation in repetitive tasks, and implement retention strategies such as competitive compensation and workplace flexibility.",
+                "rationale": "Labor shortages hinder supply chain efficiency by limiting workforce availability and raising operational expenses. Strategic workforce planning and automation can help stabilize productivity and reduce over-reliance on scarce human resources."
+              }
+            },
+            {
+              "input": "Recent data from Taulia, a financial technology company, highlights a rise in delayed payments across industries. Many businesses are experiencing extended invoice cycles, especially affecting small and medium-sized enterprises (SMEs) with limited cash buffers.",
+              "output": {
+                "event_type": "Financial and Economic Risk",
+                "location": "Global",
+                "severity": "Medium",
+                "potential_supply_chain_impact": [
+                  {
+                    "risk_type": "Financial and Economic Risk",
+                    "description": "Delayed payments can disrupt supplier cash flow, increasing the risk of financial distress or business closures."
+                  },
+                  {
+                    "risk_type": "Supply and Demand Risk",
+                    "description": "Unstable supplier finances may result in inventory gaps and disruptions in production schedules."
+                  }
+                ],
+                "recommended_action": "Implement supplier financing programs, ensure prompt payment practices, and evaluate supplier financial health regularly.",
+                "rationale": "Late payments weaken the financial position of vulnerable suppliers, potentially destabilizing the broader supply chain. Proactive financial governance and fair payment policies help maintain supplier performance and continuity."
+              }
+            },
+            {
+              "input": "Inflation has become a pressing global issue, leading to rising costs for raw materials, energy, and transportation. Businesses are facing significant price increases across various inputs, including commodities and logistics services.",
+              "output": {
+                "event_type": "Financial and Economic Risk",
+                "location": "Global",
+                "severity": "High",
+                "potential_supply_chain_impact": [
+                  {
+                    "risk_type": "Financial and Economic Risk",
+                    "description": "Escalating input costs may erode profit margins and force price adjustments for customers."
+                  },
+                  {
+                    "risk_type": "Supply and Demand Risk",
+                    "description": "Increased costs may pressure suppliers' financial stability, leading to delayed payments or reliance on credit, which can disrupt fulfillment cycles."
+                  }
+                ],
+                "recommended_action": "Implement cost-control initiatives, diversify suppliers, and use hedging strategies to stabilize key input prices.",
+                "rationale": "High inflation increases the financial burden across supply chains, impacting both upstream and downstream operations. Proactive pricing and risk management strategies are essential to sustain cost-effective operations."
+              }
+            },
+            {
+              "input": "A software-related issue linked to CrowdStrike caused a large-scale IT outage that disrupted digital systems used in global transportation, including freight networks, airports, and port terminals. While some operations resumed quickly, others reported ongoing disruptions.",
+              "output": {
+                "event_type": "Technology Breakdown",
+                "location": "Global",
+                "severity": "High",
+                "potential_supply_chain_impact": [
+                  {
+                    "risk_type": "Logistics and Transportation Risk",
+                    "description": "IT disruptions can halt or delay transportation services such as cargo flights and port processing systems, leading to shipment backlogs."
+                  },
+                  {
+                    "risk_type": "Operational and Labor Risk",
+                    "description": "System outages may force temporary closures of logistics hubs, reducing throughput and increasing manual workload requirements."
+                  }
+                ],
+                "recommended_action": "Enhance IT system resilience with failover protocols, conduct regular cybersecurity audits, and establish partnerships with backup logistics providers.",
+                "rationale": "Technology failures can severely impede physical operations in logistics-heavy sectors. Ensuring IT redundancy and diversifying transportation channels can help mitigate risk exposure during unexpected digital outages."
+              }
+            }
+          ],
+          
+          {
+            "input": "The 2017 NotPetya cyberattack, disguised as ransomware, exploited compromised accounting software and spread across various industries, affecting thousands of organizations worldwide and causing billions in damages.",
+            "output": {
+              "event_type": "Technology Breakdown",
+              "location": "Global",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Cybersecurity Risk",
+                  "description": "Malware infection of enterprise systems may halt operations, corrupt data, and impact digital communication across global supply chains."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Cyberattacks can lead to unplanned costs, operational downtime, and uninsured losses affecting business continuity."
+                }
+              ],
+              "recommended_action": "Implement multi-layered cybersecurity defenses, conduct routine system audits, and maintain robust cyber insurance coverage.",
+              "rationale": "Cyberattacks targeting widely-used software can propagate rapidly and disrupt interconnected supply chain systems. Proactive defense, monitoring, and incident response planning are essential to reduce vulnerability and operational downtime."
+            }
+          },
+          {
+            "input": "Chinese New Year celebrations typically occur in February, during which factories across China and parts of East Asia close temporarily. This cultural event is often associated with increased travel and a temporary reduction in industrial activity.",
+            "output": {
+              "event_type": "Public Holiday",
+              "location": "China and East Asia",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Reduced port and freight activity may delay shipments and limit container availability."
+                },
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Manufacturing slowdowns can impact product availability and create backlog in delivery schedules."
+                }
+              ],
+              "recommended_action": "Advance procurement planning, build inventory buffers ahead of the holiday, and explore flexible logistics solutions.",
+              "rationale": "Temporary factory closures and workforce shortages during regional holidays can disrupt production and freight schedules. Preemptive planning ensures continuity and helps avoid shipment bottlenecks."
+            }
+          },
+          {
+            "input": "Severe droughts have affected major global waterways such as the Mississippi, Rhine, and Amazon rivers. These climate-related conditions have resulted in decreased water levels, limiting the navigability of commercial vessels.",
+            "output": {
+              "event_type": "Environmental and Natural Risk",
+              "location": "Global",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Low water levels restrict vessel capacity and movement, leading to rerouting and increased delivery times."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Transport disruptions raise shipping costs and increase the risk of product shortages across industries."
+                }
+              ],
+              "recommended_action": "Develop multi-modal transport options, invest in climate-resilient logistics infrastructure, and monitor waterway conditions in real time.",
+              "rationale": "Drought-induced navigation issues limit critical inland waterway transport, impacting cargo flow. Adaptive logistics strategies help maintain supply chain reliability despite environmental volatility."
+            }
+          },
+          {
+            "input": "Rolls-Royce is experiencing persistent delays in engine production due to sourcing challenges for materials like titanium and specialized electronic components. These issues have also impacted maintenance schedules and international delivery timelines.",
+            "output": {
+              "event_type": "Raw Material Shortage and Logistics Disruption",
+              "location": "Global",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Raw Material Shortage",
+                  "description": "Insufficient availability of key inputs such as titanium and electronic components may delay manufacturing processes."
+                },
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Shipping bottlenecks and supplier delays may hinder timely delivery of components and assembled engines."
+                }
+              ],
+              "recommended_action": "Diversify supplier networks, invest in material forecasting systems, and strengthen coordination with logistics partners.",
+              "rationale": "Disruptions in raw material sourcing and freight delays directly affect manufacturing throughput and delivery schedules. Enhancing visibility and redundancy in the supply network supports production continuity."
+            }
+          },
+          
+          {
+            "input": "A ransomware attack targeted supply chain software provider Blue Yonder. The attack affected internal systems such as inventory tracking, distribution tools, and workforce scheduling platforms used by multiple industries.",
+            "output": {
+              "event_type": "Technology Breakdown",
+              "location": "Global",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Cybersecurity Risk",
+                  "description": "Compromised software systems can lead to loss of visibility, planning disruptions, and delayed responses in logistics and inventory workflows."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Downtime in critical digital infrastructure can result in lost revenue, costly remediation efforts, and reputational harm."
+                }
+              ],
+              "recommended_action": "Strengthen cybersecurity defenses, ensure regular data backups, establish incident response protocols, and assess vendor software vulnerabilities.",
+              "rationale": "As reliance on digital systems for supply chain operations grows, cyberattacks on software providers can have cascading effects across industries. Proactive security measures and recovery planning are essential to maintain continuity and minimize damage during disruptions."
+            }
+          },
+          {
+            "input": "Political instability in Bangladesh has led to widespread unrest and the departure of the Prime Minister. The unrest has affected several sectors, including manufacturing and transportation, while foreign currency shortages challenge the import of essential equipment.",
+            "output": {
+              "event_type": "Political Instability",
+              "location": "Bangladesh",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Operational and Labor Risk",
+                  "description": "Civil unrest and governance breakdown may cause factory shutdowns, workforce unavailability, and stalled production."
+                },
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Unstable conditions may delay cargo processing at ports and disrupt inland transportation routes."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Limited foreign exchange reserves can hinder imports of key production machinery and materials."
+                }
+              ],
+              "recommended_action": "Monitor political conditions, diversify regional sourcing, and secure alternative logistics and financial channels for critical operations.",
+              "rationale": "Political instability in a key manufacturing region presents a multifaceted threat to operational continuity. Responsive sourcing and logistical adaptability are essential to reduce dependency on a single region and absorb shocks from sudden disruption."
+            }
+          },
+          {
+            "input": "The conflict involving Ukraine and Russia has resulted in sanctions, the withdrawal of numerous firms, and interrupted access to key materials like neon gas. Transportation corridors between China and Europe have also been affected.",
+            "output": {
+              "event_type": "Geopolitical Conflict",
+              "location": "Ukraine & Russia",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Raw Material Shortage",
+                  "description": "Disruption in neon gas exports from Ukraine can intensify shortages in semiconductor manufacturing."
+                },
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Instability in the region and rerouted freight corridors may delay shipments and raise shipping costs."
+                },
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Sanctions and production halts can reduce supply of goods and components, especially in automotive and industrial sectors."
+                }
+              ],
+              "recommended_action": "Identify substitute suppliers for critical inputs, increase local or regional sourcing, and reassess logistics strategies in politically volatile regions.",
+              "rationale": "The regional conflict disrupts material sourcing, transport logistics, and production capabilities across global industries. Developing alternative sourcing and transport routes enhances resilience to geopolitical shocks."
+            }
+          },
+          
+          {
+            "input": "The Houthis launched ballistic missile and drone attacks on the USS Harry S Truman aircraft carrier in response to U.S. airstrikes ordered by President Trump. The conflict has intensified maritime security threats in the Red Sea.",
+            "output": {
+              "event_type": "Political Instability",
+              "location": "Red Sea",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Heightened maritime security threats may force vessels to avoid the Red Sea and reroute through longer paths, increasing delivery times."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Rerouting and extended transit times could result in higher freight costs and broader inflationary impacts on goods."
+                }
+              ],
+              "recommended_action": "Secure alternative shipping routes, maintain visibility over global freight movements, and build cost buffers for logistics volatility.",
+              "rationale": "The military escalation in the Red Sea region raises significant risks to the stability of maritime shipping lanes. These conditions may lead to rerouting and cost surges, making proactive risk planning and route diversification essential."
+            }
+          },
+          {
+            "input": "Climate change-driven heat stress is increasingly affecting regions such as India, Indonesia, and Malaysia. India is considered particularly vulnerable due to its reliance on climate-sensitive agricultural and food imports.",
+            "output": {
+              "event_type": "Environmental and Natural Risk",
+              "location": "India & Southeast Asia",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Extreme heat events can reduce crop yields in supplier countries, affecting food ingredient availability and seasonal consistency."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Climate-related disruptions in agricultural regions may lead to long-term economic losses due to supply chain instability and decreased productivity."
+                }
+              ],
+              "recommended_action": "Invest in climate-adaptive sourcing strategies, improve supply chain transparency, and engage with suppliers on climate resilience planning.",
+              "rationale": "Prolonged heat stress can destabilize food production in key regions, posing risks to supply consistency and pricing. Proactive investments in resilience and sourcing diversification can safeguard against these environmental shocks."
+            }
+          },
+          {
+            "input": "Political unrest has erupted in South Korea following a brief declaration of martial law. The unrest has raised public concern over government stability and corporate operations.",
+            "output": {
+              "event_type": "Political Instability",
+              "location": "South Korea",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Political unrest may impact operations at semiconductor production facilities, delaying output and deliveries."
+                },
+                {
+                  "risk_type": "Operational and Labor Risk",
+                  "description": "Heightened uncertainty may lead to workforce disruptions and difficulties in long-term supply planning."
+                }
+              ],
+              "recommended_action": "Diversify semiconductor suppliers geographically, maintain safety stock of critical components, and monitor the political situation closely.",
+              "rationale": "South Korea is a key supplier of semiconductors and political instability there poses a significant risk to global tech supply chains. Ensuring alternative sourcing and building buffer inventory can reduce exposure."
+            }
+          },
+          {
+            "input": "China's government has launched an investigation into Foxconn employees over allegations of bribery and embezzlement. The investigation reportedly involves coordination with local officials and authorities.",
+            "output": {
+              "event_type": "Political and Regulatory Risk",
+              "location": "China",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Operational and Labor Risk",
+                  "description": "Investigations may disrupt internal operations and vendor coordination, slowing down production processes."
+                },
+                {
+                  "risk_type": "Political and Regulatory Risk",
+                  "description": "Regulatory actions or increased government scrutiny could introduce delays or compliance costs for companies operating in the region."
+                }
+              ],
+              "recommended_action": "Strengthen internal compliance protocols, assess the resilience of supplier networks in China, and engage with legal advisors for regulatory preparedness.",
+              "rationale": "The investigation into a major supplier raises the risk of operational delays and heightened regulatory attention. Strong governance and backup supplier planning are necessary to mitigate potential production interruptions."
+            }
+          },
+          
+          {
+            "input": "China has imposed sanctions restricting the supply of critical drone components, including batteries, to a U.S. drone manufacturer. This action has prompted the company to explore alternative suppliers amid concerns related to international trade tensions.",
+            "output": {
+              "event_type": "Political and Regulatory Risk",
+              "location": "China / U.S.",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Limitations on the export of essential drone components may create shortages and delays in production cycles."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Shifting to alternative suppliers may raise operational costs and impact delivery timelines."
+                }
+              ],
+              "recommended_action": "Identify and qualify diversified component suppliers, invest in local production capabilities, and collaborate with policymakers to reduce dependency on high-risk sources.",
+              "rationale": "Export sanctions on key components heighten supply chain vulnerability, especially in sectors like defense and technology. Proactively securing alternative suppliers and investing in domestic capacity reduces exposure to geopolitical disruptions."
+            }
+          },
+          {
+            "input": "US and British sanctions targeting Russian nickel, copper, and aluminum exports have led to increased uncertainty in the global metals market. Major Russian producers have voiced concerns over financial strain and reduced global access to these materials.",
+            "output": {
+              "event_type": "Political and Regulatory Risk",
+              "location": "Russia / Global",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Reduced access to Russian metals could result in shortages for industries reliant on nickel, copper, and aluminum."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Sanctions may trigger price fluctuations and raise procurement costs for manufacturers."
+                }
+              ],
+              "recommended_action": "Establish contracts with alternative suppliers, explore recycling or substitution options, and implement financial hedging to manage price volatility.",
+              "rationale": "Sanctions on a key global supplier increase the risk of raw material shortages and cost spikes. Diversifying sourcing and implementing financial safeguards can mitigate downstream disruptions."
+            }
+          },
+          {
+            "input": "Rising political tensions between Taiwan and China have led to increasing concerns regarding the stability of cross-strait relations. Taiwan plays a critical role in global semiconductor production, and any major escalation could have far-reaching global consequences.",
+            "output": {
+              "event_type": "Geopolitical Risk",
+              "location": "Taiwan / China",
+              "severity": "Very High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Geopolitical escalation could impact the availability of semiconductors used across electronics, automotive, and defense industries."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Disruption in Taiwan's semiconductor output may lead to global economic losses and instability across technology supply chains."
+                }
+              ],
+              "recommended_action": "Increase investment in domestic semiconductor manufacturing, diversify global sourcing options, and implement early-warning systems for geopolitical risks.",
+              "rationale": "Taiwan’s dominance in advanced semiconductor manufacturing creates a single point of failure. Diversification and regional manufacturing initiatives reduce dependency and improve resilience against geopolitical shocks."
+            }
+          },
+          {
+            "input": "Tensions in the South China Sea continue to escalate between China and neighboring nations. The region is a vital maritime passage for global trade, including energy and manufactured goods, and ongoing military activities have raised security concerns.",
+            "output": {
+              "event_type": "Geopolitical Risk",
+              "location": "South China Sea",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Potential military conflict or blockades could disrupt shipping lanes critical to global trade."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Increased freight costs and potential delays may lead to pricing volatility in energy and consumer goods markets."
+                }
+              ],
+              "recommended_action": "Monitor geopolitical developments, secure access to alternative shipping routes, and build buffer inventories for critical goods in case of maritime disruptions.",
+              "rationale": "The South China Sea serves as a major artery for international trade. Conflict or restricted access in the region could create widespread logistical disruptions and economic ripple effects. Preparedness through route planning and inventory management can reduce operational exposure."
+            }
+          },
+          
+          {
+            "input": "Hurricane Milton is forecasted to make landfall near Tampa Bay, bringing high winds and heavy rainfall. Authorities have issued warnings for possible infrastructure damage, including closures of ports, roads, and railways.",
+            "output": {
+              "event_type": "Natural Disaster",
+              "location": "Florida, USA",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Storm-related closures of ports and inland transport routes can delay shipments and create congestion across regional logistics networks."
+                },
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Temporary interruption of goods movement may lead to shortages of key materials such as petroleum, steel, and food products."
+                }
+              ],
+              "recommended_action": "Identify alternative ports and logistics routes, coordinate early shipment diversions, and monitor infrastructure restoration progress.",
+              "rationale": "Hurricanes can severely disrupt transportation infrastructure and port operations, delaying cargo flows and increasing congestion. Proactive planning and rerouting can help maintain continuity and reduce the impact on material availability."
+            }
+          },
+          {
+            "input": "Global port operations continue to face delays, with extended vessel wait times, higher transit costs, and longer lead times across international shipping lanes. Industry professionals highlight congestion as a recurring issue in major ports.",
+            "output": {
+              "event_type": "Infrastructure Issues",
+              "location": "Global",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Persistent congestion at ports may lead to extended delivery timelines and limited container availability."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Higher logistics and demurrage costs may erode margins and strain budgets across the supply chain."
+                }
+              ],
+              "recommended_action": "Optimize freight scheduling, negotiate flexible transport contracts, and collaborate with alternative ports or inland hubs.",
+              "rationale": "Ongoing port congestion can significantly slow the flow of goods and raise transportation costs. Improving logistics agility and working with partners to mitigate chokepoints can ease operational stress."
+            }
+          },
+          {
+            "input": "A container explosion at China’s Ningbo Port led to a temporary halt in operations. Port authorities conducted safety inspections before reopening the facility. The incident affected vessel movement for a short period.",
+            "output": {
+              "event_type": "Infrastructure Issues",
+              "location": "Ningbo, China",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Temporary disruption of port operations may cause vessel delays and rerouting of shipments, affecting lead times."
+                },
+                {
+                  "risk_type": "Financial and Economic Risk",
+                  "description": "Unexpected logistics adjustments may result in higher shipping fees and operational inefficiencies."
+                }
+              ],
+              "recommended_action": "Establish contingency protocols for high-traffic ports, strengthen partnerships with regional ports, and enhance monitoring of infrastructure risks.",
+              "rationale": "Unexpected infrastructure disruptions like explosions can halt trade flows and necessitate quick operational adjustments. A resilient logistics strategy helps reduce financial and timeline-related risks."
+            }
+          },
+          {
+            "input": "Spirit Aerosystems disclosed a significant quarterly operating loss, citing production and workforce challenges. The company is experiencing labor attrition, delayed part deliveries, and increased logistics expenses affecting major aviation programs.",
+            "output": {
+              "event_type": "Operational and Labor Risk",
+              "location": "Global",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Raw Material Shortage",
+                  "description": "Delayed part deliveries due to labor shortages and supplier issues can disrupt production schedules and delay order fulfillment."
+                },
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Increased reliance on expedited shipping raises freight costs and exposes supply chains to further instability."
+                }
+              ],
+              "recommended_action": "Enhance supplier development programs, invest in labor retention strategies, and implement demand-driven logistics planning.",
+              "rationale": "Labor shortages and supplier delays create cascading effects across production and delivery timelines. Investing in workforce stability and proactive logistics planning improves resilience and mitigates costly delays."
+            }
+          },
+          
+          {
+            "input": "The A59 motorway near Düsseldorf has been closed between Monheim and Düsseldorf-Garath for urgent repairs. The closure is expected to last several days and is affecting regional traffic patterns.",
+            "output": {
+              "event_type": "Infrastructure Issues",
+              "location": "Germany",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Temporary road closure can cause traffic congestion and delay freight movement in the region."
+                }
+              ],
+              "recommended_action": "Reroute deliveries through alternate highways, coordinate transport schedules to avoid peak congestion, and notify stakeholders of potential timing adjustments.",
+              "rationale": "Repair-related road closures on key transport routes can slow down trucking operations and increase transit time. Proactive logistical adjustments can reduce the severity of these delays."
+            }
+          },
+          {
+            "input": "Renovation works are underway on the Czech D8 and Slovak D3 motorways, resulting in tunnel closures, traffic restrictions, and detours along major Central European routes.",
+            "output": {
+              "event_type": "Infrastructure Issues",
+              "location": "Czech Republic & Slovakia",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Construction-related disruptions may delay shipments along key cross-border freight corridors in Central Europe."
+                }
+              ],
+              "recommended_action": "Adjust routing plans to bypass affected segments, revise delivery timelines, and maintain open communication with logistics partners.",
+              "rationale": "Renovation-induced detours can extend travel times and cause regional bottlenecks. Timely adjustments to route planning can help maintain supply chain continuity."
+            }
+          },
+          {
+            "input": "French authorities have detained drivers employed by an Italian subcontractor due to various transport regulation violations. The incident involves a well-known logistics provider.",
+            "output": {
+              "event_type": "Operational Risk",
+              "location": "France",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Driver detainment and immobilized vehicles can delay transportation services and affect shipment schedules."
+                }
+              ],
+              "recommended_action": "Audit subcontractor compliance with transport regulations, evaluate backup transport partners, and inform clients about possible delivery delays.",
+              "rationale": "Compliance issues with subcontractors can lead to enforcement actions that disrupt operations. Verifying compliance and having backup providers helps mitigate such risks."
+            }
+          },
+          {
+            "input": "TAPA recorded 430 global incidents of supply chain theft in December, with total losses nearing €37 million. Incidents ranged from counterfeit goods seizures to violent thefts of luxury cargo.",
+            "output": {
+              "event_type": "Operational Risk",
+              "location": "Global",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Cargo Theft",
+                  "description": "Escalating theft incidents result in financial losses and possible inventory shortages."
+                },
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "The increased threat of in-transit theft may lead to delays, rerouting, and additional security requirements."
+                }
+              ],
+              "recommended_action": "Enhance shipment tracking systems, adopt secure loading and unloading procedures, and work with transport providers to enforce anti-theft protocols.",
+              "rationale": "The rise in theft cases, particularly involving high-value goods, underscores the need for stricter transport security. Preventive measures can reduce risk exposure and safeguard cargo integrity."
+            }
+          },
+          {
+            "input": "A fire broke out at a major U.S. facility specializing in the manufacture of titanium fasteners used in aerospace components. The event has affected the facility’s operational capacity.",
+            "output": {
+              "event_type": "Operational Risk",
+              "location": "United States",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Infrastructure Hazard",
+                  "description": "Fire-related damage to a specialized production site can halt or slow component manufacturing."
+                },
+                {
+                  "risk_type": "Raw Material Shortage",
+                  "description": "Reduced output of titanium fasteners may impact downstream aerospace assembly processes."
+                }
+              ],
+              "recommended_action": "Source from alternative component suppliers, assess inventory levels of critical parts, and activate emergency production plans where applicable.",
+              "rationale": "Facility fires at niche manufacturers create bottlenecks for parts with limited global supply. Rapid sourcing alternatives and strategic stockpiling reduce the risk of prolonged production halts."
+            }
+          },
+          
+          {
+            "input": "An Italian court has placed Christian Dior under judicial administration due to issues related to the oversight of subcontractors. The case sheds light on labor practices within Italy’s luxury fashion industry, where several brands are under scrutiny for failing to uphold fair labor standards.",
+            "output": {
+              "event_type": "ESG",
+              "location": "Italy",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Unethical Labor Practices",
+                  "description": "Inadequate oversight of subcontractors may lead to worker exploitation, damaging brand reputation and trust."
+                },
+                {
+                  "risk_type": "Regulatory Compliance Risk",
+                  "description": "Legal action and investigations can result in operational delays, penalties, and increased compliance burdens."
+                }
+              ],
+              "recommended_action": "Conduct rigorous supplier audits, enforce labor standards across the supply chain, and enhance transparency to ensure accountability.",
+              "rationale": "Judicial intervention due to labor issues highlights systemic governance gaps. Strengthening oversight and transparency mechanisms is essential to reduce reputational and legal risks while promoting ethical labor practices."
+            }
+          },
+          {
+            "input": "Nike is facing mounting pressure from investors regarding labor conditions in its supplier network. Shareholder demands and concerns from institutional investors have emerged in response to labor rights issues reported at factories in Cambodia and Thailand.",
+            "output": {
+              "event_type": "ESG",
+              "location": "Global",
+              "severity": "Medium",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Unethical Labor Practices",
+                  "description": "Concerns over worker treatment may result in negative media coverage and reduced stakeholder confidence."
+                },
+                {
+                  "risk_type": "Regulatory Compliance Risk",
+                  "description": "Ongoing scrutiny could lead to stricter labor laws, regulatory investigations, and increased operational costs."
+                }
+              ],
+              "recommended_action": "Strengthen oversight of labor conditions, implement grievance mechanisms for workers, and engage with investors to address human rights concerns transparently.",
+              "rationale": "The investor-driven scrutiny over labor rights indicates heightened stakeholder expectations regarding ESG performance. Proactively addressing labor issues can mitigate reputational damage and prevent regulatory escalation."
+            }
+          },
+          {
+            "input": "Dockworkers have initiated a strike at major East and Gulf Coast ports in the United States. The labor action involves multiple ports and is driven by disputes over automation, wages, and working conditions.",
+            "output": {
+              "event_type": "Operational and Labor Risk",
+              "location": "United States (East and Gulf Coast Ports)",
+              "severity": "High",
+              "potential_supply_chain_impact": [
+                {
+                  "risk_type": "Logistics and Transportation Risk",
+                  "description": "Strikes at major container ports may result in shipment delays, congestion, and rerouting challenges."
+                },
+                {
+                  "risk_type": "Supply and Demand Risk",
+                  "description": "Extended port shutdowns can disrupt import/export flows, leading to inventory shortages and production delays."
+                }
+              ],
+              "recommended_action": "Establish alternate port access, increase inventory buffers for critical goods, and monitor union negotiations closely for early resolution signals.",
+              "rationale": "Labor strikes at key logistics hubs interrupt freight movement and strain time-sensitive supply chains. Proactive risk management through route diversification and inventory planning helps reduce vulnerability to prolonged disruptions."
+            }
+          }          
+
+      ]
+      
+
+      

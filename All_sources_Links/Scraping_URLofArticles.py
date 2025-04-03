@@ -1,31 +1,41 @@
 import sys
+import json
 import os
-sys.path.append("/Users/yassinezahrouni/coding/test/All_sources_Links") 
-from Checking_IfWebsiteURL_StillValid import check_page_validity_or_replace 
-import  re
+import re
 import datetime
 from urllib.parse import urlparse
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 import requests
 
-# 🔹 CHANGE THIS VARIABLE TO SCRAPE A DIFFERENT NEWS WEBSITE
-website = "https://www.jeuneafrique.com/pays/tunisie/"
+# **🔹 Get country & input JSON file from arguments**
+if len(sys.argv) < 3:
+    print("❌ Error: Missing arguments. Usage: python Scraping_URLofArticles.py <Country> <Input_JSON_Path>")
+    sys.exit(1)
 
-# 🔹 Extract only the base URL (without paths) from the given `website`
-parsed_website = urlparse(website)
-base_url = f"{parsed_website.scheme}://{parsed_website.netloc}"
+supplier_country = sys.argv[1]  # **Country from argument**
+input_json_path = sys.argv[2]   # **Input JSON file path**
 
+# **🔹 Output JSON Path**
+output_json_path = f"/Users/yassinezahrouni/coding/test/All_sources_Links/{supplier_country}_newsarticle_URLs.json"
 
-### **Step 1: Fetch Page Content Using Playwright (With Scrolling)**
+### **Step 1: Load Already Processed Websites**
+def get_already_processed_websites():
+    """Reads the existing JSON file to check which websites have already been processed."""
+    if not os.path.exists(output_json_path):
+        return set()  # No file yet → nothing processed
+    
+    with open(output_json_path, "r", encoding="utf-8") as f:
+        try:
+            existing_data = json.load(f)
+            return {entry["Source_name"] for entry in existing_data}  # Get unique website names
+        except json.JSONDecodeError:
+            return set()  # Handle JSON corruption (treat as empty)
+
+already_processed_websites = get_already_processed_websites()
+
+### **Step 2: Fetch Page Content Using Playwright**
 def fetch_page_with_playwright(url):
-
-    # check for validity of the website first, in case the website in the DB is not up to date
-    new_url = check_page_validity_or_replace(url)
-    if new_url:
-        url = new_url  # ✅ Only replace if a valid URL is found
-
-
     """Fetches the full page HTML using Playwright with scrolling and waiting."""
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -34,16 +44,16 @@ def fetch_page_with_playwright(url):
         )
         page = context.new_page()
         try:
+            print(f"🌍 Processing website: {url}")  # ✅ Print which website is currently being processed
             page.goto(url, timeout=60000)
-            page.wait_for_load_state("networkidle")  # Wait for full page load
+            page.wait_for_load_state("networkidle")
 
-            # **🔹 Scroll down to load dynamically loaded content**
             for _ in range(5):  
                 page.evaluate("window.scrollBy(0, document.body.scrollHeight)")
-                page.wait_for_timeout(2000)  
+                page.wait_for_timeout(2000)
 
-            content = page.content()  # Get the page's HTML content
-            print("\n🔍 DEBUG: Page Content Fetched ✅")  # Print confirmation
+            content = page.content()
+            print(f"✅ Successfully loaded page: {url}\n")  # ✅ Confirmation of successful page load
             return content
         except Exception as e:
             print(f"❌ Playwright failed to access {url}: {e}")
@@ -51,52 +61,21 @@ def fetch_page_with_playwright(url):
         finally:
             browser.close()
 
+# **🔹 Define Social Media Domains to Exclude**
+SOCIAL_MEDIA_DOMAINS = [
+    "facebook.com", "fb.com", "instagram.com", "linkedin.com", "twitter.com", "x.com",
+    "tiktok.com", "youtube.com", "reddit.com", "snapchat.com", "whatsapp.com",
+    "wa.me", "telegram.me", "t.me"
+]
 
-def is_article_page(url):
-    """Checks if a given URL contains article-related elements (headline, meta tags, long text)."""
-    try:
-        response = requests.get(url, timeout=5)
-        if response.status_code != 200:
-            return False  # Skip if page is not accessible
-    except requests.exceptions.RequestException:
-        return False  # Skip if request fails
+def is_social_media_url(url):
+    """Checks if the URL belongs to a social media platform."""
+    domain = urlparse(url).netloc.lower()
+    return any(social_domain in domain for social_domain in SOCIAL_MEDIA_DOMAINS)
 
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    # **🔹 Check for a meaningful `<title>` tag**
-    title = soup.title.string if soup.title else ""
-    if not title or len(title) < 10:  # Skip pages with very short/nonexistent titles
-        return False
-
-    # **🔹 Check for `<meta>` tags indicating it's an article**
-    meta_article = soup.find("meta", {"property": "og:type"})
-    if meta_article and "article" in meta_article.get("content", "").lower():
-        return True
-
-    meta_news = soup.find("meta", {"name": "news_article"})
-    if meta_news and "article" in meta_news.get("content", "").lower():
-        return True
-
-    # **🔹 Check if the page contains a `<time>` element**
-    if soup.find("time") or soup.find(attrs={"datetime": True}):  
-        return True
-
-    # **🔹 Check if there are large paragraphs of text (indicating a full article)**
-    paragraphs = soup.find_all("p")
-    total_text = " ".join([p.get_text() for p in paragraphs])
-    if len(total_text.split()) > 300:  # More than 300 words suggests an article
-        return True
-
-    return False  # Otherwise, it's not an article
-
-
-
-
-### **Step 2: Extract & Filter Article Links (No Date Filtering)**
 def extract_article_links(page_content, base_url):
-    """Extracts article links, converts relative URLs to absolute, and validates if they are actual articles."""
+    """Extracts article links, converts relative URLs to absolute, and filters out social media URLs."""
     if not page_content:
-        print("❌ No content retrieved, skipping extraction.")
         return []
 
     soup = BeautifulSoup(page_content, "html.parser")
@@ -104,55 +83,96 @@ def extract_article_links(page_content, base_url):
 
     for link in soup.find_all("a", href=True):
         url = link["href"]
-        if not url:  # Skip empty URLs
+        if not url:
             continue
 
-        # **🔹 Convert relative URLs to absolute using only the base domain**
+        # **🔹 Convert relative URLs to absolute using base URL**
         if url.startswith("http"):  
-            final_url = url  # Keep absolute URLs as they are
+            final_url = url
         elif url.startswith("/"):  
-            final_url = base_url + url  # Convert relative URLs using the cleaned base URL
-        elif url[0].isalnum():  # If it starts with a letter (A-Z, a-z) or number (0-9)
-            final_url = base_url + "/" + url  # Convert it to absolute by adding "/"
+            final_url = base_url + url  
+        elif url[0].isalnum():  
+            final_url = base_url + "/" + url  
         else:
-            continue  # Skip invalid URLs
+            continue  
+
+        # **🔹 Filter out social media links**
+        if is_social_media_url(final_url):
+            print(f"⚠️ Skipping social media link: {final_url}")
+            continue  
 
         # **🔹 Extract path segments from URL**
         path_segments = urlparse(final_url).path.strip("/").split("/")
-
-        # **🔹 Condition 1: At least one substring has 3+ hyphens ("-")**
         has_three_hyphens = any(segment.count("-") >= 3 for segment in path_segments)
-
-        # **🔹 Condition 2: At least one substring has 1 hyphen ("-") and at least 3 digits ("123")**
         has_hyphen_and_numbers = any(re.search(r"-.*\d{3,}", segment) for segment in path_segments)
 
-        # **🔹 Final Check: Either the page has article attributes OR it meets the URL conditions**
-        #if is_article_page(final_url) and (has_three_hyphens or has_hyphen_and_numbers):
-        if (has_three_hyphens or has_hyphen_and_numbers):
+        if has_three_hyphens or has_hyphen_and_numbers:
             unique_articles.add(final_url)
 
-    # Convert the set back to a sorted list of dictionaries
-    sorted_articles = sorted(unique_articles)  # Sorting URLs alphabetically
-    return [{"url": url} for url in sorted_articles]
+    print(f"✅ Found {len(unique_articles)} article links from {base_url}\n")  # ✅ Print the number of articles extracted
+    return sorted(unique_articles)
 
 
-
-
-### **Step 3: Run Everything**
+### **Step 4: Main Execution**
 def main():
-    # Fetch the page with Playwright
-    page_content = fetch_page_with_playwright(website)
+    # **🔹 Load Input JSON**
+    try:
+        with open(input_json_path, "r", encoding="utf-8") as f:
+            news_sources = json.load(f)
+        
+        # **Filter sources for the given country**
+        news_sources = [source for source in news_sources if source.get("Country") == supplier_country]
+        if not news_sources:
+            print(f"❌ No sources found for {supplier_country}. Exiting.")
+            sys.exit(1)
+    except FileNotFoundError:
+        print(f"❌ Error: {input_json_path} not found.")
+        sys.exit(1)
 
-    # Extract and filter article links (removing duplicates)
-    extracted_articles = extract_article_links(page_content, base_url)
+    # **🔹 Extract Articles from Each News Source**
+    all_articles = []
+    for source in news_sources:
+        source_name = source["name"]
+        source_url = source["link"]
+        country = source["Country"]
 
-    # Print the extracted articles
-    print("\n✅ Final Extracted Articles (Sorted):")
-    for article in extracted_articles:
-        print(f"📌 {article['url']}")
+        # **✅ Skip if already processed**
+        if source_name in already_processed_websites:
+            print(f"⚠️ Skipping already processed site: {source_name} ({source_url})\n")
+            continue  
 
-    print(f"\nTotal number of unique articles extracted: {len(extracted_articles)}")
+        print(f"🔍 Extracting from: {source_name} ({source_url})\n")
 
-# Run the main function
+        # **🔹 Fetch Page Content**
+        page_content = fetch_page_with_playwright(source_url)
+        base_url = f"{urlparse(source_url).scheme}://{urlparse(source_url).netloc}"
+
+        # **🔹 Extract Article Links**
+        extracted_links = extract_article_links(page_content, base_url)
+
+        for article_url in extracted_links:
+            all_articles.append({
+                "Source_name": source_name,
+                "Article_link": article_url,
+                "Country": country
+            })
+
+    # **🔹 Append New Articles to JSON**
+    if all_articles:
+        try:
+            with open(output_json_path, "r", encoding="utf-8") as f:
+                existing_articles = json.load(f)
+        except (FileNotFoundError, json.JSONDecodeError):
+            existing_articles = []
+
+        combined_articles = existing_articles + all_articles  
+
+        with open(output_json_path, "w", encoding="utf-8") as f:
+            json.dump(combined_articles, f, indent=4, ensure_ascii=False)
+
+        print(f"✅ Successfully saved {len(all_articles)} extracted articles to {output_json_path}\n")
+    else:
+        print("✅ No new articles to save. Everything was already processed.\n")
+
 if __name__ == "__main__":
     main()

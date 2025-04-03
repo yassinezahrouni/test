@@ -1,0 +1,283 @@
+{
+    "Global_Supply_Chain_Risks": [
+      {
+        "Risk_Category": "Political Risk & Political Instability",
+        "Detailed_Causes": [
+          "Terrorism",
+          "War",
+          "Society issues",
+          "Tariff changes",
+          "Political policy shifts",
+          "Economic crises",
+          "Unrest",
+          "Civil conflicts",
+          "Regime changes",
+          "Corruption",
+          "Coups",
+          "Trade policy uncertainty",
+          "Sanctions",
+          "Government interventions",
+          "Political violence"
+        ],
+        "Detailed_Impacts": [
+          "Supply disruptions",
+          "Increased operational costs",
+          "Uncertainty in sourcing locations",
+          "Shipment delays",
+          "Disruptions in trade routes",
+          "Increased costs due to trade restrictions",
+          "Contractual violations",
+          "Investment uncertainty",
+          "Reduced supplier reliability",
+          "Difficulty in cross-border shipping"
+        ]
+      },
+      {
+        "Risk_Category": "Environmental Risk & Natural Disasters",
+        "Detailed_Causes": [
+          "Tsunamis",
+          "Hurricanes",
+          "Earthquakes",
+          "Floods",
+          "Cyclones",
+          "Fires",
+          "Obsolescence",
+          "Nuclear events",
+          "Ecological catastrophes",
+          "Sustainability challenges",
+          "Droughts",
+          "Extreme weather",
+          "Climate change effects",
+          "Rising sea levels",
+          "Industrial environmental impacts"
+        ],
+        "Detailed_Impacts": [
+          "Destruction of infrastructure and tangible assets",
+          "Production and distribution delays",
+          "Decreased efficiency",
+          "Increased unforeseen costs",
+          "Longer lead times",
+          "Poor customer satisfaction",
+          "Employment cuts",
+          "Disruption of raw material supply",
+          "Higher disaster recovery expenses"
+        ]
+      },
+      {
+        "Risk_Category": "Financial Risk",
+        "Detailed_Causes": [
+          "Accounting issues",
+          "Financial disclosure problems",
+          "Loan issues",
+          "Yield fluctuations",
+          "Asset depreciation",
+          "Price volatility",
+          "Inflation",
+          "Insurance costs",
+          "Economic downturns",
+          "Budgeting issues",
+          "Credit crunch",
+          "Transaction failures",
+          "Profit fluctuations",
+          "Bankruptcy",
+          "Capital issues",
+          "Financial instrument risks"
+        ],
+        "Detailed_Impacts": [
+          "Supplier insolvency",
+          "Raw material price volatility",
+          "Increased operational costs",
+          "Production delays",
+          "Reduced credit availability",
+          "Disruptions in fulfillment",
+          "Higher risks in contracts",
+          "Delayed or halted investment projects"
+        ]
+      },
+      {
+        "Risk_Category": "Supply & Demand Risk",
+        "Detailed_Causes": [
+          "Demand fluctuations",
+          "Shortages",
+          "Scarce resources",
+          "Inventory mismatches",
+          "Retailer issues",
+          "Substitute product disruptions",
+          "Source unavailability",
+          "Overstocking",
+          "Supplier reliability issues",
+          "Unavailability of raw materials",
+          "Geopolitical instability affecting sourcing"
+        ],
+        "Detailed_Impacts": [
+          "Lost sales from stockouts",
+          "Increased inventory carrying costs",
+          "Inefficient resource allocation",
+          "Production inefficiencies",
+          "Price volatility in materials",
+          "Longer production lead times",
+          "Disrupted market responsiveness"
+        ]
+      },
+      {
+        "Risk_Category": "Logistic Risk & Transportation Issues",
+        "Detailed_Causes": [
+          "Poor coordination among supply chain partners",
+          "Low transportation capacity",
+          "Inadequate infrastructure",
+          "Ineffective routing",
+          "Insufficient capacity",
+          "Transportation delays",
+          "Vehicle suitability problems",
+          "Journey-time unpredictability",
+          "Road condition issues",
+          "Unreliable transportation services",
+          "Bullwhip effect",
+          "Warehouse management problems"
+        ],
+        "Detailed_Impacts": [
+          "Higher transportation costs",
+          "Extended lead times",
+          "Delays in product deliveries",
+          "Disrupted production schedules",
+          "Poor customer satisfaction",
+          "Inventory damages and losses",
+          "Increased uncertainty in supply chain management",
+          "Inefficiencies in inventory and warehouse operations"
+        ]
+      },
+      {
+        "Risk_Category": "System Risk",
+        "Detailed_Causes": [
+          "Lack of macro/micro visibility",
+          "Poor network integration",
+          "Transparency issues",
+          "Unreliable partnerships",
+          "Competitor disruptions",
+          "Uncertainty in supply networks",
+          "Inadequate supply chain resilience",
+          "Trust issues",
+          "Horizontal integration problems"
+        ],
+        "Detailed_Impacts": [
+          "Planning difficulties",
+          "Cascading disruptions",
+          "Reduced ability to detect/respond to risks",
+          "Increased operational uncertainty",
+          "Delays in operations",
+          "Reduced supplier reliability",
+          "Potential for sudden and large-scale disruptions"
+        ]
+      },
+      {
+        "Risk_Category": "Operational Risk",
+        "Detailed_Causes": [
+          "Low utilization rates",
+          "Capacity constraints",
+          "Inefficient operations",
+          "Scheduling issues",
+          "Poor organizational structure",
+          "Aging or insufficient infrastructure",
+          "Safety concerns",
+          "Employee/employer dissatisfaction",
+          "Labor strikes",
+          "Quality control problems",
+          "Cost overruns",
+          "Technology inefficiencies",
+          "Informational bottlenecks",
+          "Process disruptions",
+          "Operational bottlenecks",
+          "Labor dissatisfaction"
+        ],
+        "Detailed_Impacts": [
+          "Increased production costs",
+          "Frequent production delays",
+          "Reduced operational efficiency",
+          "Compromised product quality",
+          "Compliance violations",
+          "Safety incidents",
+          "Reduced competitiveness",
+          "Higher overheads",
+          "Loss of skilled labor",
+          "Difficulty meeting production targets"
+        ]
+      },
+      {
+        "Risk_Category": "Technology Breakdown",
+        "Detailed_Causes": [
+          "Cybersecurity threats (hacking, ransomware)",
+          "Hardware/software failures",
+          "Inadequate data storage",
+          "Human errors",
+          "Inadequate process integration",
+          "Lack of visibility",
+          "Poor communication",
+          "Inaccurate data interchange",
+          "Lack of technological standards",
+          "Insufficient security",
+          "Outdated technology",
+          "System crashes",
+          "Poor IT infrastructure"
+        ],
+        "Detailed_Impacts": [
+          "Loss of critical data",
+          "Increased downtime",
+          "Delayed order processing",
+          "Compromised customer information",
+          "Operational inefficiencies",
+          "Financial losses due to cyber incidents",
+          "Poor supply chain visibility",
+          "Damaged reputation",
+          "Increased costs from recovery efforts"
+        ]
+      },
+      {
+        "Risk_Category": "Labor Shortage",
+        "Detailed_Causes": [
+          "Lack of skilled workers",
+          "Demographic shifts (aging workforce)",
+          "Insufficient incentives for employees",
+          "Reduced migration",
+          "Automation-driven displacement",
+          "Recruitment difficulties",
+          "Shortage of trained professionals",
+          "Reduced availability of labor post-pandemic"
+        ],
+        "Detailed_Impacts": [
+          "Reduced production capacities",
+          "Increased labor costs",
+          "Prolonged operational disruptions",
+          "Lower productivity",
+          "Slower production processes",
+          "Increased overtime and hiring expenses",
+          "Inability to meet market demands"
+        ]
+      },
+      {
+        "Risk_Category": "Regulatory Changes",
+        "Detailed_Causes": [
+          "New safety criteria",
+          "Environmental laws (emission standards, sustainability regulations)",
+          "Tariffs and trade restrictions",
+          "Mandatory country-of-origin labels",
+          "Food safety standards",
+          "Pharmaceutical compliance",
+          "Automotive and aerospace regulations",
+          "GDPR compliance",
+          "Healthcare regulations",
+          "RoHS directive compliance",
+          "Labor legislation adjustments"
+        ],
+        "Detailed_Impacts": [
+          "Increased costs for regulatory compliance",
+          "Disruption to existing supplier relationships",
+          "Delays in manufacturing/distribution",
+          "Difficulty sourcing substitute suppliers",
+          "Increased operational complexity",
+          "Potential for fines/legal penalties",
+          "Forced changes in supply chain setup"
+        ]
+      }
+    ]
+  }
+  

@@ -1,83 +1,98 @@
-import os
-from datetime import datetime
-from newspaper import Source
-import warnings
+import requests
+from urllib.parse import urlparse
 import pandas as pd
 
-# Suppress specific warnings
-warnings.filterwarnings("ignore", category=FutureWarning, module="newspaper")
+# Your News API key
+API_KEY = "AIzaSyBo03D2rKdBJRfUsL9GvyRcWzDoxIMfCdg"  # Replace with your API key
+CX = "9725ead1807594275"
 
-def process_articles(url, folder_path="./NewsData/NewsData_withDate"):
+# Define the Excel file path
+excel_file = "/Users/yassinezahrouni/coding/test/CountryIndexes/DB_SupplyChain_MA.xlsx"
 
-    #Process articles from a given newspaper URL, saving today's articles to a file.
+# Get the data from the DB & Read the sheets for suppliers
+suppliers_df = pd.read_excel(excel_file, sheet_name="Suppliers", engine="openpyxl")
 
-    #Args:
-     #   url (str): The URL of the newspaper.
-      #  folder_path (str): The folder path to save the articles file.
+# Existing domains to exclude
+exclude_domains = ["x.com", "facebook.com", "instagram.com", "tiktok.com", "linkedin.com", "reddit.com", "pinterest.com", "wikipedia.org", "youtube.com"]
 
-    #Returns:
-     #   None
-    try:
-        # Initialize the newspaper source
-        paper = Source(url)
-        paper.build()
+# Search configuration for supplier-related news
+country_code = "US"   # United States
+language_code = "en"   # English
 
-        # Automatically identify the newspaper name using the 'brand' attribute
-        newspaper_name = paper.brand
 
-        # Store today's date for filtering and file naming
-        today = datetime.now().date()
-        today_str = today.strftime("%Y-%m-%d")  # Format date as YYYY-MM-DD
+def get_base_domain(url):
+    parsed_url = urlparse(url)
+    netloc = parsed_url.netloc
+    if '.' in netloc:
+        return netloc.split('.')[-2] + '.' + netloc.split('.')[-1]  # Get the main domain
+    return netloc
 
-        # Ensure the folder exists
-        os.makedirs(folder_path, exist_ok=True)
 
-        # Define the file name
-        file_name = f"Articles_{today_str}.csv"
-        file_path = os.path.join(folder_path, file_name)
+def get_company_domains(company_name, api_key, cx):
+    search_query = f"{company_name} official website"
+    base_url = 'https://www.googleapis.com/customsearch/v1'
+    params = {
+        'q': search_query,
+        'cx': cx,
+        'key': api_key,
+        'num': 10,
+        'hl': language_code,  # Set language
+        'gl': country_code  # Set region
+    }
+    response = requests.get(base_url, params=params)
+    data = response.json()
+    domains = set()
+    if 'items' in data:
+        for item in data['items']:
+            official_url = item.get('link')
+            if official_url:
+                domain = get_base_domain(official_url).lower()
+                domains.add(domain)
+    return list(domains)
 
-        # List to store article data
-        today_articles = []
 
-        # Iterate through the articles
-        for article in paper.articles:
+def perform_search(query, cx, api_key, sort=None):
+    base_url = 'https://www.googleapis.com/customsearch/v1'
+    params = {
+        'q': query,
+        'cx': cx,
+        'key': api_key,
+        'num': 10,
+        'hl': language_code,  # Set language
+        'gl': country_code  # Set region
+    }
+    if sort:
+        params['sort'] = sort
+    response = requests.get(base_url, params=params)
+    return response.json()
 
-            try:
-                # Download and parse the article
-                article.download()
-                article.parse()
 
-                # Get the publication date
-                pub_date = article.publish_date
-                if pub_date is not None and pub_date.date() == today:  # Check if the article is from today
-                    today_articles.append({
-                        "Newspaper": newspaper_name,
-                        "Title": article.title,
-                        "Category": article.source_url,  # Assuming category can be inferred from the URL
-                        "Published Time": pub_date.strftime("%H:%M:%S"),  # Format time as HH:MM:SS
-                        "URL": article.url
-                    })
-            except Exception as e:
-                print(f"Error processing article: {e}")
+def display_results(results, supplier_name, sort_type):
+    if 'items' in results:
+        print(f'\nTop 10 news results for {supplier_name} sorted by {sort_type}:\n')
+        for item in results['items']:
+            title = item.get('title')
+            link = item.get('link')
+            snippet = item.get('snippet')
+            print(f'Title: {title}\nLink: {link}\nSnippet: {snippet}\n')
+    else:
+        print(f'No results found for {supplier_name} ({sort_type} sorting).')
 
-        # Convert articles to a DataFrame and write or append to the file
-        if today_articles:
-            articles_df = pd.DataFrame(today_articles)
-
-            if os.path.exists(file_path):
-                # Append to the file
-                articles_df.to_csv(file_path, mode='a', header=False, index=False)
-                print(f"Appended {len(today_articles)} articles from {newspaper_name} to {file_path}")
-            else:
-                # Write a new file
-                articles_df.to_csv(file_path, index=False)
-                print(f"Created {file_path} with {len(today_articles)} articles.")
-        else:
-            print("No articles were published today.")
-
-    except Exception as e:
-        print(f"Error processing URL {url}: {e}")
-
-# Example usage:
-process_articles("https://www.tunisienumerique.com")
-
+# Iterate through each supplier and perform the search
+for supplier_name in suppliers_df['name']:
+    company_domains = get_company_domains(supplier_name, API_KEY, CX)
+    supplier_exclude_domains = exclude_domains + company_domains
+    
+    # Construct the exclusion query
+    exclusion_query = ' '.join([f'-site:{domain}' for domain in supplier_exclude_domains])
+    query = f'{supplier_name} {exclusion_query}'
+    
+    # Fetch results sorted by relevance
+    relevance_results = perform_search(query, CX, API_KEY)
+    
+    # Fetch results sorted by date
+    date_results = perform_search(query, CX, API_KEY, sort='date')
+    
+    # Display results
+    display_results(relevance_results, supplier_name, 'relevance')
+    display_results(date_results, supplier_name, 'date')
