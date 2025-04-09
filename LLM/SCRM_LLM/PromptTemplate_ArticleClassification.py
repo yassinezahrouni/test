@@ -21,7 +21,7 @@ Overview_SC = (
     .merge(parts_df, on='partnumber', how='left')
 )
 
-#print(Overview_SC.columns)
+print(Overview_SC.columns)
 
 SuppliersProfileData = Overview_SC[[ 'suppliername', 'SupplierID', 'City', 'Country', 'Region/Province/State', 'Continent', 'World Region', 'Nearest Port', 'shipment_itinerarynumber']].copy()
 
@@ -49,8 +49,8 @@ ShipmentsProfileDataGrouped = ShipmentsProfileData.groupby(
 # Convert the df to CSV format as a string
 SuppliersProfiles = SuppliersProfileDataGrouped.to_csv(index=False)
 ShipmentsProfiles = ShipmentsProfileDataGrouped.to_csv(index=False)
-print('###### SUPPLIERDATA', SuppliersProfiles)
-print('###### SHIPMENTDATA', ShipmentsProfiles)
+#print('###### SUPPLIERDATA', SuppliersProfiles)
+#print('###### SHIPMENTDATA', ShipmentsProfiles)
 
 # Input news article instance
 from datetime import datetime
@@ -58,8 +58,9 @@ from datetime import datetime
 # News_article_ID, News_article = Pull_News_article(today)
 
 # Example: Assume you have pulled the news article ID and article text as follows:
-News_article_ID = "NA123"  # Example news article ID
-News_article = "major Chinese copper smelters, including Tongling Nonferrous Metals Group, initiated extensive maintenance shutdowns due to a severe shortage of copper concentrate and negative processing fees. Nearly 8% of China's total smelting capacity was taken offline, significantly higher than usual."
+News_article_ID = "NA127"  # Example news article ID
+#News_article = "major Chinese copper smelters, including Tongling Nonferrous Metals Group, initiated extensive maintenance shutdowns due to a severe shortage of copper concentrate and negative processing fees. Nearly 8% of China's total smelting capacity was taken offline, significantly higher than usual."
+News_article = "Heavy storms in the Mediterranean Sea have caused significant disruptions in maritime logistics. Several key ports along the Mediterranean, including italian and tunisian ports, have reported severe delays due to damaged infrastructure and hazardous weather conditions. This disruption is expected to affect the timely delivery of raw materials and finished goods, impacting the production schedules of industries relying on Mediterranean shipping lanes."
 
 # News_article = "major Chinese copper smelters, including Tongling Nonferrous Metals Group, initiated extensive maintenance shutdowns due to a severe shortage of copper concentrate and negative processing fees. Nearly 8% of China's total smelting capacity was taken offline, significantly higher than usual."
 
@@ -131,10 +132,15 @@ Step 2: If the article is relevant, identify the risk dimensions (e.g., location
 
 ---
 Step 3: From the provided supplier and shipment lists, identify any that could be impacted.
-- For suppliers, match by location (city or country), industry, or product category mentioned in the article.
+- For suppliers, match by:
+  1) Location (city or country) — i.e., “location-based”
+  2) Industry — i.e., “industry-based”
+  3) Product category — i.e., “product-based”
+  4) If shipments from that supplier pass through the risk area — i.e., “shipment-based”
 - For shipments, match if their origin, destination, or route segments overlaps with the regions or routes mentioned in the article.
-- Include the IDs of any suppliers or Route segments  that are even slightly potentially concerned.
-- List multiple IDs separated by a semicolon (;).
+- Include the IDs of any suppliers or Route segments that are even slightly potentially concerned.
+- In the `impacted_supplier_ids` column, annotate each ID in parentheses to clarify why it is impacted, using one of these tags: (location-based), (shipment-based), (industry-based), or (product-based). Separate multiple suppliers with semicolons (;).
+
 
 ---
 "news_article": {News_article}
@@ -167,7 +173,7 @@ genai.configure(api_key=API_KEY)
 
 # Define generation configuration
 generation_config = {
-    "temperature": 0.5,  # Controls randomness (0 = deterministic, 1 = more creative)
+    "temperature": 0.7,  # Controls randomness (0 = deterministic, 1 = more creative)
     "max_output_tokens": 4000,  # Limits the length of output
 }
 
@@ -191,10 +197,12 @@ import pandas as pd
 import os
 import io
 import re
+from datetime import datetime
 
 # Assume csv_LLM_classifier_output contains the raw output from your LLM
 raw_csv = csv_LLM_classifier_output
 
+# Remove any markdown triple backticks and extra text before/after the CSV content.
 # Remove any markdown triple backticks and extra text before/after the CSV content.
 match = re.search(r"(supply_chain_relevance.*)", raw_csv, re.DOTALL)
 if match:
@@ -220,80 +228,45 @@ if 'supply_chain_relevance' not in df.columns:
 
 df = df[df['supply_chain_relevance'].astype(str).str.lower() == "true"]
 
-# List to hold the separated rows
-separated_rows = []
+# Get today's date in desired format
+today_date = datetime.today().strftime("%Y-%m-%d")
 
-# Helper function to split route segment id into shipment itinerary and segment rank
-def split_shipment(shipment_str):
-    shipment_str = shipment_str.strip()
-    if '-' in shipment_str:
-        parts = shipment_str.rsplit('-', 1)
-        itinerary = parts[0].strip()
-        seg = parts[1].strip()
-        # Remove any leading "Seg" (case-insensitive)
-        segment = seg.lower().replace("seg", "").strip()
-        return itinerary, segment
-    else:
-        return shipment_str, ""
-
-# Process each row that is supply chain relevant and include the news article ID
+# Process each row from the raw CSV without splitting the impacted_routesegments column
+processed_rows = []
 for idx, row in df.iterrows():
+    # Build the base row data including additional info
     base_data = {
         "news_article_id": News_article_ID,
         "supply_chain_relevance": row["supply_chain_relevance"],
         "relevance_reason": row["reason"],
-        "Risk categories and potential causes": row["risk categories and potential causes"] if "risk categories and potential causes" in df.columns else ""
+        "Risk categories and potential causes": row["risk categories and potential causes"] if "risk categories and potential causes" in df.columns else "",
+        "output_date": today_date
     }
     
-    # Convert impacted_supplier_ids to string if not NaN
+    # For impacted_supplier_ids, convert to string if needed
     supplier_str = ""
     if pd.notna(row["impacted_supplier_ids"]):
         supplier_str = str(row["impacted_supplier_ids"]).strip()
         if supplier_str.lower() == "nan":
             supplier_str = ""
+    base_data["impacted_supplier_ids"] = supplier_str
     
-    # Convert impacted_routesegments to string if not NaN
+    # For impacted_routesegments, simply keep the value as is
     routeseg_str = ""
     if pd.notna(row["impacted_routesegments"]):
         routeseg_str = str(row["impacted_routesegments"]).strip()
         if routeseg_str.lower() == "nan":
             routeseg_str = ""
+    base_data["impacted_routesegments"] = routeseg_str
     
-    # Process impacted_supplier_ids: if available, split by semicolon
-    supplier_ids = []
-    if supplier_str != "":
-        supplier_ids = [s.strip() for s in supplier_str.split(";") if s.strip()]
-    
-    # Process impacted_routesegments similarly.
-    route_segments = []
-    if routeseg_str != "":
-        route_segments = [s.strip() for s in routeseg_str.split(";") if s.strip()]
-    
-    # Create separate rows for each supplier id
-    for sid in supplier_ids:
-        new_row = base_data.copy()
-        new_row["impacted_supplier_ids"] = sid
-        new_row["impacted_routesegments"] = ""
-        new_row["shipment_itinerarynumber"] = ""
-        new_row["Segment_rank"] = ""
-        separated_rows.append(new_row)
-    
-    # Create separate rows for each route segment (splitting into shipment itinerary and segment rank)
-    for segment in route_segments:
-        itinerary, seg_rank = split_shipment(segment)
-        new_row = base_data.copy()
-        new_row["impacted_supplier_ids"] = ""
-        new_row["impacted_routesegments"] = segment
-        new_row["shipment_itinerarynumber"] = itinerary
-        new_row["Segment_rank"] = seg_rank
-        separated_rows.append(new_row)
+    processed_rows.append(base_data)
 
-# Create a new DataFrame from the separated rows with the required columns
-df_separated = pd.DataFrame(separated_rows, columns=[
+# Create a new DataFrame from the processed rows with the required columns
+df_separated = pd.DataFrame(processed_rows, columns=[
     "news_article_id", "supply_chain_relevance", "relevance_reason", 
     "impacted_supplier_ids", "impacted_routesegments", 
-    "shipment_itinerarynumber", "Segment_rank",
-    "Risk categories and potential causes"
+    "Risk categories and potential causes",
+    "output_date"
 ])
 
 # Define the Excel file name
@@ -309,4 +282,3 @@ else:
 # Save the resulting DataFrame to the Excel file
 df_result.to_excel(excel_file, index=False)
 print("Data appended to Excel file:", excel_file)
-
